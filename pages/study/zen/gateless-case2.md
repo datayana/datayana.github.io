@@ -59,11 +59,11 @@ Oh no, you did!
 
 > __I__ am not a human being...
 
-Starting with "I", not a great start for an answer.
+Starting with "I"?  Not a great start for an answer.
 
 What does this reply indicate? The old man indeed seems to be the object of the law of cause and effect.
 
-Would he answer __this__ question if he was enlightened?
+Would he utter an answer to this question if he was enlightened?
 
 > One day __a monk asked me__, 'Does an enlightened person fall under the law of cause and effect or not?' ...
 
@@ -77,11 +77,11 @@ Someone asking you a question does not mean you have to answer.
 
 > 'Such a person does not fall under the law of cause and effect.'
 
-A wrong question leads to a wrong answer.
+A wrong question leads to a wrong answer?
 
 > With this I was reborn five hundred times as a fox.
 
-But... _"You said one doesn't fall into cause and effect."_
+Well of course, you __did__ say _"such a person does not fall into cause and effect."_
 
 > Huang-po stepped forward and said, "As you say, the old man missed the turning word and was reborn as a fox five hundred times. What if he had given __the right answer__ each time he was asked a question -- what would have happened then?"
 
@@ -96,7 +96,7 @@ It seems better to just not answer anything at all.
 
 > Making his bows he said, "I am released from the body of a fox. The body is __on the other side of this mountain__.
 
-I bet the other side of __this__ mountain is facing north.
+I bet the other side of __that__ mountain is facing north.
 
 > After the meal, Paichang led the monks to the foot of a rock __on the far side of the mountain__. And there, with his staff, he poked out the body of a dead fox. He then __performed the ceremony of cremation__.
 
@@ -110,11 +110,11 @@ Old Paichang does not belong to the same side of the mountain, still he deserves
 >
 > Hearing this, the old man __immediately was enlightened__. Making his bows he said, "I am released from the body of a fox."
 
-So, on *this* side of the mountain, you can get enlightened suddenly. Looks like old Paichang has been stuck on the other side for a long time.
+So, on *this* side of the mountain, you can get enlightened like that? Looks like old Paichang has been stuck on the other side for way too long.
 
 > Huang-po stepped forward and said, "As you say, the old man missed the turning word and was reborn as a fox five hundred times. What if he had given __the right answer__ each time he was asked a question -- what would have happened then?"
 
-Could you really do that? Answer correctly to this hard question even the very first time you're being asked? Is answering wrongly a natural step for someone on the path to enlightenment?
+Could you really do that? Answer such a hard question correctly on your first try? Or is it expected that you'll fail first, until you know how to answer?
 
 > Paichang said, "Just step here closer, and I'll tell you." Huang-po went up to Paichang and __slapped him in the face__.
 
@@ -129,13 +129,13 @@ How many times does one have to answer that question to finally reach enlightenm
 
 > Hearing this, the old man immediately was enlightened. Making his bows he said, "I am released from the body of a fox. The body is on the other side of this mountain. I wish to make a request of you. __Please__, Abbot, __perform my funerals as for a priest__."
 
-Ritual and liturgy, is that the answer to the question?
+Ritual and liturgy, could this be an answer to the question?
 
 Why does old Paichang even request a funeral? What's the purpose of it?
 
 > "There, with his staff, he poked out the body of a dead fox. He then performed __the ceremony of cremation__."
 
-Why would there be anything to do with the fox's body? What does it __do__ to cremate it? What does it accomplish?
+Why would there be anything to do with the fox's _body_? What does it actually __do__ to cremate it?
 
 
 ## A read about cause and effects
@@ -158,7 +158,7 @@ What has old Paichang done to receive this fruit and live five hundred lives as 
 
 > The old man replied, "I am not a human being. __In the far distant past__, in the time of Kasyapa Buddha, __I was__ head priest at this mountain.
 
-This is so far in the past, how could there be anything left from the "I" that __was__.  
+This is so far in the past, how could there be anything left from the "I" that __was__?  
 
 > "Please say a __turning point__ for me [...] Hearing this, the old man __immediately was enlightened__."
 
