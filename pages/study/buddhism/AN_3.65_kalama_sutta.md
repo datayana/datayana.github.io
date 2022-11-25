@@ -2,105 +2,189 @@
 
 This page presents an analysis and commentary on the Kesaputtiya Sutta, more widely known as the Kalama Sutta. This piece of scripture has often been used in texts introducing Buddhism under a modernist perspective. We'd like to deep dive into this text and relate it to popular interpretations of it.
 
-## The test of the Sutta itself
+## The text of the Sutta itself
 
 - English: **Aṅguttara Nikāya / The Book of the Threes / 65. Kesaputtiya** [suttacentral.net/en/an3.65](https://suttacentral.net/en/an3.65)
 - Pali: **Aṅguttara Nikāya 3 / 7. Mahāvagga / 65. Kesamuttisutta** [suttacentral.net/pi/an3.65](https://suttacentral.net/pi/an3.65)
 
-> _© Bhikkhu Bodhi, The Numerical Discourses of the Buddha (Wisdom Publications, 2012). This excerpt from The Numerical Discourses of the Buddha by [Bhikkhu Bodhi](http://www.wisdompubs.org/author/bhikkhu-bodhi) is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported](http://creativecommons.org/licenses/by-nc-nd/3.0/deed.en_US) License. Based on the work [The Numerical Discourses of the Buddha](http://www.wisdompubs.org/book/numerical-discourses-buddha) at Wisdom Publications. Permissions beyond the scope of this license may be available at [Wisdom Publications](http://www.wisdompubs.org/terms-use). Prepared for [SuttaCentral](suttacentral.net) by Blake Walsh._
+## How is the Kalama Sutta spoken about?
 
-On one occasion the Blessed One was wandering on tour among the Kosalans together with a large Saṅgha of monks when he reached the town of the Kālāmas named Kesaputta. The Kālāmas of Kesaputta heard: “It is said that the ascetic Gotama, the son of the Sakyans who went forth from a Sakyan family, has arrived at Kesaputta. Now a good report about that Master Gotama has circulated thus: ‘That Blessed One is an arahant, perfectly enlightened … \[_as in 3:63_\] … and reveals a spiritual life that is perfectly complete and pure.’ Now it is good to see such arahants.”
+In this section, we examine some references to the Sutta by Buddhists authors or scholars. **Highlights** are from us.
 
-Then the Kālāmas of Kesaputta approached the Blessed One. Some paid homage to the Blessed One and sat down to one side … \[_as in 3:63_\] … some kept silent and sat down to one side. Sitting to one side, the Kālāmas said to the Blessed One:
+### Thanissaro Bhikkhu, 1994
 
-“Bhante, there are some ascetics and brahmins who come to Kesaputta. They explain and elucidate their own doctrines, but disparage, denigrate, deride, and denounce the doctrines of others. But then some other ascetics and brahmins come to Kesaputta,
-and they too explain and elucidate their own doctrines, but disparage, denigrate, deride, and denounce the doctrines of others. We are perplexed and in doubt, Bhante, as to which of these good ascetics speak truth and which speak falsehood.”
+Kalama Sutta: To the Kalamas, translated from the Pali by Thanissaro Bhikkhu, 1994 \[[accesstoinsight.org]\](https://www.accesstoinsight.org/tipitaka/an/an03/an03.065.than.html)
 
-“It is fitting for you to be perplexed, Kālāmas, fitting for you to be in doubt. Doubt has arisen in you about a perplexing matter. Come, Kālāmas, do not go by oral tradition, by lineage of teaching, by hearsay, by a collection of scriptures, by logical reasoning, by inferential reasoning, by reasoned cogitation, by the acceptance of a view after pondering it, by the seeming competence of a speaker, or because you think: ‘The ascetic is our guru.’ But when, Kālāmas, you know for yourselves: ‘These things are unwholesome; these things are blameworthy; these things are censured by the wise; these things, if accepted and undertaken, lead to harm and suffering,’ then you should abandon them.
+_Although this discourse is often cited as the Buddha's carte blanche for following one's own sense of right and wrong, it actually says something much more rigorous than that. **Traditions are not to be followed simply because they are traditions**. Reports (such as historical accounts or news) are not to be followed simply because the source seems reliable. One's own preferences are not to be followed simply because they seem logical or resonate with one's feelings. Instead, **any view or belief must be tested** by the results it yields when put into practice; and — to guard against the possibility of any bias or limitations in one's understanding of those results — they **must further be checked against the experience of people who are wise**._
 
-(1) “What do you think, Kālāmas? When greed arises in a person, is it for his welfare or for his harm?”
+### Soma Thera, 1994
 
-“For his harm, Bhante.”
+Soma Thera, _Kalama Sutta - The Buddha's Charter of Free Inquiry_, 1994 \[[accesstoinsight.org](https://www.accesstoinsight.org/lib/authors/soma/wheel008.html)]
 
-“Kālāmas, a greedy person, overcome by greed, with mind obsessed by it, destroys life, takes what is not given, transgresses with another’s wife, and speaks falsehood; and he encourages others to do likewise. Will that lead to his harm and suffering for a long time?”
+_The instruction of the Kalamas (Kalama Sutta) is justly famous for its **encouragement of free inquiry**; the spirit of the sutta signifies a **teaching that is exempt from fanaticism, bigotry, dogmatism, and intolerance**._  
+_[...] Here it may be mentioned that the methods of examination in the Kalama Sutta and in the extracts cited here, have sprung from the knowledge of things as they are and that the tenor of these methods are implied in all straight thinking. Further, as penetration and comprehension, the constituents of wisdom are the result of such thinking, the place of **critical examination and analysis** in the development of right vision is obvious._  
+_[...] More than fifty years ago, Moncure D. Conway, the author of "My Pilgrimage to the Wise Men of the East," visited Colombo. He was a friend of Ponnambalam Ramanathan (then Solicitor General of Ceylon), and together with him Conway went to the Vidyodaya Pirivena to learn something of the Buddha's teaching from Hikkaduve Siri Sumangala Nayaka Thera, the founder of the institution. The Nayaka Thera explained to them the principles contained in the Kalama Sutta and at the end of the conversation Ramanathan whispered to Conway: "Is it not strange that you and I, who come from far different religions and regions, should together listen to **a sermon from the Buddha in favor of that free thought**, that independence of traditional and fashionable doctrines, which is still the vital principle of human development?" — Conway: "Yes, and we with the (Kalama) princes pronounce his doctrines good."_
 
-“Yes, Bhante.”
+### Bhikkhu Bodhi, 1998
 
-(2) “What do you think, Kālāmas? When hatred arises in a person, is it for his welfare or for his harm?”
+Bhikkhu Bodhi, A Look at the Kalama Sutta, 1998 \[[accesstoinsight.org](https://www.accesstoinsight.org/lib/authors/bodhi/bps-essay_09.html)]
 
-“For his harm, Bhante.”
+> **On the basis of a single passage, quoted out of context, the Buddha has been made out to be a pragmatic empiricist who dismisses all doctrine and faith**, and whose Dhamma is simply a freethinker's kit to truth which invites each one to accept and reject whatever he likes.
+> [...] Now this passage, like everything else spoken by the Buddha, has been stated in a specific context — with a particular audience and situation in view — and thus must be understood in relation to that context.
+> [...] From the subsequent development of the sutta, it is clear that **the issues that perplexed [the Kalamas] were the reality of rebirth and kammic retribution** for good and evil deeds.
+> [...] He next speaks the passage quoted above, advising the Kalamas to abandon those things they know for themselves to be bad and to undertake those things they know for themselves to be good. This advice can be dangerous if given to those whose ethical sense is undeveloped, and we can thus assume that the Buddha regarded the Kalamas as people of refined moral sensitivity.
+> [...] the Kalamas, at the start of the discourse, were not the Buddha's disciples. They approached him merely as a counselor who might help dispel their doubts [...] Because the Kalamas had not yet come to accept the Buddha in terms of his unique mission, as the discloser of the liberating truth, it would not have been in place for him to expound to them the Dhamma unique to his own Dispensation: such teachings as the Four Noble Truths, the three characteristics, and the methods of contemplation based upon them.
+> [...] Thus the discourse to the Kalamas offers an acid test for gaining confidence in the Dhamma as a viable doctrine of deliverance. We begin with an immediately verifiable teaching whose validity can be attested by anyone with the moral integrity to follow it through to its conclusions, namely, that the defilements cause harm and suffering both personal and social, that their removal brings peace and happiness, and that the practices taught by the Buddha are effective means for achieving their removal. By putting this teaching to a personal test, with only a provisional trust in the Buddha as one's collateral, one eventually arrives at a firmer, experientially grounded confidence in the liberating and purifying power of the Dhamma. This increased confidence in the teaching brings along a deepened faith in the Buddha as teacher, and thus disposes one to accept on trust those principles he enunciates that are relevant to the quest for awakening, even when they lie beyond one's own capacity for verification. This, in fact, marks the acquisition of right view, in its preliminary role as the forerunner of the entire Noble Eightfold Path.
+> [...] Partly in reaction to dogmatic religion, partly in subservience to the reigning paradigm of objective scientific knowledge, it has become fashionable to hold, by appeal to the Kalama Sutta, that the Buddha's teaching dispenses with faith and formulated doctrine and asks us to accept only what we can personally verify. This interpretation of the sutta, however, forgets that the advice the Buddha gave the Kalamas was contingent upon the understanding that they were not yet prepared to place faith in him and his doctrine; it also forgets that the sutta omits, for that very reason, all mention of right view and of the entire perspective that opens up when right view is acquired. It offers instead the most reasonable counsel on wholesome living possible when the issue of ultimate beliefs has been put into brackets.
+> [...] What can be justly maintained is that those aspects of the Buddha's teaching that come within the purview of our ordinary experience can be personally confirmed within experience, and that this confirmation provides a sound basis for placing faith in those aspects of the teaching that necessarily transcend ordinary experience. Faith in the Buddha's teaching is never regarded as an end in itself nor as a sufficient guarantee of liberation, but only as the starting point for an evolving process of inner transformation that comes to fulfillment in personal insight.
 
-“Kālāmas, a person who is full of hate, overcome by hatred, with mind obsessed by it, destroys life … and he encourages others to do likewise. Will that lead to his harm and suffering for a long time?”
+### Rosenberg, 2006
 
-“Yes, Bhante.”
+Larry Rosenberg, _The Right to Ask Questions_, 2006 \[[accesstoinsight.org](https://www.accesstoinsight.org/lib/authors/rosenberg/righttoask.html)]
 
-(3) “What do you think, Kālāmas? When delusion arises in a person, is it for his welfare or for his harm?”
+in Three steps to awakening : a practice for bringing mindfulness to life
 
-“For his harm, Bhante.”
+https://archive.org/details/threestepstoawak0000rose/page/n9/mode/2up?q=%22kalama+sutta%22
 
-“Kālāmas, a person who is deluded, overcome by delusion, with mind obsessed by it, destroys life … and he encourages others to do likewise. Will that lead to his harm and suffering for a long time?”
 
-“Yes, Bhante.”
+_Of all the teachings of the Buddha, the Kalama Sutta is one of my favorites precisely because it **encourages such rigorous inquiry into our beliefs**. Indeed, if Buddhism were not infused with the spirit of this sutta — **a spirit of questioning, of critical examination** — I'm quite sure I would not have a meditative practice today._  
+_[...] The Kalamas of the Kalama Sutta were, like my father, a **skeptical but responsible** bunch. They were quite alive to spiritual matters, but they were overrun with teachers and teachings, each teacher competing for an audience, each propounding a different philosophy or path. Their situation was not very different from ours now._  
+_In the Kalama Sutta, **the Buddha is not saying that ancient teachings are irrelevant, or that you have to reinvent the dharma wheel** every time you think. He's not saying not to accept the guidance of teachers or not to read the scriptures. After all, how else are you going to find out what's criticized and praised by the wise? No, what he's saying is: Don't give final authority to these teachings. Don't give final authority to your own ideas. **You have to test the teachings, and your ideas, in the laboratory of your actions**._  
+_So what is the test of truth? The Buddha offers a simple formula: **Test things in terms of cause and effect. Whatever is unskillful, leading to harm and ill, should be abandoned; whatever is skillful, leading to happiness and peace, should be pursued**. Apply the test of skillfulness to all teachings in all your actions._
 
-“What do you think, Kālāmas? Are these things wholesome or unwholesome?”—“Unwholesome, Bhante.”—“Blameworthy or blameless?”—“Blameworthy, Bhante.”—“Censured or praised by the wise?”—“Censured by the wise, Bhante.”—“Accepted and undertaken, do they lead to harm and suffering or not, or how do you take it?”—“Accepted and undertaken, these things lead to harm and suffering. So we take it.”
+### Bhikkhu Buddhadasa, 1988
 
-“Thus, Kālāmas, when we said: ‘Come, Kālāmas, do not go by oral tradition … But when you know for yourselves: “These things are unwholesome; these things are blameworthy; these things are censured by the wise; these things, if undertaken and practiced, lead to harm and suffering,” then you should abandon them,’ it is because of this that this was said.
+Buddhadasa Bhikkhu, _Help! The Kalama Sutta, Help!_, 1988 \[[dhammatalks.net](https://www.dhammatalks.net/Books5/Bhikkhu_Buddhadasa_Help_The_Kalama_Sutta_Help.htm)]
 
-“Come, Kālāmas, do not go by oral tradition, by lineage of teaching, by hearsay, by a collection of scriptures, by logical reasoning, by inferential reasoning, by reasoned cogitation, by the acceptance of a view after pondering it, by the seeming competence of a speaker, or because you think: ‘The ascetic is our guru.’ But when you know for yourselves: ‘These things are wholesome; these things are blameless; these things are praised by the wise; these things, if accepted and undertaken, lead to welfare and happiness,’ then you should live in accordance with them.
+### Dalai Lama, 2017
 
-(1) “What do you think, Kālāmas? When non-greed arises in a person, is it for his welfare or for his harm?”
+Dalai Lama; Thubten Chodron (2017), Approaching the Buddhist Path, The Library of Wisdom and Compassion, Volume 1, Wisdom Publications, Chapter 6, Section "The Kālāma's Experience"
 
-“For his welfare, Bhante.”
+### Dipen Barua, 2021
 
-“Kālāmas, a person without greed, not overcome by greed, his mind not obsessed by it, does not destroy life, take what is not given, transgress with another’s wife, or speak falsehood; nor does he encourage others to do likewise.
-Will that lead to his welfare and happiness for a long time?”
+Dipen Barua, _The Kalama Sutta: The First Rationalist Buddhist Text?_, 2021 \[[buddhistdoor.net](https://www.buddhistdoor.net/features/the-kalama-sutta-the-first-rationalist-buddhist-text/)\]
 
-“Yes, Bhante.”
+> To this day, it is interpreted as a pro-skeptic, pro-rationalist text. In this sutta is a famous passage in which the Buddha argues for a rigorous questioning of religious teachings. Because of this celebrated passage, the text as a whole has been interpreted as advocating the rejection of anything that contradicts rational thought or empirical understanding, even the Buddhist teachings. Or, reframed, anything that is unseen and that cannot be empirically verified is incompatible with the Buddha’s free thinking. Therefore, teachings of the afterlife or karma are superstitious baggage that go against the “original spirit” of the Buddha’s inquiring mind.
+> Here, I hope to provide a more rigorous exegesis of the Kalama Sutta, and respond to the rationalist claim that the Kalama Sutta advocates a skeptical approach to all things: it qualitatively does not, and, in fact, the text argues precisely that a free and open mind will lead one to acceptance of the Buddhadhamma.
 
-(2) “What do you think, Kālāmas? When non-hatred arises in a person, is it for his welfare or for his harm?”
+> The Kalamas were themselves not skeptics because they lacked the knowledge to determine the veracity of a teaching. Rather, they were beset by uncertainty and confusion after encountering diverse and contradictory teachings from various gurus, brahmins, and yogis.
 
-“For his welfare, Bhante.”
+> The rationalist interpretation cherry picks from the first half of the Kalama Sutta, leaving the Kalamas narratively suspended in uncertainty and confusion. However, in the second half of the text, the Buddha provides assurance of the truth, the Dhamma. The Buddha’s unveiling to the Kalamas of the Noble Eightfold Path is the conclusion of the sutta. In a correct exegesis, the Buddha’s 10 points of skepticism are aimed directly at those who doubt his teaching. This is quite a different conclusion to the pro-agnostic, pro-skeptical position advocated by rationalists.
 
-“Kālāmas, a person who is without hate, not overcome by hatred, his mind not obsessed by it, does not destroy life … nor does he encourage others to do likewise. Will that lead to his welfare and happiness for a long time?”
+> The rationalist paradigm has dominated academic and broader globalized discourse for decades. Even the Buddhist tradition, particularly in the West after World War Two, partially conceded epistemic understanding to the scientific, empiricist worldview. Both Buddhists and rationalists have cited the Kalama Sutta as legitimizing the rationalist paradigm as an authentically Buddhist position. However, they only refer to the initial portion of the sutta, in which the Buddha states his 10 points of skepticism, while ignoring the rest. Rationalist advocates further argue that in this text, the Buddha did not say anything about an afterlife, and therefore the afterlife, at worst, does not exist, and at best, is a later superstitious accretion that can be dismissed as not belonging to “original Buddhism.”
 
-“Yes, Bhante.”
+> We now know that this understanding of early Buddhism is itself a bias shaped by scientism and Protestant-inspired prejudices that date back to early clashes between what early European and American Buddhologists saw as “Buddhist superstition” versus “true Buddhism.” The Buddha, in fact, spoke extensively not only on the subject of the afterlife, but also on rebirth, kamma, and a transcendent, unseen reality. Empiricism is only one aspect of the story—not the whole.
 
-(3) “What do you think, Kālāmas? When non-delusion arises in a person, is it for his welfare or for his harm?”
+### Bloom, XXXX
 
-“For his welfare, Bhante.”
+Alfred Bloom, _Critical Thinking in Buddhism: The Kalama Sutta_, \[[bschawaii.org](https://bschawaii.org/shindharmanet/critical/)\]
 
-“Kālāmas, a person who is undeluded, not overcome by delusion, his mind not obsessed by it, does not destroy life … nor does he encourage others to do likewise. Will that lead to his welfare and happiness for a long time?”
+> Here Gotama Buddha gives advice on how seekers should respond when they are confronted by diversity of views concerning the path to enlightenment and spiritual fulfillment, even Gotama’s. He advocates a questioning, inquiring spirit, refusing to accept anything simply based on invoking an authority.
 
-“Yes, Bhante.”
+> We are not to simply accept a surmise, something accepted as true while as yet unproven. We make surmises frequently, concluding that something is true, though we may not have all the facts or information. Such conclusions are easily shaped by prejudices and are to be questioned, even when recognized authorities assert them.
+> We are not to accept something because it is an axiom, axiomatic, that is, an unquestioned, apparently self evident, or assumed truth. To question an axiom seems to go against reason, but may be the highest reason. Many things once accepted in society as axioms, givens, such as the separation of races, male superiority, that the earth is flat, etc. have given way to questioning, resulting in the progress of society and culture.
+> Specious reasoning asserts ideas which are plausible, seemingly correct or logical but with investigation are found to be erroneous or false. They can be what we regard as half truths. Political campaigns and religious debate often employ such assertions.
 
-“What do you think, Kālāmas? Are these things wholesome or unwholesome?”—“Wholesome, Bhante.”—“Blameworthy or blameless?”—“Blameless, Bhante.”—“Censured or praised by the wise?”—“Praised by the wise, Bhante.”—“Accepted and undertaken, do they lead to welfare and happiness or not, or how do you take it?”—“Accepted and undertaken, these things lead to welfare and happiness. So we take it.”
+> As the Buddha charged his disciples at his death to be a refuge to themselves, a light for themselves, so here also the responsibility for determining the truth of your life is within yourself.
 
-“Thus, Kālāmas, when we said: ‘Come, Kālāmas, do not go by oral tradition … But when you know for yourselves: “These things are wholesome; these things are blameless; these things are praised by the wise; these things, if accepted and undertaken, lead to welfare and happiness,” then you should
-live in accordance with them,’ it is because of this that this was said.
+### CEDH, 2010
 
-“Then, Kālāmas, that noble disciple, who is thus devoid of longing, devoid of ill will, unconfused, clearly comprehending, ever mindful, dwells pervading one quarter with a mind imbued with loving-kindness … with a mind imbued with compassion … with a mind imbued with altruistic joy … with a mind imbued with equanimity, likewise the second quarter, the third quarter, and the fourth quarter. Thus above, below, across, and everywhere, and to all as to himself, he dwells pervading the entire world with a mind imbued with equanimity, vast, exalted, measureless, without enmity, without ill will.
+CEDH, _We the Sceptics, brothers of the Kalamas_ (fr trans.), 2010 \[[cedh.info](http://www.cedh.info/kalamas.htm)\]
 
-“This noble disciple, Kālāmas, whose mind is in this way without enmity, without ill will, undefiled, and pure, has won four assurances in this very life.
+> We, the Sceptics, who can have no belief, no "faith", no opinion, no certainty, there is only one Way that can satisfy us, rejoice us, the Way of the Dharma.
+> Voici le Sutta aux Kālāmā, les sceptiques du temps du Bouddha. Il montre qu’il est possible de suivre cette Voie sans aucun a priori, simplement en « voyant » les phénomènes tels qu’ils sont.
+> Le Dharma du Bouddha n’est pas une religion, ce n’est pas non plus une philosophie, à moins que l’on égale Prajñā et Sophia – elles ont en commun quelques caractères, mais ne peuvent être confondues.
+> Ce Dharma est une voie négative par excellence, une voie qui conduit à l’Absolu, qui donne accès à l’Absolu, au « sans conditions », résolvant ainsi tout problème phénoménal quelque subtil qu’il soit. En effet, toutes les difficultés humaines proviennent de l’impact des phénomènes, des apparences. Les cerveaux, informés par les sens, transforment les données sensorielles, les interprètent, concoctent des fantasmes, échafaudent des opinions, des croyances, des certitudes et vont ainsi vers l’insatisfaction, la peine, la frustration, le malheur, le mal de vivre qui accablent le « moi » illusoire construit lui-même par ces cerveaux obscurcis, par la psyché aveuglée, par le cœur obnubilé.
 
-“The first assurance he has won is this: ‘If there is another world, and if there is the fruit and result of good and bad deeds, it is possible that with the breakup of the body, after death, I will be reborn in a good destination, in a heavenly world.’
+### Dharmapala, 1892
 
-“The second assurance he has won is this: ‘If there is no other world, and there is no fruit and result of good and bad deeds, still right here, in this very life, I maintain myself in happiness, without enmity and ill will, free of trouble.
+Anagarika Dharmapala, _Life and Teachings of the Buddha_, 1892 \[[archive.org](https://archive.org/details/in.ernet.dli.2015.217594)\]]
 
-“The third assurance he has won is this: ‘Suppose evil comes to one who does evil. Then, when I have no evil intentions toward anyone, how can suffering afflict me, since I do no evil deed?’
+> Buddhism may be called the Religion of Analysis. It analyses every phase of cosmic phenomenon, the constituents that go to make up a human being, and the differentiating states of mentality; it categorizes the differentiation of Good, Evil and Neutral; it rejects every phase of superstitious belief that is based on mere tradition, speculation, revelations, magic, analogy, logic, authority, and collected discourses, and appeals to the purified heart to distinguish the good from the bad, and to avoid doing anything that is correlated with covetousness, anger and lust. All that is pure and free from covetousness, anger and lust are productive of good, and therefore to be acted upon. Such was the doctrine that the Blessed One enunciated to the chiefs of the Kalama country which is elucidated in detail in the Kalama sutta of the Anguttara Nikaya.
 
-“The fourth assurance he has won is this: ‘Suppose evil does not come to one who does evil. Then right here I see myself purified in both respects.’
 
-“This noble disciple, Kālāmas, whose mind is in this way without enmity, without ill will, undefiled, and pure, has won these four assurances in this very life.”
+### Gombrich, 1996
 
-“So it is, Blessed One! So it is, Fortunate One! This noble disciple whose mind is in this way without enmity, without ill will, undefiled, and pure,
-has won four assurances in this very life.
+Richard F. Gombrich, _How Buddhism Began_, 1996
 
-“The first assurance he has won … as above, down to: … The fourth assurance he has won is this: ‘Suppose evil does not befall the evil-doer. Then right here I see myself purified in both respects.’
+> There can be no doubt that the Buddha’s emphasis was on experience: the experience he had had himself and the experience he wanted others to have too. While he often
+appeals to reason, in the sense that he uses rational argument, the appeal to experience is even more important.
+> Modern rationalist expositors like to draw attention to the Kalama Sutta (AN III, 65, AN I, 188–193), in which the Buddha advises the Kalama clan not to accept any teaching
+merely on a teacher’s authority, but to work things out for
+themselves. 
+> However, he also proceeds to preach to them by asking them at each step whether they agree; he is appealing to their experience – we might also call it their common sense.
+> Moreover, the content of the sermon is to show that morality has practical advantages. Again, the text is pragmatic and anti-theoretical.
 
-“This noble disciple, Bhante, whose mind is in this way without enmity, without ill will, undefiled, and pure, has won these four assurances in this very life.
+TODO: "It is only in poetry, in the last two books of the
+Sutta-nipata, that the Buddha takes quietism to the point of claiming that he, or (more impersonally) the true sage, has no views (e.g. verses 787, 800, 882); and indeed it is to these poems that L.O. Gomez is referring in his article ‘Proto-Madhyamika in the Pali Canon’ (Gomez, 1976).""
 
-“Excellent, Bhante! … We go for refuge to the Blessed One, to the Dhamma, and to the Saṅgha of bhikkhus. Let the Blessed One consider us lay followers who from today have gone for refuge for life.”
+### Dipobhasdhamma, 2022
 
+Is Buddhism a Religion? Why it Matters
+by Dipobhasdhamma
+
+https://archive.org/details/is-buddhism-religion-updated/page/n7/mode/2up
+
+> When this presumed association between religion and Buddhism is scrutinized, it is not difficult to see that most of what constitutes the foundation of these arguments involves hair- splitting; selectively picking apart the teachings of the Buddha in order to find anything that is closest-to or similar-to the doctrines of the World’s religions. However, searching through the entire corpus of the Buddha’s teachings, it is difficult, to say the least, to find anything close to or similar to this worldview
+
+>  “When you know for yourselves…” meaning that each 
+individual can only verify the veracity of his 
+teachings based on one’s own direct personal 
+experience by application of his teachings. 
+
+### Weragoda Sarada Maha Thero, 1999
+
+Ven. Weragoda Sarada Maha Thero, preface to the Kalama Sutta, 1999
+
+https://archive.org/details/kalama-sutta/page/n7/mode/2up?q=%22kalama+sutta%22
+
+> In Kalama Sutta, the Buddha places the onus of decisionm fairly and squarely on the individual. But, what is remarkable about the "Kalama Declaration" of the Buddha is that in its second phase he sets up principles for the proper exercise of this individual responsibility.
+
+
+### Winston, 2003
+
+Wide awake : a Buddhist guide for teens
+by Winston, Diana
+
+https://archive.org/details/wideawakebuddhis00wins/page/22/mode/2up
+
+page 22, Kalama Sutta in a nutshel
+> Only believe something you have clearly seen for yourself to be true. If after fully examining, experiencing, and carefully considering a teaching or some advice, and you find that it leads to happiness for one and all, accept it and live up to it.
+
+### Gopalakrishna, 2006
+
+Buddhism and contemporary management : with special reference to Vipassana meditation
+https://archive.org/details/buddhismcontempo0000gopa/page/36/mode/2up?q=%22kalama+sutta%22
+
+> It can be seen from the Kalama Sutta that the Buddha calls for free and total investigation. It is no exxageration if we say that Buddhism about 2500 years ago had the best ideas, thoughts, techniques and methods for the development of the modern organizations and solutions for the managerial problems and conflicts.
+
+> In Kalama Sutta, the Buddha emphatically says : that “Do not believe in anything (simply) because you have heard | it. Do not believe in traditions because they have been handed down for many generations. Do not believe in anything (simply) because it is found and written in your religious books. But after observation and analysis, when you find that anything agrees with reason and conducive to the good and benefit of one and all, then accept it and live up to it.? Management also a systemized body of knowledge is aimed at transforming the inputs into outputs through positive behaviour, adopting systems and standards. The management process of planning, organizing, staffing, co-ordinating is a systematic design to achieve the goals of the organizations.
+
+
+### Unsure
+
+https://sasanarakkha.org/2005/03/13/kalama-sutta/
+
+https://newbuddhist.com/discussion/10162/implications-of-the-kalama-suttra-for-modern-buddhism
+
+https://buddhism-guide.com/kalama-sutra/
+
+http://tibetanbuddhistencyclopedia.com/en/index.php/Buddhism_and_Science:_Probing_the_Boundaries_of_Faith_and_Reason
+
+### TODO
+
+Thanissaro Bhikkhu
+The ability to question and test one's beliefs in an appropriate way is called appropriate attention. The ability to recognize and choose wise people as mentors is called having admirable friends. According to Iti 16-17, these are, respectively, the most important internal and external factors for attaining the goal of the practice. For further thoughts on how to test a belief in practice, see MN 61, MN 95, AN 7.79, and AN 8.53. For thoughts on how to judge whether another person is wise, see MN 110, AN 4.192, and AN 8.54.
+
+
+Soma Thera
+TODO: references Samyuttanikaya, Nidanavagga, Mahavagga, Sutta No. 8
+
+"Friend Savittha, apart from faith, apart from liking, apart from what has been acquired by repeated hearing, apart from specious reasoning, and from a bias towards a notion that has been pondered over, I know this, I see this: 'Decay and death are due to birth.'"
+
+TODO: Samyuttanikaya, Salyatanavagga, Navapuranavagga, Sutta No. 8
+
+"Bhikkhus, this even is the way by which a bhikkhu, apart from faith, liking, what has been acquired by repeated hearing, specious reasoning, or a bias towards a notion that has been pondered over, declares realization of knowledge thus: I know that birth has been exhausted, the celibate life has been lived, what must be done has been done and there is no more of this to come."
 
 ## Textual patterns and matikas
 
@@ -260,7 +344,6 @@ Considering the suttas related to the first pattern, this could be another expre
 
 - B. Bodhi, _A look at the Kalama sutta_, 1998 \[[accesstoinsight.org](https://www.accesstoinsight.org/lib/authors/bodhi/bps-essay_09.html)\]
 - _The (In)famous Kālāmā Sutta (podcast)_, 2013 \[[simplesuttas](https://simplesuttas.wordpress.com/2013/08/29/the-infamous-kalama-sutta/)\]
-- Gombrich, How Buddhism Began, 1996, especially pp 128-29
 - Visuddhimaga 676, Nineteen types of reviewing knowledge
 - Nanamoli, Path of Purification, p 22:19-21
 
@@ -320,7 +403,7 @@ Savittha asks Musila the following question:
 
 > Friend Musila, apart from faith, apart from personal preference, apart from oral tradition, apart from reasoned reflexion, apart from acceptance of a view after pondering it, does the Venerable Musila have personal knowledge thus: 'With birth as condition, aging-and-death [comes to be]?' [B. Bodhi, SN, p. 612]
 
-This unfolds along the list of factors of dependent origination. And the final point is Savittha saying "I know this, I see this: 'Nibbana is the cessation of existence'". To that sentence, Musila concludes that Savittha is an Arahant.
+This unfolds along the list of factors of dependent origination. And the final point is Savittha saying "I know this (TODO: which "know" here?), I see this: 'Nibbana is the cessation of existence'". To that sentence, Musila concludes that Savittha is an Arahant.
 
 But Narada interrupts. And an exchange of the same kind unfolds into a discussion on the point that it is not enough to know and see 'Nibbana is the cessation of existence' to be an arahant. That one needs also to extinguish all taints related to this view, to make "bodily contact" with this truth (use of a simile).
 
@@ -331,6 +414,7 @@ In his notes, B.Bodhi points to a discussion on the "five grounds for the accept
 - reasoned reflexion [ākāraparivitakkā]
 - acceptance of a view after pondering itth [diṭṭhinijjhānakkhanti]
 
+TODO: See Gombrich, How Buddhism Began, 1996, pp 128-29
 
 #### SN35.153 - 153. Atthi­nu­kho­pariyā­ya­sutta [[link](https://suttacentral.net/pi/sn35.153/)]
 
@@ -466,3 +550,9 @@ Matches(d=2,o=2): ~~[anussavena]~~, [paramparāya], ~~[itikirāya]~~, [piṭakas
 
 **Paragraph [{'class': ['sc'], 'id': '3'}, {'class': ['pts'], 'id': 'pts75'}, {'class': ['ms'], 'id': 'p_27Pe_449'}]**
 > yathā bhagavā kilese ādimhi tattha deseti. kiṃ desitaṃ? tesaṃ kilesānaṃ pahānaṃ udāhu no desitanti upaparikkhitabbaṃ. yadi na desitaṃ bhagavati tesaṃ kilesānaṃ pahānaṃ kusalā dhammā pariyesitabbā; yattha te akusalā pahānaṃ gacchanti. sace samannehamāno na labhati. tattha akusalā dhammā apakaḍḍhitabbā vīmaṃsitabbā, saṃkilesabhāgiyasuttaṃ, yadi kilesā apakaḍḍhiyantā. ye vā na denti tattha upaparikkhitabbā ariyamaggadhammā tāsu bhūmīsu kilesā pahānaṃ gacchanti, udāhu na gacchantīti. yattakā pana kilesā desitā. na tattakā ariyadhammā desitā. yattha kilesā pahānaṃ gacchanti, tattha ye kilesā ariyadhammānaṃ paṭipakkhena na yujjanti, te apakaḍḍhitabbā, sace apakaḍḍhiyantā yojanaṃ deti. tattha evaṃ vīmaṃsitabbaṃ. dve tīṇi vā taduttari vā kilesā ekena ariyamaggena pahānaṃ gacchantīti. sace evaṃ vīmaṃsiyantā yojanaṃ deti, tattha upaparikkhitabbaṃ. **paramparāya** vā **piṭakasampadānena** vā suttassa attho ca nattho ca. yaṃ vā na sakkā suttaṃ niddisituṃ neva suttaṃ vicikicchitabbaṃ. evaṃ yathā ādimhi kusalā dhammā honti. ye kilesā te pahīneyyāti. te upaparikkhitabbā. puro vā kusalo paṭipakkhena vā puro desanā, anūnā anadhikā uggahetabbā. yathā paṭhamo uttilo yesamidāni kilesānaṃ ye ariyadhammā desitā ime kilesā imehi ariyadhammehi pahīyanti, udāhu nappahīyantīti vicinitabbā. yadi upaparikkhiyamānā yujjanti, gahetabbā. atha na yujjanti, ye kilesā apaṭipakkhā honti, te kilesā aparipakkhitabbā. ye ca ariyadhammā paṭipakkhā honti, te ariyadhammā apakaḍḍhitabbā. na hi ariyadhammā anāgāmikilesappahānaṃ gacchanti, nāpi ariyadhammā sabbakilesānaṃ pahānāya saṃvattanti. yathā kusalā mettā akusalo rāgo na tu kusalā mettāti kāretvā akusalassa rāgassa pahānāya sambhavati byāpādo mettāya pahānaṃ gacchati. tasmā ubho kilesā upaparikkhitabbā. yo yo ca dhammo upadisiyati kusalo vā akusalo vā so apakaḍḍhitabbo. sace te yujjanti apakaḍḍhiyamāno natthi upaparikkhitabbaṃ. dve vā kilesā ekena ariyadhammena pahīneyyāti dvīhi vā ariyadhammehi eko vā kileso pahīyatīti.
+
+## Iti
+
+https://www.accesstoinsight.org/tipitaka/kn/iti/iti.1.001-027.than.html#iti-016
+
+MN 2 lists the following questions as not fit for attention: "Was I in the past? Was I not in the past? What was I in the past? How was I in the past?... Shall I be in the future? Shall I not be in the future? What shall I be in the future? How shall I be in the future?... Am I? Am I not? What am I? How am I? Where has this being come from? Where is it bound?" The discourse also lists the following issues as fit for attention: "This is stress. This is the origination of stress. This is the cessation of stress. This is the way leading to the cessation of stress."
