@@ -13,13 +13,13 @@ In this section, we examine some references to the Sutta by Buddhists authors or
 
 ### Thanissaro Bhikkhu, 1994
 
-Kalama Sutta: To the Kalamas, translated from the Pali by Thanissaro Bhikkhu, 1994 \[[accesstoinsight.org]\](https://www.accesstoinsight.org/tipitaka/an/an03/an03.065.than.html)
+Thanissaro Bhikkhu, "Kalama Sutta: To the Kalamas", 1994 \[[accesstoinsight.org](https://www.accesstoinsight.org/tipitaka/an/an03/an03.065.than.html)\]
 
 _Although this discourse is often cited as the Buddha's carte blanche for following one's own sense of right and wrong, it actually says something much more rigorous than that. **Traditions are not to be followed simply because they are traditions**. Reports (such as historical accounts or news) are not to be followed simply because the source seems reliable. One's own preferences are not to be followed simply because they seem logical or resonate with one's feelings. Instead, **any view or belief must be tested** by the results it yields when put into practice; and — to guard against the possibility of any bias or limitations in one's understanding of those results — they **must further be checked against the experience of people who are wise**._
 
 ### Soma Thera, 1994
 
-Soma Thera, _Kalama Sutta - The Buddha's Charter of Free Inquiry_, 1994 \[[accesstoinsight.org](https://www.accesstoinsight.org/lib/authors/soma/wheel008.html)]
+Soma Thera, "Kalama Sutta - The Buddha's Charter of Free Inquiry", 1994, \[[accesstoinsight.org](https://www.accesstoinsight.org/lib/authors/soma/wheel008.html)\]
 
 _The instruction of the Kalamas (Kalama Sutta) is justly famous for its **encouragement of free inquiry**; the spirit of the sutta signifies a **teaching that is exempt from fanaticism, bigotry, dogmatism, and intolerance**._  
 _[...] Here it may be mentioned that the methods of examination in the Kalama Sutta and in the extracts cited here, have sprung from the knowledge of things as they are and that the tenor of these methods are implied in all straight thinking. Further, as penetration and comprehension, the constituents of wisdom are the result of such thinking, the place of **critical examination and analysis** in the development of right vision is obvious._  
@@ -27,7 +27,7 @@ _[...] More than fifty years ago, Moncure D. Conway, the author of "My Pilgrimag
 
 ### Bhikkhu Bodhi, 1998
 
-Bhikkhu Bodhi, A Look at the Kalama Sutta, 1998 \[[accesstoinsight.org](https://www.accesstoinsight.org/lib/authors/bodhi/bps-essay_09.html)]
+Bhikkhu Bodhi, "A Look at the Kalama Sutta", 1998, \[[accesstoinsight.org](https://www.accesstoinsight.org/lib/authors/bodhi/bps-essay_09.html)\]
 
 > **On the basis of a single passage, quoted out of context, the Buddha has been made out to be a pragmatic empiricist who dismisses all doctrine and faith**, and whose Dhamma is simply a freethinker's kit to truth which invites each one to accept and reject whatever he likes.
 > [...] Now this passage, like everything else spoken by the Buddha, has been stated in a specific context — with a particular audience and situation in view — and thus must be understood in relation to that context.
@@ -40,17 +40,92 @@ Bhikkhu Bodhi, A Look at the Kalama Sutta, 1998 \[[accesstoinsight.org](https://
 
 ### Rosenberg, 2006
 
-Larry Rosenberg, _The Right to Ask Questions_, 2006 \[[accesstoinsight.org](https://www.accesstoinsight.org/lib/authors/rosenberg/righttoask.html)]
-
-in Three steps to awakening : a practice for bringing mindfulness to life
-
-https://archive.org/details/threestepstoawak0000rose/page/n9/mode/2up?q=%22kalama+sutta%22
-
+Larry Rosenberg, "The Right to Ask Questions", 2006, \[[accesstoinsight.org](https://www.accesstoinsight.org/lib/authors/rosenberg/righttoask.html)\], in "Three steps to awakening : a practice for bringing mindfulness to life" \[[archive.org](https://archive.org/details/threestepstoawak0000rose/page/n9/mode/2up?q=%22kalama+sutta%22)\]
 
 _Of all the teachings of the Buddha, the Kalama Sutta is one of my favorites precisely because it **encourages such rigorous inquiry into our beliefs**. Indeed, if Buddhism were not infused with the spirit of this sutta — **a spirit of questioning, of critical examination** — I'm quite sure I would not have a meditative practice today._  
 _[...] The Kalamas of the Kalama Sutta were, like my father, a **skeptical but responsible** bunch. They were quite alive to spiritual matters, but they were overrun with teachers and teachings, each teacher competing for an audience, each propounding a different philosophy or path. Their situation was not very different from ours now._  
 _In the Kalama Sutta, **the Buddha is not saying that ancient teachings are irrelevant, or that you have to reinvent the dharma wheel** every time you think. He's not saying not to accept the guidance of teachers or not to read the scriptures. After all, how else are you going to find out what's criticized and praised by the wise? No, what he's saying is: Don't give final authority to these teachings. Don't give final authority to your own ideas. **You have to test the teachings, and your ideas, in the laboratory of your actions**._  
 _So what is the test of truth? The Buddha offers a simple formula: **Test things in terms of cause and effect. Whatever is unskillful, leading to harm and ill, should be abandoned; whatever is skillful, leading to happiness and peace, should be pursued**. Apply the test of skillfulness to all teachings in all your actions._
+
+### Dipen Barua, 2021
+
+Dipen Barua, "The Kalama Sutta: The First Rationalist Buddhist Text?", 2021, \[[buddhistdoor.net](https://www.buddhistdoor.net/features/the-kalama-sutta-the-first-rationalist-buddhist-text/)\]
+
+> To this day, it is interpreted as a pro-skeptic, pro-rationalist text. In this sutta is a famous passage in which the Buddha argues for a rigorous questioning of religious teachings. Because of this celebrated passage, **the text as a whole has been interpreted as advocating the rejection of anything that contradicts rational thought or empirical understanding, even the Buddhist teachings**. Or, reframed, anything that is unseen and that cannot be empirically verified is incompatible with the Buddha’s free thinking. Therefore, teachings of the afterlife or karma are superstitious baggage that go against the “original spirit” of the Buddha’s inquiring mind.
+> Here, I hope to provide a more rigorous exegesis of the Kalama Sutta, and respond to the rationalist claim that the Kalama Sutta advocates a skeptical approach to all things: it qualitatively does not, and, **in fact, the text argues precisely that a free and open mind will lead one to acceptance of the Buddhadhamma**.
+
+> The Kalamas were themselves not skeptics because they lacked the knowledge to determine the veracity of a teaching. Rather, they were beset by uncertainty and confusion after encountering diverse and contradictory teachings from various gurus, brahmins, and yogis.
+
+> **The rationalist interpretation cherry picks from the first half of the Kalama Sutta**, leaving the Kalamas narratively suspended in uncertainty and confusion. However, in the second half of the text, the Buddha provides assurance of the truth, the Dhamma. The Buddha’s unveiling to the Kalamas of the Noble Eightfold Path is the conclusion of the sutta. In a correct exegesis, **the Buddha’s 10 points of skepticism are aimed directly at those who doubt his teaching**. This is quite a different conclusion to the pro-agnostic, pro-skeptical position advocated by rationalists.
+
+> The rationalist paradigm has dominated academic and broader globalized discourse for decades. Even the Buddhist tradition, particularly in the West after World War Two, partially conceded epistemic understanding to the scientific, empiricist worldview. **Both Buddhists and rationalists have cited the Kalama Sutta as legitimizing the rationalist paradigm as an authentically Buddhist position**. However, they only refer to the initial portion of the sutta, in which the Buddha states his 10 points of skepticism, while ignoring the rest. Rationalist advocates further argue that in this text, the Buddha did not say anything about an afterlife, and therefore the afterlife, at worst, does not exist, and at best, is a later superstitious accretion that can be dismissed as not belonging to “original Buddhism.”
+
+> We now know that this understanding of early Buddhism is itself **a bias shaped by scientism and Protestant-inspired prejudices** that date back to early clashes between what early European and American Buddhologists saw as “Buddhist superstition” versus “true Buddhism.” The Buddha, in fact, spoke extensively not only on the subject of the afterlife, but also on rebirth, kamma, and a transcendent, unseen reality. Empiricism is only one aspect of the story—not the whole.
+
+### Bloom, XXXX
+
+Alfred Bloom, "Critical Thinking in Buddhism: The Kalama Sutta", XXXX, \[[bschawaii.org](https://bschawaii.org/shindharmanet/critical/)\]
+
+> Here Gotama Buddha gives advice on how seekers should respond when they are confronted by diversity of views concerning the path to enlightenment and spiritual fulfillment, even Gotama’s. He **advocates a questioning, inquiring spirit**, **refusing to accept anything simply based on invoking an authority**.
+
+> We are not to simply accept a surmise, something accepted as true while as yet unproven. We make surmises frequently, concluding that something is true, though we may not have all the facts or information. Such conclusions are easily shaped by prejudices and are to be questioned, even when recognized authorities assert them.
+> We are **not to accept something because it is an axiom, axiomatic, that is, an unquestioned, apparently self evident, or assumed truth**. To question an axiom seems to go against reason, but may be the highest reason. Many things once accepted in society as axioms, givens, such as the separation of races, male superiority, that the earth is flat, etc. have given way to questioning, **resulting in the progress of society and culture**.
+> Specious reasoning asserts ideas which are plausible, seemingly correct or logical but with investigation are found to be erroneous or false. They can be what we regard as half truths. Political campaigns and religious debate often employ such assertions.
+
+> As the Buddha charged his disciples at his death to be a refuge to themselves, a light for themselves, so here also the **responsibility for determining the truth of your life is within yourself**.
+
+### Dharmapala, 1892
+
+Anagarika Dharmapala, _Life and Teachings of the Buddha_, 1892, \[[archive.org](https://archive.org/details/in.ernet.dli.2015.217594)\]]
+
+> Buddhism may be called the **Religion of Analysis**. It analyses every phase of cosmic phenomenon, the constituents that go to make up a human being, and the differentiating states of mentality; it categorizes the differentiation of Good, Evil and Neutral; it **rejects every phase of superstitious belief** that is based on mere tradition, speculation, revelations, magic, analogy, logic, authority, and collected discourses, and **appeals to the purified heart** to distinguish the good from the bad, and to avoid doing anything that is correlated with covetousness, anger and lust. All that is pure and free from covetousness, anger and lust are productive of good, and therefore to be acted upon. Such was the doctrine that the Blessed One enunciated to the chiefs of the Kalama country which is elucidated in detail in the Kalama sutta of the Anguttara Nikaya.
+
+### Gombrich, 1996
+
+Richard F. Gombrich, "How Buddhism Began", 1996, \[[archive.org](https://archive.org/details/howbuddhismbegan0000gomb_m0m1/page/28/mode/2up?q=kalama)\], p. 28
+
+> There can be no doubt that the Buddha’s emphasis was on experience: the experience he had had himself and the experience he wanted others to have too. While he often appeals to reason, in the sense that he uses rational argument, **the appeal to experience is even more important**.
+> Modern rationalist expositors like to draw attention to the Kalama Sutta (AN III, 65, AN I, 188–193), in which the Buddha advises the Kalama clan not to accept any teaching merely on a teacher’s authority, but to work things out for themselves. 
+> However, he also proceeds to preach to them **by asking them at each step whether they agree; he is appealing to their experience** – we might also call it their common sense.
+> Moreover, the content of the sermon is to show that morality has practical advantages. Again, **the text is pragmatic and anti-theoretical**.
+
+TODO: "It is only in poetry, in the last two books of the
+Sutta-nipata, that the Buddha takes quietism to the point of claiming that he, or (more impersonally) the true sage, has no views (e.g. verses 787, 800, 882); and indeed it is to these poems that L.O. Gomez is referring in his article ‘Proto-Madhyamika in the Pali Canon’ (Gomez, 1976).""
+
+### Weragoda Sarada Maha Thero, 1999
+
+Ven. Weragoda Sarada Maha Thero, preface to "The Kalama Sutta", 1999, \[[archive.org](https://archive.org/details/kalama-sutta/page/n7/mode/2up?q=%22kalama+sutta%22)\]
+
+> In Kalama Sutta, the Buddha places the onus of decision fairly and squarely on the individual. But, what is remarkable about the "Kalama Declaration" of the Buddha is that in its second phase he **sets up principles for the proper exercise of this individual responsibility**.
+
+### Winston, 2003
+
+Diana Winston, "Wide awake : a Buddhist guide for teens", 2003, \[[archive.org](https://archive.org/details/wideawakebuddhis00wins/page/22/mode/2up)\], p. 22
+
+> Only believe something you have clearly seen for yourself to be true. If after **fully examining, experiencing, and carefully considering a teaching** or some advice, and you find that it leads to happiness for one and all, accept it and live up to it.
+
+### Gopalakrishna, 2006
+
+Dr D. Gopalakrishna, "Buddhism and contemporary management", 2006 \[[archive.org](https://archive.org/details/buddhismcontempo0000gopa/page/36/mode/2up?q=%22kalama+sutta%22)\], p. 36
+
+> [Under a section "Is Buddhism Scientific?"] It can be seen from the Kalama Sutta that **the Buddha calls for free and total investigation**. It is no exxageration if we say that Buddhism about 2500 years ago had the best ideas, thoughts, techniques and methods for the development of the modern organizations and solutions for the managerial problems and conflicts.  
+> In Kalama Sutta, the Buddha emphatically says : that “Do not believe in anything (simply) because you have heard it. Do not believe in traditions because they have been handed down for many generations. Do not believe in anything (simply) because it is found and written in your religious books. But after observation and analysis, when you **find that anything agrees with reason and conducive to the good** and benefit of one and all, then accept it and live up to it. Management also a systemized body of knowledge is aimed at transforming the inputs into outputs through positive behaviour, adopting systems and standards. The management process of planning, organizing, staffing, co-ordinating is a systematic design to achieve the goals of the organizations.
+
+### Rahula, 1961
+
+Walpola Rahula, "What the Buddha taught", 1961, \[[ahandfulofleavs.org](http://www.ahandfulofleaves.org/documents/what%20the%20buddha%20taught_rahula.pdf)\]
+
+> Then the Buddha gave them this advice, **unique in the history of religions**: "'Yes , Kalamas, it is proper that you have doubt, that you have perplexity, for a doubt has arisen in a matter which is doubtful. [...]"
+> The Buddha went even further. He told the bhikkhus that **a disciple should examine even the Tathagata (Buddha) himself**, so that he (the disciple) might be fully convinced of the true value of the teacher whom he followed.
+
+### CEDH, 2010
+
+CEDH, "We the Sceptics, brothers of the Kalamas" (fr trans.), 2010, \[[cedh.info](http://www.cedh.info/kalamas.htm)\]
+
+> We, the Sceptics, who can have no belief, no "faith", no opinion, no certainty, there is only one Way that can satisfy us, rejoice us, the Way of the Dharma.  
+> Here is the Sutta to the Kalamas, the skeptics of the time of the Buddha. It shows that it is possible to follow this Way without any prior, simply by "seeing" the phenonemons as they are.
+> Le Dharma du Bouddha n’est pas une religion, ce n’est pas non plus une philosophie, à moins que l’on égale Prajñā et Sophia – elles ont en commun quelques caractères, mais ne peuvent être confondues.
+> Ce Dharma est une voie négative par excellence, une voie qui conduit à l’Absolu, qui donne accès à l’Absolu, au « sans conditions », résolvant ainsi tout problème phénoménal quelque subtil qu’il soit. En effet, toutes les difficultés humaines proviennent de l’impact des phénomènes, des apparences. Les cerveaux, informés par les sens, transforment les données sensorielles, les interprètent, concoctent des fantasmes, échafaudent des opinions, des croyances, des certitudes et vont ainsi vers l’insatisfaction, la peine, la frustration, le malheur, le mal de vivre qui accablent le « moi » illusoire construit lui-même par ces cerveaux obscurcis, par la psyché aveuglée, par le cœur obnubilé.
 
 ### Bhikkhu Buddhadasa, 1988
 
@@ -60,106 +135,20 @@ Buddhadasa Bhikkhu, _Help! The Kalama Sutta, Help!_, 1988 \[[dhammatalks.net](ht
 
 Dalai Lama; Thubten Chodron (2017), Approaching the Buddhist Path, The Library of Wisdom and Compassion, Volume 1, Wisdom Publications, Chapter 6, Section "The Kālāma's Experience"
 
-### Dipen Barua, 2021
-
-Dipen Barua, _The Kalama Sutta: The First Rationalist Buddhist Text?_, 2021 \[[buddhistdoor.net](https://www.buddhistdoor.net/features/the-kalama-sutta-the-first-rationalist-buddhist-text/)\]
-
-> To this day, it is interpreted as a pro-skeptic, pro-rationalist text. In this sutta is a famous passage in which the Buddha argues for a rigorous questioning of religious teachings. Because of this celebrated passage, the text as a whole has been interpreted as advocating the rejection of anything that contradicts rational thought or empirical understanding, even the Buddhist teachings. Or, reframed, anything that is unseen and that cannot be empirically verified is incompatible with the Buddha’s free thinking. Therefore, teachings of the afterlife or karma are superstitious baggage that go against the “original spirit” of the Buddha’s inquiring mind.
-> Here, I hope to provide a more rigorous exegesis of the Kalama Sutta, and respond to the rationalist claim that the Kalama Sutta advocates a skeptical approach to all things: it qualitatively does not, and, in fact, the text argues precisely that a free and open mind will lead one to acceptance of the Buddhadhamma.
-
-> The Kalamas were themselves not skeptics because they lacked the knowledge to determine the veracity of a teaching. Rather, they were beset by uncertainty and confusion after encountering diverse and contradictory teachings from various gurus, brahmins, and yogis.
-
-> The rationalist interpretation cherry picks from the first half of the Kalama Sutta, leaving the Kalamas narratively suspended in uncertainty and confusion. However, in the second half of the text, the Buddha provides assurance of the truth, the Dhamma. The Buddha’s unveiling to the Kalamas of the Noble Eightfold Path is the conclusion of the sutta. In a correct exegesis, the Buddha’s 10 points of skepticism are aimed directly at those who doubt his teaching. This is quite a different conclusion to the pro-agnostic, pro-skeptical position advocated by rationalists.
-
-> The rationalist paradigm has dominated academic and broader globalized discourse for decades. Even the Buddhist tradition, particularly in the West after World War Two, partially conceded epistemic understanding to the scientific, empiricist worldview. Both Buddhists and rationalists have cited the Kalama Sutta as legitimizing the rationalist paradigm as an authentically Buddhist position. However, they only refer to the initial portion of the sutta, in which the Buddha states his 10 points of skepticism, while ignoring the rest. Rationalist advocates further argue that in this text, the Buddha did not say anything about an afterlife, and therefore the afterlife, at worst, does not exist, and at best, is a later superstitious accretion that can be dismissed as not belonging to “original Buddhism.”
-
-> We now know that this understanding of early Buddhism is itself a bias shaped by scientism and Protestant-inspired prejudices that date back to early clashes between what early European and American Buddhologists saw as “Buddhist superstition” versus “true Buddhism.” The Buddha, in fact, spoke extensively not only on the subject of the afterlife, but also on rebirth, kamma, and a transcendent, unseen reality. Empiricism is only one aspect of the story—not the whole.
-
-### Bloom, XXXX
-
-Alfred Bloom, _Critical Thinking in Buddhism: The Kalama Sutta_, \[[bschawaii.org](https://bschawaii.org/shindharmanet/critical/)\]
-
-> Here Gotama Buddha gives advice on how seekers should respond when they are confronted by diversity of views concerning the path to enlightenment and spiritual fulfillment, even Gotama’s. He advocates a questioning, inquiring spirit, refusing to accept anything simply based on invoking an authority.
-
-> We are not to simply accept a surmise, something accepted as true while as yet unproven. We make surmises frequently, concluding that something is true, though we may not have all the facts or information. Such conclusions are easily shaped by prejudices and are to be questioned, even when recognized authorities assert them.
-> We are not to accept something because it is an axiom, axiomatic, that is, an unquestioned, apparently self evident, or assumed truth. To question an axiom seems to go against reason, but may be the highest reason. Many things once accepted in society as axioms, givens, such as the separation of races, male superiority, that the earth is flat, etc. have given way to questioning, resulting in the progress of society and culture.
-> Specious reasoning asserts ideas which are plausible, seemingly correct or logical but with investigation are found to be erroneous or false. They can be what we regard as half truths. Political campaigns and religious debate often employ such assertions.
-
-> As the Buddha charged his disciples at his death to be a refuge to themselves, a light for themselves, so here also the responsibility for determining the truth of your life is within yourself.
-
-### CEDH, 2010
-
-CEDH, _We the Sceptics, brothers of the Kalamas_ (fr trans.), 2010 \[[cedh.info](http://www.cedh.info/kalamas.htm)\]
-
-> We, the Sceptics, who can have no belief, no "faith", no opinion, no certainty, there is only one Way that can satisfy us, rejoice us, the Way of the Dharma.
-> Voici le Sutta aux Kālāmā, les sceptiques du temps du Bouddha. Il montre qu’il est possible de suivre cette Voie sans aucun a priori, simplement en « voyant » les phénomènes tels qu’ils sont.
-> Le Dharma du Bouddha n’est pas une religion, ce n’est pas non plus une philosophie, à moins que l’on égale Prajñā et Sophia – elles ont en commun quelques caractères, mais ne peuvent être confondues.
-> Ce Dharma est une voie négative par excellence, une voie qui conduit à l’Absolu, qui donne accès à l’Absolu, au « sans conditions », résolvant ainsi tout problème phénoménal quelque subtil qu’il soit. En effet, toutes les difficultés humaines proviennent de l’impact des phénomènes, des apparences. Les cerveaux, informés par les sens, transforment les données sensorielles, les interprètent, concoctent des fantasmes, échafaudent des opinions, des croyances, des certitudes et vont ainsi vers l’insatisfaction, la peine, la frustration, le malheur, le mal de vivre qui accablent le « moi » illusoire construit lui-même par ces cerveaux obscurcis, par la psyché aveuglée, par le cœur obnubilé.
-
-### Dharmapala, 1892
-
-Anagarika Dharmapala, _Life and Teachings of the Buddha_, 1892 \[[archive.org](https://archive.org/details/in.ernet.dli.2015.217594)\]]
-
-> Buddhism may be called the Religion of Analysis. It analyses every phase of cosmic phenomenon, the constituents that go to make up a human being, and the differentiating states of mentality; it categorizes the differentiation of Good, Evil and Neutral; it rejects every phase of superstitious belief that is based on mere tradition, speculation, revelations, magic, analogy, logic, authority, and collected discourses, and appeals to the purified heart to distinguish the good from the bad, and to avoid doing anything that is correlated with covetousness, anger and lust. All that is pure and free from covetousness, anger and lust are productive of good, and therefore to be acted upon. Such was the doctrine that the Blessed One enunciated to the chiefs of the Kalama country which is elucidated in detail in the Kalama sutta of the Anguttara Nikaya.
-
-
-### Gombrich, 1996
-
-Richard F. Gombrich, _How Buddhism Began_, 1996
-
-> There can be no doubt that the Buddha’s emphasis was on experience: the experience he had had himself and the experience he wanted others to have too. While he often
-appeals to reason, in the sense that he uses rational argument, the appeal to experience is even more important.
-> Modern rationalist expositors like to draw attention to the Kalama Sutta (AN III, 65, AN I, 188–193), in which the Buddha advises the Kalama clan not to accept any teaching
-merely on a teacher’s authority, but to work things out for
-themselves. 
-> However, he also proceeds to preach to them by asking them at each step whether they agree; he is appealing to their experience – we might also call it their common sense.
-> Moreover, the content of the sermon is to show that morality has practical advantages. Again, the text is pragmatic and anti-theoretical.
-
-TODO: "It is only in poetry, in the last two books of the
-Sutta-nipata, that the Buddha takes quietism to the point of claiming that he, or (more impersonally) the true sage, has no views (e.g. verses 787, 800, 882); and indeed it is to these poems that L.O. Gomez is referring in his article ‘Proto-Madhyamika in the Pali Canon’ (Gomez, 1976).""
-
 ### Dipobhasdhamma, 2022
 
-Is Buddhism a Religion? Why it Matters
-by Dipobhasdhamma
+Dipobhasdhamma, "Is Buddhism a Religion? Why it Matters?", 2022, \[[archive.org](https://archive.org/details/is-buddhism-religion-updated/page/n7/mode/2up)\]
 
-https://archive.org/details/is-buddhism-religion-updated/page/n7/mode/2up
+> When this presumed association between religion and Buddhism is scrutinized, it is not difficult to see that most of what constitutes the foundation of these arguments involves hair-splitting; selectively picking apart the teachings of the Buddha in order to find anything that is closest-to or similar-to the doctrines of the World’s religions. However, searching through the entire corpus of the Buddha’s teachings, it is difficult, to say the least, to find anything close to or similar to this worldview
 
-> When this presumed association between religion and Buddhism is scrutinized, it is not difficult to see that most of what constitutes the foundation of these arguments involves hair- splitting; selectively picking apart the teachings of the Buddha in order to find anything that is closest-to or similar-to the doctrines of the World’s religions. However, searching through the entire corpus of the Buddha’s teachings, it is difficult, to say the least, to find anything close to or similar to this worldview
+>  “When you know for yourselves…” meaning that each individual can only verify the veracity of his teachings based on one’s own direct personal experience by application of his teachings. 
 
->  “When you know for yourselves…” meaning that each 
-individual can only verify the veracity of his 
-teachings based on one’s own direct personal 
-experience by application of his teachings. 
-
-### Weragoda Sarada Maha Thero, 1999
-
-Ven. Weragoda Sarada Maha Thero, preface to the Kalama Sutta, 1999
-
-https://archive.org/details/kalama-sutta/page/n7/mode/2up?q=%22kalama+sutta%22
-
-> In Kalama Sutta, the Buddha places the onus of decisionm fairly and squarely on the individual. But, what is remarkable about the "Kalama Declaration" of the Buddha is that in its second phase he sets up principles for the proper exercise of this individual responsibility.
-
-
-### Winston, 2003
-
-Wide awake : a Buddhist guide for teens
-by Winston, Diana
-
-https://archive.org/details/wideawakebuddhis00wins/page/22/mode/2up
-
-page 22, Kalama Sutta in a nutshel
-> Only believe something you have clearly seen for yourself to be true. If after fully examining, experiencing, and carefully considering a teaching or some advice, and you find that it leads to happiness for one and all, accept it and live up to it.
-
-### Gopalakrishna, 2006
-
-Buddhism and contemporary management : with special reference to Vipassana meditation
-https://archive.org/details/buddhismcontempo0000gopa/page/36/mode/2up?q=%22kalama+sutta%22
-
-> It can be seen from the Kalama Sutta that the Buddha calls for free and total investigation. It is no exxageration if we say that Buddhism about 2500 years ago had the best ideas, thoughts, techniques and methods for the development of the modern organizations and solutions for the managerial problems and conflicts.
-
-> In Kalama Sutta, the Buddha emphatically says : that “Do not believe in anything (simply) because you have heard | it. Do not believe in traditions because they have been handed down for many generations. Do not believe in anything (simply) because it is found and written in your religious books. But after observation and analysis, when you find that anything agrees with reason and conducive to the good and benefit of one and all, then accept it and live up to it.? Management also a systemized body of knowledge is aimed at transforming the inputs into outputs through positive behaviour, adopting systems and standards. The management process of planning, organizing, staffing, co-ordinating is a systematic design to achieve the goals of the organizations.
-
+So, with regard to the part of the claim that “despite” the Buddha’s suggestion; that one not accept any assumed or forgone conclusion based on various sources, takes the entire corpus of the Buddha’s teachings completely out of context.
+Once again, we have a gross generalization, which assumes the theistic requirement of faith is also true of Buddhism. Regarding the Buddha’s words, in that one should not accept his teachings based on blind faith, is not an example of the Buddha requiring faith. In this regard, the Buddha’s words to the Kalamas people is apropos:
+This claim cannot be verified, wholly due to the fact that the Buddha clearly stated: “When you know for yourselves...” meaning that each individual can only verify the veracity of his teachings based on one’s own direct personal experience by application of his teachings.
+The Buddha is saying that the proof of his statements is completely experiential, which to note: precedes the development of confidence, not the other way around, as it is written in Christian Bibles at Hebrews 11:1, which asks disciples, and adherents to have blind faith in something that is never seen, but can only be hoped for. This would be like someone simply reading the Eightfold Noble Path and believing that by reading it they gain hope that the teaching would somehow osmose into them, thus saving themselves from their own actions, which creates their own suffering.
+This principle is altogether opposite of the tenets, dogma and doctrine of every theist-based religion, which infers that words or statements issued from a “god” or “gods,” and delivered via prophets, requires faith in that the words or statements of such gods are true; without a shred of empirical proof as to whether the doctrines, edicts, commandments or philosophy is sound and actually works. Since there are no means by which a follower of a theistic-based religion can prove even the existence of a god or gods, then the premise that whatever a god states is true, is
+invalid.
 
 ### Unsure
 
@@ -170,6 +159,7 @@ https://newbuddhist.com/discussion/10162/implications-of-the-kalama-suttra-for-m
 https://buddhism-guide.com/kalama-sutra/
 
 http://tibetanbuddhistencyclopedia.com/en/index.php/Buddhism_and_Science:_Probing_the_Boundaries_of_Faith_and_Reason
+
 
 ### TODO
 
