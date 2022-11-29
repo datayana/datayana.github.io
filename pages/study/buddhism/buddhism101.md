@@ -38,11 +38,11 @@ Don't try too hard to find a pure and diamond-like theory or philosophy. And if 
 
 ## Things to avoid
 
-**Fundamentalism is rooted in ignorance of the impermanence of scripture** - Like all other religious scriptures, Buddhist scriptures have gone through transformations. They have been first written down after a couple centuries of oral tradition, being only remembered and recited. Then, they have been compiled, translated, edited, filtered, re-compiled, commented, etc. That process was human, and necessarily introduced bias, errors, inaccuracies.
+**Fundamentalism is rooted in ignorance (of the impermanence of scripture)** - Like all other religious scriptures, Buddhist scriptures have gone through transformations. They have been first written down after a couple centuries of oral tradition, being only remembered and recited. Then, they have been compiled, translated, edited, filtered, re-compiled, commented, etc. That process was human, and necessarily introduced bias, errors, inaccuracies.
 
 Also, those scriptures have been subjected to creative work: long after the passing of the Buddha, some unknown authors created brand new Sutras as inspired by their faith and practice, and presented them as if they had been spoken at the time of the Buddha himself (nobody can possible know if that's true or not). Those introduced brand new concepts, or had a different emphasis than previous scriptures. With time, translation and propagation, those new Sutras became new canons, revered and recited by many Buddhist schools today.
 
-In short: no scripture or canon can pretend to be the one permanent untouched scripture that should be taken literally as the Buddha's original teachings.
+In short: no scripture or canon can pretend to be the one permanent untouched scripture that should be taken entirely literally.
 
 > More on this topic: ["Pali Oral Literature", L.S. Cousins, 1983](http://www.ahandfulofleaves.org/documents/Articles/Pali%20Oral%20Literature_BSAM_Cousins_1983.pdf); "A Short History of Buddhism", E. Conze, 1980 ; [History of Prajnaparamita Sutras](https://en.wikipedia.org/wiki/Prajnaparamita#History) on Wikipedia
 
