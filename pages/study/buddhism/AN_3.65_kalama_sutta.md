@@ -329,6 +329,7 @@ This pattern would be built around the expression "attanāva jāneyyātha". But 
 
 Considering the suttas related to the first pattern, this could be another expression of the right way to access and claim knowledge of a view (as "personal knowledge" [paccattameva ñāṇa] from SN12.68, or "seeing with wisdom" [dhammā paññāya disvā veditabbā] the extinction of taints as in SN35.153).
 
+TODO: pajānanti from MND16
 
 ### Related readings
 
@@ -448,93 +449,9 @@ Matches(d=3,o=3): [anussavena], [paramparāya], ~~[itikirāya]~~, [piṭakasampa
 > atha kho kāpaṭikassa māṇavassa etadahosi: “samannāharati kho maṃ samaṇo gotamo. yannūnāhaṃ samaṇaṃ gotamaṃ pañhaṃ puccheyyan”ti. atha kho kāpaṭiko māṇavo bhagavantaṃ etadavoca: “yadidaṃ, bho gotama, brāhmaṇānaṃ porāṇaṃ mantapadaṃ **itihitiha** **paramparāya** **piṭakasampadāya**, tattha ca brāhmaṇā ekaṃsena niṭṭhaṃ gacchanti: ‘idameva saccaṃ, moghamaññan’ti. idha bhavaṃ gotamo kimāhā”ti? “kiṃ pana, bhāradvāja, atthi koci brāhmaṇānaṃ ekabrāhmaṇopi yo evamāha: ‘ahametaṃ jānāmi, ahametaṃ passāmi. idameva saccaṃ, moghamaññan’”ti? “no hidaṃ, bho gotama”. “kiṃ pana, bhāradvāja, atthi koci brāhmaṇānaṃ ekācariyopi, ekācariyapācariyopi, yāva sattamā ācariyamahayugāpi, yo evamāha: ‘ahametaṃ jānāmi, ahametaṃ passāmi. idameva saccaṃ, moghamaññan’”ti? “no hidaṃ, bho gotama”. “kiṃ pana, bhāradvāja, yepi te brāhmaṇānaṃ pubbakā isayo mantānaṃ kattāro mantānaṃ pavattāro yesamidaṃ etarahi brāhmaṇā porāṇaṃ mantapadaṃ gītaṃ pavuttaṃ samihitaṃ tadanugāyanti tadanubhāsanti bhāsitamanubhāsanti vācitamanuvācenti seyyathidaṃ—aṭṭhako vāmako vāmadevo vessāmitto yamataggi aṅgīraso bhāradvājo vāseṭṭho kassapo bhagu, tepi evamāhaṃsu: ‘mayametaṃ jānāma, mayametaṃ passāma. idameva saccaṃ, moghamaññan’”ti? “no hidaṃ, bho gotama”.
 
 
-#### Not available in English
-
-#### CND8 - 4. Metta­gū­māṇa­va­pucchā­niddesa [[link](https://suttacentral.net/pi/cnd8/)]
-
-Matches(d=8,o=16): [anussavena], [paramparāya], [itikirāya], [piṭakasampadānena], [takkahetu], [nayahetu], [ākāraparivitakkena], [diṭṭhinijjhānakkhantiyā], ~~[bhabbarūpatāya]~~, ~~[samaṇo no garū]~~
-
-**Paragraph [{'class': ['sc'], 'id': '33'}, {'class': ['ms'], 'id': 'p_25Cn_394'}]**
-> taṃ te pavakkhāmi yathā pajānanti. tanti dukkhassa mūlaṃ pavakkhāmi hetuṃ pavakkhāmi nidānaṃ pavakkhāmi sambhavaṃ pavakkhāmi pabhavaṃ pavakkhāmi samuṭṭhānaṃ pavakkhāmi āhāraṃ pavakkhāmi ārammaṇaṃ pavakkhāmi paccayaṃ pavakkhāmi samudayaṃ pavakkhāmi ācikkhissāmi desessāmi paññapessāmi paṭṭhapessāmi vivarissāmi vibhajissāmi uttānīkarissāmi pakāsessāmīti—taṃ te pavakkhāmi. yathā pajānanti yathā pajānanto ājānanto vijānanto paṭivijānanto paṭivijjhanto. na **itihītihaṃ** na **itikirāya** na **paramparāya** na **piṭakasampadāya** na **takkahetu** na **nayahetu** na **ākāraparivitakkena** na **diṭṭhinijjhānakkhantiyā** sāmaṃ sayamabhiññātaṃ attapaccakkhadhammaṃ taṃ kathayissāmīti—taṃ te pavakkhāmi yathā pajānaṃ.
-
-**Paragraph [{'class': ['sc'], 'id': '62'}, {'class': ['ms'], 'id': 'p_25Cn_423'}]**
-> diṭṭhe dhamme anītihanti. diṭṭhe dhammeti diṭṭhe dhamme ñāte dhamme tulite dhamme tīrite dhamme vibhūte dhamme vibhāvite dhamme sabbe saṅkhārā aniccāti … pe … yaṃ kiñci samudayadhammaṃ sabbaṃ taṃ nirodhadhammanti diṭṭhe dhamme ñāte dhamme tulite dhamme tīrite dhamme vibhūte dhamme vibhāvite dhammeti—evampi diṭṭhe dhamme kathayissāmi. atha vā dukkhe diṭṭhe dukkhaṃ kathayissāmi, samudaye diṭṭhe samudayaṃ kathayissāmi, magge diṭṭhe maggaṃ kathayissāmi, nirodhe diṭṭhe nirodhaṃ kathayissāmīti— evampi diṭṭhe dhamme kathayissāmi. atha vā diṭṭhe dhamme sandiṭṭhikaṃ akālikaṃ ehipassikaṃ opaneyyikaṃ paccattaṃ veditabbaṃ viññūhīti—evampi diṭṭhe dhamme kathayissāmīti diṭṭhe dhamme. anītihanti na **itihītihaṃ** na **itikirāya** na **paramparāya** na **piṭakasampadāya** na **takkahetu** na **nayahetu** na **ākāraparivitakkena** na **diṭṭhinijjhānakkhantiyā**, sāmaṃ sayamabhiññātaṃ attapaccakkhadhammaṃ, taṃ kathayissāmīti—diṭṭhe dhamme anītihaṃ.
-
-
-#### MND14 - 14. Tuvaṭaka­sutta­niddesa [[link](https://suttacentral.net/pi/mnd14/)]
-
-Matches(d=8,o=16): [anussavena], [paramparāya], [itikirāya], [piṭakasampadānena], [takkahetu], [nayahetu], [ākāraparivitakkena], [diṭṭhinijjhānakkhantiyā], ~~[bhabbarūpatāya]~~, ~~[samaṇo no garū]~~
-
-**Paragraph [{'class': ['sc'], 'id': '71'}, {'class': ['pts'], 'id': 'pts361'}, {'class': ['ms'], 'id': 'p_24Mn_1414'}]**
-> sakkhidhammaṃ parissayavinayanti. sakkhidhammanti na **itihitihaṃ**, na **itikirāya**, na **paramparāya**, na **piṭakasampadāya**, na **takkahetu**, na **nayahetu**, na **ākāraparivitakkena**, na **diṭṭhinijjhānakkhantiyā** sāmaṃ sayamabhiññātaṃ attapaccakkhaṃ dhammanti—sakkhidhammaṃ. parissayavinayanti. parissayāti dve parissayā—pākaṭaparissayā ca paṭicchannaparissayā ca. katame pākaṭaparissayā? sīhā byagghā dīpī acchā taracchā kokā mahiṃsā hatthī ahi vicchikā satapadī, corā vā assu mānavā vā katakammā vā akatakammā vā, cakkhurogo sotarogo ghānarogo jivhārogo kāyarogo sīsarogo kaṇṇarogo mukharogo dantarogo kāso sāso pināso ḍāho jaro kucchirogo mucchā pakkhandikā sūlā visūcikā kuṭṭhaṃ gaṇḍo kilāso soso apamāro daddu kaṇḍu kacchu rakhasā vitacchikā lohitapittaṃ madhumeho aṃsā piḷakā bhagandalā, pittasamuṭṭhānā ābādhā semhasamuṭṭhānā ābādhā vātasamuṭṭhānā ābādhā sannipātikā ābādhā utupariṇāmajā ābādhā visamaparihārajā ābādhā opakkamikā ābādhā kammavipākajā ābādhā, sītaṃ uṇhaṃ jighacchā pipāsā uccāro passāvo ḍaṃsamakasavātātapasarīsapasamphassā iti vā—ime vuccanti pākaṭaparissayā.
-
-**Paragraph [{'class': ['sc'], 'id': '223'}, {'class': ['ms'], 'id': 'p_24Mn_1566'}]**
-> sakkhidhammamanītihamaddasīti. sakkhidhammanti na **itihitihaṃ** na **itikiriyāya** na **paramparāya** na **piṭakasampadāya** na **takkahetu** na **nayahetu** na **ākāraparivitakkena** na **diṭṭhinijjhānakkhantiyā** sāmaṃ sayamabhiññātaṃ attapaccakkhadhammaṃ addasi addakkhi apassi paṭivijjhīti— sakkhidhammamanītihamaddasi.
-
-
-#### CND22 - 18. Pārā­yanā­nugīti­gāthā­niddesa [[link](https://suttacentral.net/pi/cnd22/)]
-
-Matches(d=8,o=10): [anussavena], [paramparāya], [itikirāya], [piṭakasampadānena], [takkahetu], [nayahetu], [ākāraparivitakkena], [diṭṭhinijjhānakkhantiyā], ~~[bhabbarūpatāya]~~, ~~[samaṇo no garū]~~
-
-**Paragraph [{'class': ['sc'], 'id': '29'}, {'class': ['ms'], 'id': 'p_25Cn_1100'}, {'class': ['msdiv'], 'id': 'msdiv106'}]**
->  yeme pubbe viyākaṃsu,
-huraṃ gotamasāsanā;
-iccāsi iti bhavissati,
-sabbaṃ taṃ **itihītihaṃ**;
-sabbaṃ taṃ takkavaḍḍhanaṃ. (5)
-
-**Paragraph [{'class': ['sc'], 'id': '33'}, {'class': ['ms'], 'id': 'p_25Cn_1104'}]**
-> sabbaṃ taṃ itihītihanti sabbaṃ taṃ **itihītihaṃ** **itikirāya** **paramparāya** **piṭakasampadāya** **takkahetu** **nayahetu** **ākāraparivitakkena** **diṭṭhinijjhānakkhantiyā** na sāmaṃ sayamabhiññātaṃ na attapaccakkhaṃ dhammaṃ yaṃ kathayiṃsūti—sabbaṃ taṃ **itihītihaṃ**.
-
-**Paragraph [{'class': ['sc'], 'id': '35'}, {'class': ['ms'], 'id': 'p_25Cn_1106'}]**
-> “yeme pubbe viyākaṃsu,
-huraṃ gotamasāsanā;
-iccāsi iti bhavissati,
-sabbaṃ taṃ **itihītihaṃ**;
-sabbaṃ taṃ takkavaḍḍhanan”ti.
-
-
-#### CND9 - 5. Dhota­ka­māṇa­va­pucchā­niddesa [[link](https://suttacentral.net/pi/cnd9/)]
-
-Matches(d=8,o=8): [anussavena], [paramparāya], [itikirāya], [piṭakasampadānena], [takkahetu], [nayahetu], [ākāraparivitakkena], [diṭṭhinijjhānakkhantiyā], ~~[bhabbarūpatāya]~~, ~~[samaṇo no garū]~~
-
-**Paragraph [{'class': ['sc'], 'id': '45'}, {'class': ['ms'], 'id': 'p_25Cn_525'}]**
-> diṭṭhe dhamme anītihanti. diṭṭhe dhammeti diṭṭhe dhamme ñāte dhamme tulite dhamme tīrite dhamme vibhūte dhamme vibhāvite dhamme sabbe saṅkhārā aniccāti … pe … yaṃ kiñci samudayadhammaṃ sabbaṃ taṃ nirodhadhammanti diṭṭhe dhamme ñāte dhamme tulite dhamme tīrite dhamme vibhāvite dhamme vibhūte dhammeti, evampi—diṭṭhe dhamme … pe …. atha vā dukkhe diṭṭhe dukkhaṃ kathayissāmi, samudaye diṭṭhe samudayaṃ kathayissāmi, magge diṭṭhe maggaṃ kathayissāmi, nirodhe diṭṭhe nirodhaṃ kathayissāmīti, evampi— diṭṭhe dhamme … pe …. atha vā sandiṭṭhikaṃ akālikaṃ ehipassikaṃ opaneyyikaṃ paccattaṃ veditabbaṃ viññūhīti, evampi—diṭṭhe dhamme. anītihanti na **itihītihaṃ** na **itikirāya** na **paramparāya** na **piṭakasampadāya** na **takkahetu** na **nayahetu** na **ākāraparivitakkena** na **diṭṭhinijjhānakkhantiyā** sāmaṃ sayamabhiññātaṃ attapaccakkhadhammaṃ, taṃ kathayissāmīti—diṭṭhe dhamme anītihaṃ.
-
-
-#### MND16 - 16. Sāri­putta­sutta­niddesa [[link](https://suttacentral.net/pi/mnd16/)]
-
-Matches(d=8,o=8): [anussavena], [paramparāya], [itikirāya], [piṭakasampadānena], [takkahetu], [nayahetu], [ākāraparivitakkena], [diṭṭhinijjhānakkhantiyā], ~~[bhabbarūpatāya]~~, ~~[samaṇo no garū]~~
-
-**Paragraph [{'class': ['sc'], 'id': '155'}, {'class': ['ms'], 'id': 'p_24Mn_1933'}]**
-> taṃ te pavakkhāmi yathā pajānanti. tanti bodhiyā anudhammaṃ. pavakkhāmīti pavakkhāmi ācikkhissāmi desessāmi paññapessāmi paṭṭhapessāmi vivarissāmi vibhajissāmi uttānīkarissāmi pakāsissāmi. yathā pajānanti yathā pajānaṃ yathā pajānanto ājānanto vijānanto paṭivijānanto paṭivijjhanto na **itihitihaṃ** na **itikirāya** na **paramparāya** na **piṭakasampadāya** na **takkahetu** na **nayahetu** na **ākāraparivitakkena** na **diṭṭhinijjhānakkhantiyā** sāmaṃ sayamabhiññātaṃ attapaccakkhaṃ dhammaṃ, taṃ kathayissāmīti—taṃ te pavakkhāmi yathā pajānaṃ.
-
-
-#### CND12 - 8. Hema­ka­māṇa­va­pucchā­niddesa [[link](https://suttacentral.net/pi/cnd12/)]
-
-Matches(d=7,o=9): [anussavena], ~~[paramparāya]~~, [itikirāya], [piṭakasampadānena], [takkahetu], [nayahetu], [ākāraparivitakkena], [diṭṭhinijjhānakkhantiyā], ~~[bhabbarūpatāya]~~, ~~[samaṇo no garū]~~
-
-**Paragraph [{'class': ['sc'], 'id': '1'}, {'class': ['ms'], 'id': 'p_25Cn_668'}, {'class': ['msdiv'], 'id': 'msdiv53'}]**
->  ye me pubbe viyākaṃsu, (iccāyasmā hemako)
-huraṃ gotamasāsanā;
-iccāsi iti bhavissati,
-sabbaṃ taṃ **itihītihaṃ**;
-sabbaṃ taṃ takkavaḍḍhanaṃ,
-nāhaṃ tattha abhiramiṃ. (1)
-
-**Paragraph [{'class': ['sc'], 'id': '5'}, {'class': ['ms'], 'id': 'p_25Cn_672'}]**
-> sabbaṃ taṃ itihītihanti sabbaṃ taṃ **itihītihaṃ** **itikirāya** paraṃparāya **piṭakasampadāya** **takkahetu** **nayahetu** **ākāraparivitakkena** **diṭṭhinijjhānakkhantiyā** na sāmaṃ sayamabhiññātaṃ na attapaccakkhadhammaṃ kathayiṃsūti—sabbaṃ taṃ **itihītihaṃ**.
-
-**Paragraph [{'class': ['sc'], 'id': '8'}, {'class': ['ms'], 'id': 'p_25Cn_675'}]**
-> “ye me pubbe viyākaṃsu, (iccāyasmā hemako)
-huraṃ gotamasāsanā;
-iccāsi iti bhavissati,
-sabbaṃ taṃ **itihītihaṃ**;
-sabbaṃ taṃ takkavaḍḍhanaṃ,
-nāhaṃ tattha abhiramin”ti.
-
-
 #### PE4 - 4. Sutta­vicaya­catut­tha­bhūmi [[link](https://suttacentral.net/pi/pe4/)]
+
+https://suttacentral.net/pe4/pli/ms
 
 Matches(d=2,o=2): ~~[anussavena]~~, [paramparāya], ~~[itikirāya]~~, [piṭakasampadānena], ~~[takkahetu]~~, ~~[nayahetu]~~, ~~[ākāraparivitakkena]~~, ~~[diṭṭhinijjhānakkhantiyā]~~, ~~[bhabbarūpatāya]~~, ~~[samaṇo no garū]~~
 
