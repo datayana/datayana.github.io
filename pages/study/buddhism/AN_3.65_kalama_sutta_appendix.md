@@ -10,6 +10,43 @@ plan:
 4. trace back to the section in Snp5
 5. note context from both CND and Snp5
 
+## "know for yourself" => "the one who knows" ?
+
+### MND 10
+
+> 88 · Those who have no leakage in satisfaction,  
+> Those who are not enthusiastic in arrogance,  
+> The soft and the eloquent, the unbeliever,  
+> He will not be tainted.  
+> 
+> “The unbeliever, he will not be tainted”: “The unbeliever,” who has been personally proven by himself, of the self-represented Dhamma, does not believe in any other Samaṇa, or Brāhmaṇa, or heaven, or man, or Brahma: “All actions are impermanent,” he has proved it himself …, “all actions are suffering”…, “all dhammas are selfless”…, “action is based on ignorance”…, “being is based on life, age, death”…, “death by ignorance leads to demise”…, “birth and death lead to life and death)”…, “this is suffering”…, “these are defilements”…, “this is the path leading to defilements”…, “these dhammas should be proven to be known”…, “these dhammas should be witnessed”…, “the gathering, extinction, pleasure, trouble, detachment of the touch…,” the gathering of the five aggregates…, the four major gatherings, disappearance, pleasure, trouble, detachment are justified by oneself, knowing… “any collection of dhammas is an extinguishing of dhammas.” The one who knows the Dhamma by himself, self-proven, does not believe in any other Samaṇa, or Brāhmaṇa, or heaven, or man, or Brahma.
+> 
+> This was said by the Blessed One [SN.48.44]: “Sāriputta! Do you have faith that when the root of faith has been practiced and practiced more, is an immortal foothold, an immortal shore, an end of immortality?; when the root of vitality…, the root of mind…, the root of concentration…, when the root of wisdom…, ?”
+> 
+> “Great Virtue! Here, I do not rely on faith in the Blessed One that when the root of faith…, when the root of vitality…, when the root of mind…, when the root of concentration…, when the root of wisdom …, Great Virtue! If this is not known, not seen, not discovered, not testified, not touched by wisdom, there, they will come to other people with faith that when the root of faith has been practiced…, there is an immortal foothold, an immortal other side, and an immortal end; but, Great Virtue! Those who have known, seen, discovered, testified, and touched with wisdom, where they are confident and undoubtful that the root of faith…., and an end of immortality. Great Virtue! For me, this has been known, has been seen, has been discovered, has been testified, has been touched with wisdom, where I am confident and undoubting that when the root of faith…, there is a foothold….”
+> 
+> “Good! Well! Sāriputta! Sāriputta! If this is not known, unseen, undiscovered, untested, untouched by wisdom, there, they will come to others with faith that when the root of faith…, when the root of wisdom has already been practiced and practiced more, there is an immortal foothold, an immortal shore, and an end of immortality.”
+> 
+> “The unbelievers and those who are not known,
+And those who have cut off reincarnation,
+The person who destroys the opportunity and the person who has spit out,
+He is indeed the best person.”
+[Dhp.97]
+> 
+> “The unbelievers will not be tainted”: All ignorant ordinary people are tainted, good ordinary people, including the seven types of learned, they are tainted, and the Arahant is neither tainted nor away from being tainted: he who is detached from the staining, the extinction of greed becomes the state of freedom from greed; the extinction of anger becomes the state of freedom from anger; the extinction of delusion becomes the state of freedom from delusion, he is the person who has descended into the state, has practiced the behavior… (omitted), the cycle of life and death, without his rebirth.
+
+searched:
+- self-proven
+- self-evidence
+- one who knows
+- unbeliever
+
+no other relevant passages show up
+
+MND14: sāmaṃ sayamabhiññātaṃ attapaccakkhaṃ dhammanti—sakkhidhammaṃ
+His insights were seen and understood in the Dhamma that he personally proved and realized.
+
+
 ## ZacAnger translation
 
 ## CND
@@ -196,6 +233,8 @@ Matches(d=2,o=2): ~~[anussavena]~~, [paramparāya], ~~[itikirāya]~~, [piṭakas
 
 **Paragraph [{'class': ['sc'], 'id': '3'}, {'class': ['pts'], 'id': 'pts75'}, {'class': ['ms'], 'id': 'p_27Pe_449'}]**
 > yathā bhagavā kilese ādimhi tattha deseti. kiṃ desitaṃ? tesaṃ kilesānaṃ pahānaṃ udāhu no desitanti upaparikkhitabbaṃ. yadi na desitaṃ bhagavati tesaṃ kilesānaṃ pahānaṃ kusalā dhammā pariyesitabbā; yattha te akusalā pahānaṃ gacchanti. sace samannehamāno na labhati. tattha akusalā dhammā apakaḍḍhitabbā vīmaṃsitabbā, saṃkilesabhāgiyasuttaṃ, yadi kilesā apakaḍḍhiyantā. ye vā na denti tattha upaparikkhitabbā ariyamaggadhammā tāsu bhūmīsu kilesā pahānaṃ gacchanti, udāhu na gacchantīti. yattakā pana kilesā desitā. na tattakā ariyadhammā desitā. yattha kilesā pahānaṃ gacchanti, tattha ye kilesā ariyadhammānaṃ paṭipakkhena na yujjanti, te apakaḍḍhitabbā, sace apakaḍḍhiyantā yojanaṃ deti. tattha evaṃ vīmaṃsitabbaṃ. dve tīṇi vā taduttari vā kilesā ekena ariyamaggena pahānaṃ gacchantīti. sace evaṃ vīmaṃsiyantā yojanaṃ deti, tattha upaparikkhitabbaṃ. **paramparāya** vā **piṭakasampadānena** vā suttassa attho ca nattho ca. yaṃ vā na sakkā suttaṃ niddisituṃ neva suttaṃ vicikicchitabbaṃ. evaṃ yathā ādimhi kusalā dhammā honti. ye kilesā te pahīneyyāti. te upaparikkhitabbā. puro vā kusalo paṭipakkhena vā puro desanā, anūnā anadhikā uggahetabbā. yathā paṭhamo uttilo yesamidāni kilesānaṃ ye ariyadhammā desitā ime kilesā imehi ariyadhammehi pahīyanti, udāhu nappahīyantīti vicinitabbā. yadi upaparikkhiyamānā yujjanti, gahetabbā. atha na yujjanti, ye kilesā apaṭipakkhā honti, te kilesā aparipakkhitabbā. ye ca ariyadhammā paṭipakkhā honti, te ariyadhammā apakaḍḍhitabbā. na hi ariyadhammā anāgāmikilesappahānaṃ gacchanti, nāpi ariyadhammā sabbakilesānaṃ pahānāya saṃvattanti. yathā kusalā mettā akusalo rāgo na tu kusalā mettāti kāretvā akusalassa rāgassa pahānāya sambhavati byāpādo mettāya pahānaṃ gacchati. tasmā ubho kilesā upaparikkhitabbā. yo yo ca dhammo upadisiyati kusalo vā akusalo vā so apakaḍḍhitabbo. sace te yujjanti apakaḍḍhiyamāno natthi upaparikkhitabbaṃ. dve vā kilesā ekena ariyadhammena pahīneyyāti dvīhi vā ariyadhammehi eko vā kileso pahīyatīti.
+
+
 
 ## SuttaCentral
 
