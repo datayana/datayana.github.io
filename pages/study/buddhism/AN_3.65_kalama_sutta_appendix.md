@@ -39,6 +39,8 @@ corresponding in [pali](https://suttacentral.net/an3.65/pli/ms) to:
 | bhabbarūpatāya | ... | ... |
 | samaṇo no garūti | ... | ... |
 
+IMPORTANT: + itihitiha
+
 - list 1: [anussavena], [paramparāya], [itikirāya], [piṭaka­sam­padā­nena]
 - list 2: [takkahetu], [nayahetu], [ākāra­pari­vitak­kena], [diṭṭhi­nij­jhā­nak­khan­tiyā]
 - list 3: [bhabbarūpatāya], [samaṇo no garūti]
@@ -182,15 +184,53 @@ Pali extract: https://suttacentral.net/mn102/pli/ms
 Basing acceptance of a thesis on the five grounds (faith, personal preference, oral tradition, reasoned reflexion, acceptance of a view after pondering it) would be considered as clinging to a wrong view.
 
 
-## TODO: MN76 - Sandakasutta [[link](https://suttacentral.net/pi/mn76/)]
+## MN76 - Sandakasutta
 
-Matches(d=3,o=3): [anussavena], [paramparāya], ~~[itikirāya]~~, [piṭakasampadānena], ~~[takkahetu]~~, ~~[nayahetu]~~, ~~[ākāraparivitakkena]~~, ~~[diṭṭhinijjhānakkhantiyā]~~, ~~[bhabbarūpatāya]~~, ~~[samaṇo no garū]~~
+English extract: https://suttacentral.net/mn76/en/sujato
 
-**Paragraph [{'class': ['sc'], 'id': '17'}, {'class': ['wp'], 'id': 'wp24'}, {'class': ['ms'], 'id': 'p_10M_647'}, {'class': ['msdiv'], 'id': 'msdiv230'}, {'class': ['wp'], 'id': 'wp25'}, {'class': ['wp'], 'id': 'wp26'}]**
-> puna caparaṃ, sandaka, idhekacco satthā anussaviko hoti anussavasacco. so **anussavena** itihitiha**paramparāya** **piṭakasampadāya** dhammaṃ deseti. anussavikassa kho pana, sandaka, satthuno anussavasaccassa sussutampi hoti dussutampi hoti tathāpi hoti aññathāpi hoti. tatra, sandaka, viññū puriso iti paṭisañcikkhati: ‘ayaṃ kho bhavaṃ satthā anussaviko anussavasacco so **anussavena** itihitiha**paramparāya** **piṭakasampadāya** dhammaṃ deseti. anussavikassa kho pana satthuno anussavasaccassa sussutampi hoti dussutampi hoti tathāpi hoti aññathāpi hoti’. so ‘anassāsikaṃ idaṃ brahmacariyan’ti—iti viditvā tasmā brahmacariyā nibbijja pakkamati. idaṃ kho, sandaka, tena bhagavatā jānatā passatā arahatā sammāsambuddhena dutiyaṃ anassāsikaṃ brahmacariyaṃ akkhātaṃ yattha viññū puriso sasakkaṃ brahmacariyaṃ na vaseyya, vasanto ca nārādheyya ñāyaṃ dhammaṃ kusalaṃ.
+> Furthermore, take another teacher who is an oral transmitter, who takes oral transmission to be the truth. He teaches by oral transmission, by the lineage of testament, by canonical authority. But when a teacher takes oral transmission to be the truth, some of that is well learned, some poorly learned, some true, and some otherwise.
+
+Pali extract: https://suttacentral.net/mn76/pli/ms
+
+> Puna caparaṁ, sandaka, idhekacco satthā anussaviko hoti anussavasacco. So **anussavena** **itihitihaparamparāya** **piṭakasampadāya** dhammaṁ deseti. Anussavikassa kho pana, sandaka, satthuno anussavasaccassa sussutampi hoti dussutampi hoti tathāpi hoti aññathāpi hoti.
+
+### Notes
+
+The Blessed One is named "the Blessed One who knows and sees".
+
+Ananda speaks to an assembly of wanderer led by Sandaka. He teaches about the four ways that negate the living of the holy life.
+
+1. Holding the view "there is nothing give, nothing offered, nothing sacrificed; no fruit or result of good and bad actions; no this world, no other world [...]",
+2. Holding the view "when one acts or makes other act [...], no evil is done by the doer" and no outcome of evil,
+3. Holding the view "there is no cause or condition for the defilement of beings; beings are defiled withotu cause or condition; there is no cause or condition for the purification of beings, beings are purified withotu cause or condition; [...] all beings, all living things, all creatures, all souls are without mastery, power, energy",
+4. Holding the view "there are these seven bodies that are unmade, not brought forth, uncreated, without a creator, [these are earth, water, fire, air, pleasure, pain, soul]; herein there is no killer, no slaughterer, no hearer, no speaker; [...] the round of rebirths is limited, there is no shortening or extending it, no increasing or decreasing it".
+
+Those are clearly related to different doctrines of morality, cause and effect / karma.
+
+Ananda then teaches about the four kind of holy life without consolate, wherein a wise man certainly would not live the holy life, or if he should live it, would not attain the true way.
+
+1. "some teacher claims to be omniscient and all-seeing", when asked "how is this?" he replies "I had to...",
+2. "some teacher is a traditionalist, one who regards oral tradition as truth; he teaches a Dhamma by oral tradition, by legends handed down, by the authority of the collections",
+3. a certain teacher is a reasoner, an inquirer; he teaches a Dhamma hammered out by reasoning, following a line of inquiry as it occurs to him",
+4. "a certain teacher is dull and confused; [...] when he is asked such and such a question, he engages in verbal wriggling, in eel-wriggling".
+
+"So when [the teacher] finds that this holy life is without consolation, he turns away from it and leaves it."
+
+Ananda then speaks of the Tathagata, how the Tathagata went through all jhanas (unfolding this matika in the sutta, as in MN51). The sutta concludes on the description of the Arahant.
 
 
-## TODO: MN95 - Caṅkīsutta [[link](https://suttacentral.net/pi/mn95/)]
+## MN95 - Caṅkīsutta
+
+English extract: https://suttacentral.net/mn95/en/sujato
+
+> These five things can be seen to turn out in two different ways. What five? Faith, preference, oral tradition, reasoned contemplation, and acceptance of a view after consideration. Even though you have full faith in something, it may be void, hollow, and false. And even if you don’t have full faith in something, it may be true and real, not otherwise.  
+> [...]
+
+Pali extract: https://suttacentral.net/mn95/pli/ms
+
+> Pañca kho ime, bhāradvāja, dhammā diṭṭheva dhamme dvedhā vipākā. Katame pañca? Saddhā, ruci, anussavo, ākāraparivitakko, diṭṭhinijjhānakkhanti— ime kho, bhāradvāja, pañca dhammā diṭṭheva dhamme dvedhā vipākā.  
+> [...]  
+> 
 
 Matches(d=3,o=3): [anussavena], [paramparāya], ~~[itikirāya]~~, [piṭakasampadānena], ~~[takkahetu]~~, ~~[nayahetu]~~, ~~[ākāraparivitakkena]~~, ~~[diṭṭhinijjhānakkhantiyā]~~, ~~[bhabbarūpatāya]~~, ~~[samaṇo no garū]~~
 
@@ -459,6 +499,10 @@ Matches(d=2,o=2): ~~[anussavena]~~, [paramparāya], ~~[itikirāya]~~, [piṭakas
 
 
 # B. Mapping "know for yourself"
+
+Notes:
+- MN51.12=MN76.35 "which he has himself realized by direct knowledge"
+
 
 ### MND 10
 
