@@ -10,44 +10,193 @@ plan:
 4. trace back to the section in Snp5
 5. note context from both CND and Snp5
 
-## "know for yourself" => "the one who knows" ?
+TODO:
+1. get an exaustive list of all occurences of the matika
+2. pick in context something corresponding to "know for yourself"
+3. regroup those and search for relationships in other texts
 
-### MND 10
 
-> 88 · Those who have no leakage in satisfaction,  
-> Those who are not enthusiastic in arrogance,  
-> The soft and the eloquent, the unbeliever,  
-> He will not be tainted.  
+# A. Occurences of the matika on the acceptance of a teaching
+
+In this section, we're looking for occurences of the matika formed by the ten grounds for the acceptance of a teaching, as stated in [AN3.65 Kalama Sutta](https://suttacentral.net/an3.65/en/sujato):
+
+> Please, Kālāmas, don’t go by oral transmission, don’t go by lineage, don’t go by testament, don’t go by canonical authority, don’t rely on logic, don’t rely on inference, don’t go by reasoned contemplation, don’t go by the acceptance of a view after consideration, don’t go by the appearance of competence, and don’t think ‘The ascetic is our respected teacher.’ But when you know for yourselves: ‘These things are unskillful, blameworthy, criticized by sensible people, and when you undertake them, they lead to harm and suffering’, then you should give them up.
+
+corresponding in [pali](https://suttacentral.net/an3.65/pli/ms) to:
+
+> Etha tumhe, kālāmā, mā anussavena, mā paramparāya, mā itikirāya, mā piṭakasampadānena, mā takkahetu, mā nayahetu, mā ākāraparivitakkena, mā diṭṭhinijjhānakkhantiyā, mā bhabbarūpatāya, mā samaṇo no garūti. Yadā tumhe, kālāmā, attanāva jāneyyātha: ‘ime dhammā akusalā, ime dhammā sāvajjā, ime dhammā viññugarahitā, ime dhammā samattā samādinnā ahitāya dukkhāya saṁvattantī’ti, atha tumhe, kālāmā, pajaheyyātha.
+
+| Pali | English | Comment |
+| :-- | :-- | :-- |
+| anussavena | oral tradition | ... |
+| paramparāya | ... | ... |
+| itikirāya | ... | ... |
+| piṭaka­sam­padā­nena | ... | ... |
+| takkahetu | ... | ... |
+| nayahetu | ... | ... |
+| ākāra­pari­vitak­kena | ... | ... |
+| diṭṭhi­nij­jhā­nak­khan­tiyā | ... | ... |
+| bhabbarūpatāya | ... | ... |
+| samaṇo no garūti | ... | ... |
+
+- list 1: [anussavena], [paramparāya], [itikirāya], [piṭaka­sam­padā­nena]
+- list 2: [takkahetu], [nayahetu], [ākāra­pari­vitak­kena], [diṭṭhi­nij­jhā­nak­khan­tiyā]
+- list 3: [bhabbarūpatāya], [samaṇo no garūti]
+
+
+## AN3.66 - 66. Sāḷhasutta
+
+English extract: https://suttacentral.net/an3.66/en/sujato
+
+> “Please, Sāḷha and friend, don’t go by oral transmission, don’t go by lineage, don’t go by testament, don’t go by canonical authority, don’t rely on logic, don’t rely on inference, don’t go by reasoned contemplation, don’t go by the acceptance of a view after consideration, don’t go by the appearance of competence, and don’t think ‘The ascetic is our respected teacher.’ But when you know for yourselves: ‘These things are unskillful, blameworthy, criticized by sensible people, and when you undertake them, they lead to harm and suffering’, then you should give them up.
+
+Pali extract: https://suttacentral.net/an3.66/pli/ms
+
+> “Etha tumhe, sāḷhā, mā anussavena, mā paramparāya, mā itikirāya, mā piṭakasampadānena, mā takkahetu, mā nayahetu, mā ākāraparivitakkena, mā diṭṭhinijjhānakkhantiyā, mā bhabbarūpatāya, mā samaṇo no garūti. Yadā tumhe, sāḷhā, **attanāva jāneyyātha** ‘ime dhammā akusalā, ime dhammā sāvajjā, ime dhammā viññugarahitā, ime dhammā samattā samādinnā ahitāya dukkhāya saṁvattantī’ti, atha tumhe, sāḷhā, pajaheyyātha.
+
+### Notes
+
+This time the discourse is given by Venerable Nandaka to Salha and Rohana. Nandaka starts directly by saying to Salha this paragraph seen in [AN3.65](https://suttacentral.net/an3.65/pli/ms) (_"Come, Salha, do not go by..."_).
+
+Then Nandaka unfolds the same reasoning as in AN3.65: abandoning practices and views rooted in greed [lobha], aversion [dosa] and delusion [moha], and that lead to suffering.
+
+This time, greed [lobha] is said to mean "longing" [abhijjhā], and that longing leads to wrong deeds. Aversion [dosa] is said to mean "ill will" [byāpāda], idem. And delusion [moha] is said to mean "ignorance" [avijjā].
+
+In this sutta, Nandaka doesn't mention the four assurances. Instead, he says that the noble disciple, as a reward of abandoning greed, aversion, delusion, understands thus: _"There is this; there is the inferior; there is the superior; there is a further escape from whatever is involved with perception."_ And he is liberated from taints.
+
+note 462 ref to [MN7.17](https://suttacentral.net/pi/mn7/) four divine abodes?
+
+[B. Bodhi, AN, 2012, note 462 p 1654] adds that the commentary (Anguttara Nikaya-atthakatha) establishes a relation between these four and the four noble truths:
+- "there is this": five aggregates, truth of suffering
+- "inferior": truth of the origin of suffering
+- "superior": truth of the path
+- "further escape": nibbana, truth of cessation
+
+
+## AN4.193 - 193. Bhaddiyasutta
+
+English extract: https://suttacentral.net/an4.193/en/sujato
+
+> “Please, Bhaddiya, don’t go by oral transmission, don’t go by lineage, don’t go by testament, don’t go by canonical authority, don’t rely on logic, don’t rely on inference, don’t go by reasoned contemplation, don’t go by the acceptance of a view after consideration, don’t go by the appearance of competence, and don’t think ‘The ascetic is our respected teacher.’ But when **you know for yourselves**: ‘These things are unskillful, blameworthy, criticized by sensible people, and when you undertake them, they lead to harm and suffering’, then you should give them up.
+
+Pali extract: https://suttacentral.net/an4.193/pli/ms
+
+> “Etha tumhe, bhaddiya, mā anussavena, mā paramparāya, mā itikirāya, mā piṭakasampadānena, mā takkahetu, mā nayahetu, mā ākāraparivitakkena, mā diṭṭhinijjhānakkhantiyā, mā bhabbarūpatāya, mā ‘samaṇo no garū’ti. Yadā tumhe, bhaddiya, **attanāva jāneyyātha**: ‘ime dhammā akusalā, ime dhammā sāvajjā, ime dhammā viññugarahitā, ime dhammā samattā samādinnā ahitāya dukkhāya saṁvattantī’ti, atha tumhe, bhaddiya, pajaheyyātha.
+
+### Notes
+
+In this sutta, Baddhiya comes to the Buddha because he heard that _"the ascetic Gotama is a magician who knows a converting magic by which he converts the disciples of teachers of other sects"_ ([B. Bodhi, AN, 2012, p567], see also note 907 ref to [SN42.13](https://suttacentral.net/pi/sn42.13) and [MN56.8](https://suttacentral.net/pi/mn56)). The Buddha dispells how "some ascetics and brahmins untruthfully, baselessly, falsely, and wrongly misrepresent [him]" by saying this. He uses the same sutta as in AN 3.65 to show what his conversion is about: abandoning practices and views rooted in greed [lobha], aversion [dosa] and delusion [moha], and that lead to suffering (with vehemence [sārambha] added in the mix).
+
+This time the Buddha doesn't mention the four assurances. But he asks Baddhiya: _"did I say to you: 'Come, Bhaddiya, be my disciple and I will be your teacher'?"_. Bhaddiya says no. The emphasis seems to be on the choice Bhaddiya made to go to the Buddha for refuge on his own.
+
+After having said how beneficial it would be for basically everyone to convert that way (in note 911, B. Bodhi refers to MN56.26 at this point), at the very end of the sutta, there is this interesting paragraph:
+> "If these great sal trees would be converted by this conversion toward the abandoning of unwholesome qualities and the acquisition of wholesome qualities, that would lead to the welfare and happiness even of these great sal trees for a long time, if they could choose. How much more then for a human being!" [B. Bodhi, AN, 2012, p 570]
+
+_Note: B. Bodhi note 912 mentions that "sace ceteyyum" ("if they could choose") is found in Sinhala-script and Roman-script but not Burmese-script._
+
+
+## SN12.68 - 68. Kosambisutta
+
+English extract: https://suttacentral.net/sn12.68/en/sujato
+
+> “Reverend Musīla, apart from faith, preference, oral tradition, reasoned contemplation, or acceptance of a view after consideration, do you **know for yourself** that rebirth is a condition for old age and death?”
 > 
-> “The unbeliever, he will not be tainted”: “The unbeliever,” who has been personally proven by himself, of the self-represented Dhamma, does not believe in any other Samaṇa, or Brāhmaṇa, or heaven, or man, or Brahma: “All actions are impermanent,” he has proved it himself …, “all actions are suffering”…, “all dhammas are selfless”…, “action is based on ignorance”…, “being is based on life, age, death”…, “death by ignorance leads to demise”…, “birth and death lead to life and death)”…, “this is suffering”…, “these are defilements”…, “this is the path leading to defilements”…, “these dhammas should be proven to be known”…, “these dhammas should be witnessed”…, “the gathering, extinction, pleasure, trouble, detachment of the touch…,” the gathering of the five aggregates…, the four major gatherings, disappearance, pleasure, trouble, detachment are justified by oneself, knowing… “any collection of dhammas is an extinguishing of dhammas.” The one who knows the Dhamma by himself, self-proven, does not believe in any other Samaṇa, or Brāhmaṇa, or heaven, or man, or Brahma.
-> 
-> This was said by the Blessed One [SN.48.44]: “Sāriputta! Do you have faith that when the root of faith has been practiced and practiced more, is an immortal foothold, an immortal shore, an end of immortality?; when the root of vitality…, the root of mind…, the root of concentration…, when the root of wisdom…, ?”
-> 
-> “Great Virtue! Here, I do not rely on faith in the Blessed One that when the root of faith…, when the root of vitality…, when the root of mind…, when the root of concentration…, when the root of wisdom …, Great Virtue! If this is not known, not seen, not discovered, not testified, not touched by wisdom, there, they will come to other people with faith that when the root of faith has been practiced…, there is an immortal foothold, an immortal other side, and an immortal end; but, Great Virtue! Those who have known, seen, discovered, testified, and touched with wisdom, where they are confident and undoubtful that the root of faith…., and an end of immortality. Great Virtue! For me, this has been known, has been seen, has been discovered, has been testified, has been touched with wisdom, where I am confident and undoubting that when the root of faith…, there is a foothold….”
-> 
-> “Good! Well! Sāriputta! Sāriputta! If this is not known, unseen, undiscovered, untested, untouched by wisdom, there, they will come to others with faith that when the root of faith…, when the root of wisdom has already been practiced and practiced more, there is an immortal foothold, an immortal shore, and an end of immortality.”
-> 
-> “The unbelievers and those who are not known,
-And those who have cut off reincarnation,
-The person who destroys the opportunity and the person who has spit out,
-He is indeed the best person.”
-[Dhp.97]
-> 
-> “The unbelievers will not be tainted”: All ignorant ordinary people are tainted, good ordinary people, including the seven types of learned, they are tainted, and the Arahant is neither tainted nor away from being tainted: he who is detached from the staining, the extinction of greed becomes the state of freedom from greed; the extinction of anger becomes the state of freedom from anger; the extinction of delusion becomes the state of freedom from delusion, he is the person who has descended into the state, has practiced the behavior… (omitted), the cycle of life and death, without his rebirth.
+> “Reverend Saviṭṭha, apart from faith, preference, oral tradition, reasoned contemplation, or acceptance of a view after consideration, I **know and see** that rebirth is a condition for old age and death.”
 
-searched:
-- self-proven
-- self-evidence
-- one who knows
-- unbeliever
+Pali extract: https://suttacentral.net/sn12.68/pli/ms
 
-no other relevant passages show up
+> “aññatreva, āvuso musila, saddhāya aññatra ruciyā aññatra anussavā aññatra ākāraparivitakkā aññatra diṭṭhinijjhānakkhantiyā **atthāyasmato musilassa paccattameva ñāṇaṁ**: ‘jātipaccayā jarāmaraṇan’”ti?
+> 
+> “Aññatreva, āvuso paviṭṭha, saddhāya aññatra ruciyā aññatra anussavā aññatra ākāraparivitakkā aññatra diṭṭhinijjhānakkhantiyā **ahametaṁ jānāmi ahametaṁ passāmi**: ‘jātipaccayā jarāmaraṇan’”ti.
 
-MND14: sāmaṃ sayamabhiññātaṃ attapaccakkhaṃ dhammanti—sakkhidhammaṃ
-His insights were seen and understood in the Dhamma that he personally proved and realized.
+### Notes
+
+This sutta reports an exchange happening between the four Venerables Musila, Savittha, Narada and Ananda.
+
+Savittha asks Musila the following question:
+
+> Friend Musila, apart from faith, apart from personal preference, apart from oral tradition, apart from reasoned reflexion, apart from acceptance of a view after pondering it, does the Venerable Musila have personal knowledge thus: 'With birth as condition, aging-and-death [comes to be]?' [B. Bodhi, SN, p. 612]
+
+This unfolds along the list of factors of dependent origination. And the final point is Savittha saying "I know this (TODO: which "know" here?), I see this: 'Nibbana is the cessation of existence'". To that sentence, Musila concludes that Savittha is an Arahant.
+
+But Narada interrupts. And an exchange of the same kind unfolds into a discussion on the point that it is not enough to know and see 'Nibbana is the cessation of existence' to be an arahant. That one needs also to extinguish all taints related to this view, to make "bodily contact" with this truth (use of a simile).
+
+In his notes, B.Bodhi points to a discussion on the "five grounds for the acceptance of a thesis" [B. Bodhi, SN, note 198, p 781] which are here put in comparison with "Personal knowledge" [paccattameva ñāṇa], and are also criticized in SN35.153 (see below):
+- faith [saddhā]
+- personal preference [ruci]
+- oral tradition [anussavā]
+- reasoned reflexion [ākāraparivitakkā]
+- acceptance of a view after pondering itth [diṭṭhinijjhānakkhanti]
+
+TODO: See Gombrich, How Buddhism Began, 1996, pp 128-29
 
 
-# Occurences of the matika
+## SN35.153 - 153. Atthi­nu­kho­pariyā­ya­sutta
+
+English extract: https://suttacentral.net/sn35.153/en/sujato
+
+> “There is a method—apart from faith, preference, oral tradition, reasoned contemplation, or acceptance of a view after consideration—that a mendicant can rely on to declare their enlightenment. That is: ‘I **understand**: “Rebirth is ended, the spiritual journey has been completed, what had to be done has been done, there is no return to any state of existence.”’
+> 
+> And what is that method? Take a mendicant who sees a sight with the eye. When they have greed, hate, and delusion in them, they **understand** ‘I have greed, hate, and delusion in me.’ When they don’t have greed, hate, and delusion in them, they understand ‘I don’t have greed, hate, and delusion in me.’ Since this is so, are these things understood by faith, preference, oral tradition, reasoned contemplation, or acceptance of a view after consideration?”
+> 
+> “No, sir.”
+> 
+> “Aren’t they **understood by seeing them with wisdom**?”
+> 
+> “Yes, sir.”
+
+Pali extract: https://suttacentral.net/sn35.153/pli/ms
+
+> “atthi, bhikkhave, pariyāyo yaṁ pariyāyaṁ āgamma bhikkhu aññatreva saddhāya, aññatra ruciyā, aññatra anussavā, aññatra ākāraparivitakkā, aññatra diṭṭhinijjhānakkhantiyā aññaṁ byākareyya: ‘“khīṇā jāti, vusitaṁ brahmacariyaṁ, kataṁ karaṇīyaṁ, nāparaṁ itthattāyā”ti **pajānāmī**’ti.
+> 
+> Katamo ca, bhikkhave, pariyāyo, yaṁ pariyāyaṁ āgamma bhikkhu aññatreva saddhāya …pe… aññatra diṭṭhinijjhānakkhantiyā aññaṁ byākaroti: ‘khīṇā jāti, vusitaṁ brahmacariyaṁ, kataṁ karaṇīyaṁ, nāparaṁ itthattāyāti **pajānāmī**’ti?  
+> Idha, bhikkhave, bhikkhu cakkhunā rūpaṁ disvā santaṁ vā ajjhattaṁ rāgadosamohaṁ, atthi me ajjhattaṁ rāgadosamohoti pajānāti; asantaṁ vā ajjhattaṁ rāgadosamohaṁ, natthi me ajjhattaṁ rāgadosamohoti pajānāti. Yaṁ taṁ, bhikkhave, bhikkhu cakkhunā rūpaṁ disvā santaṁ vā ajjhattaṁ rāgadosamohaṁ, atthi me ajjhattaṁ rāgadosamohoti pajānāti; asantaṁ vā ajjhattaṁ rāgadosamohaṁ, natthi me ajjhattaṁ rāgadosamohoti pajānāti. Api nu me, bhikkhave, dhammā saddhāya vā veditabbā, ruciyā vā veditabbā, anussavena vā veditabbā, ākāraparivitakkena vā veditabbā, diṭṭhinijjhānakkhantiyā vā veditabbā”ti?
+> 
+> “No hetaṁ, bhante”.
+> 
+> “Nanume, bhikkhave, dhammā **paññāya disvā veditabbā**”ti?
+> 
+> “Evaṁ, bhante”.
+
+### Notes
+
+Pointed out in [B. Bodhi, SN, note 198, p 781] as another sutta criticizing the "five grounds for the acceptance of a thesis".
+
+In this sutta, the investigation related to **how a Bhikkhu can declare** [] - 'Detroyed is birth, the holy life has been lived, what had to be done has been done, there is no more for this state of being'.
+
+The answer the Buddha provides is related to one, having seen a form, a sound with the ear... a mental phenomenon with the mind, "sees with wisdom" [dhammā paññāya disvā veditabbā] that there is no lust, hatred or delusion [lobha, dosa, moha] internally.
+
+
+## MN102 - Pañ­catta­yasutta [[link](https://suttacentral.net/pi/mn102/)]
+
+English extract: https://suttacentral.net/mn102/en/sujato
+
+> Now, consider the ascetics and brahmins whose view is as follows. ‘The self and the cosmos are eternal. This is the only truth, other ideas are silly.’ It’s simply not possible for them to have purified and clear personal knowledge of this, apart from faith, preference, oral tradition, reasoned contemplation, or acceptance of a view after consideration. And in the absence of such knowledge, even the partial knowledge that they are clear about is said to be grasping on their part. ‘All that is conditioned and coarse. But there is the cessation of conditions—that is real.’ Understanding this and seeing the escape from it, the Realized One has gone beyond all that.
+
+Pali extract: https://suttacentral.net/mn102/pli/ms
+
+> Tatra, bhikkhave, ye te samaṇabrāhmaṇā evaṁvādino evaṁdiṭṭhino: ‘sassato attā ca loko ca, idameva saccaṁ moghamaññan’ti, tesaṁ vata aññatreva saddhāya aññatra ruciyā aññatra anussavā aññatra ākāraparivitakkā aññatra diṭṭhinijjhānakkhantiyā paccattaṁyeva ñāṇaṁ bhavissati parisuddhaṁ pariyodātanti—netaṁ ṭhānaṁ vijjati. Paccattaṁ kho pana, bhikkhave, ñāṇe asati parisuddhe pariyodāte yadapi te bhonto samaṇabrāhmaṇā tattha ñāṇabhāgamattameva pariyodapenti tadapi tesaṁ bhavataṁ samaṇabrāhmaṇānaṁ upādānamakkhāyati. Variant: yadapi → yadipi (mr)‘Tayidaṁ saṅkhataṁ oḷārikaṁ atthi kho pana saṅkhārānaṁ nirodho atthetan’ti— iti viditvā tassa nissaraṇadassāvī tathāgato tadupātivatto.
+
+### Notes
+
+Basing acceptance of a thesis on the five grounds (faith, personal preference, oral tradition, reasoned reflexion, acceptance of a view after pondering it) would be considered as clinging to a wrong view.
+
+
+## TODO: MN76 - Sandakasutta [[link](https://suttacentral.net/pi/mn76/)]
+
+Matches(d=3,o=3): [anussavena], [paramparāya], ~~[itikirāya]~~, [piṭakasampadānena], ~~[takkahetu]~~, ~~[nayahetu]~~, ~~[ākāraparivitakkena]~~, ~~[diṭṭhinijjhānakkhantiyā]~~, ~~[bhabbarūpatāya]~~, ~~[samaṇo no garū]~~
+
+**Paragraph [{'class': ['sc'], 'id': '17'}, {'class': ['wp'], 'id': 'wp24'}, {'class': ['ms'], 'id': 'p_10M_647'}, {'class': ['msdiv'], 'id': 'msdiv230'}, {'class': ['wp'], 'id': 'wp25'}, {'class': ['wp'], 'id': 'wp26'}]**
+> puna caparaṃ, sandaka, idhekacco satthā anussaviko hoti anussavasacco. so **anussavena** itihitiha**paramparāya** **piṭakasampadāya** dhammaṃ deseti. anussavikassa kho pana, sandaka, satthuno anussavasaccassa sussutampi hoti dussutampi hoti tathāpi hoti aññathāpi hoti. tatra, sandaka, viññū puriso iti paṭisañcikkhati: ‘ayaṃ kho bhavaṃ satthā anussaviko anussavasacco so **anussavena** itihitiha**paramparāya** **piṭakasampadāya** dhammaṃ deseti. anussavikassa kho pana satthuno anussavasaccassa sussutampi hoti dussutampi hoti tathāpi hoti aññathāpi hoti’. so ‘anassāsikaṃ idaṃ brahmacariyan’ti—iti viditvā tasmā brahmacariyā nibbijja pakkamati. idaṃ kho, sandaka, tena bhagavatā jānatā passatā arahatā sammāsambuddhena dutiyaṃ anassāsikaṃ brahmacariyaṃ akkhātaṃ yattha viññū puriso sasakkaṃ brahmacariyaṃ na vaseyya, vasanto ca nārādheyya ñāyaṃ dhammaṃ kusalaṃ.
+
+
+## TODO: MN95 - Caṅkīsutta [[link](https://suttacentral.net/pi/mn95/)]
+
+Matches(d=3,o=3): [anussavena], [paramparāya], ~~[itikirāya]~~, [piṭakasampadānena], ~~[takkahetu]~~, ~~[nayahetu]~~, ~~[ākāraparivitakkena]~~, ~~[diṭṭhinijjhānakkhantiyā]~~, ~~[bhabbarūpatāya]~~, ~~[samaṇo no garū]~~
+
+**Paragraph [{'class': ['sc'], 'id': '25'}, {'class': ['pts'], 'id': 'pts2.170'}, {'class': ['ms'], 'id': 'p_10M_1326'}, {'class': ['msdiv'], 'id': 'msdiv427'}, {'class': ['wp'], 'id': 'wp13'}]**
+> atha kho kāpaṭikassa māṇavassa etadahosi: “samannāharati kho maṃ samaṇo gotamo. yannūnāhaṃ samaṇaṃ gotamaṃ pañhaṃ puccheyyan”ti. atha kho kāpaṭiko māṇavo bhagavantaṃ etadavoca: “yadidaṃ, bho gotama, brāhmaṇānaṃ porāṇaṃ mantapadaṃ **itihitiha** **paramparāya** **piṭakasampadāya**, tattha ca brāhmaṇā ekaṃsena niṭṭhaṃ gacchanti: ‘idameva saccaṃ, moghamaññan’ti. idha bhavaṃ gotamo kimāhā”ti? “kiṃ pana, bhāradvāja, atthi koci brāhmaṇānaṃ ekabrāhmaṇopi yo evamāha: ‘ahametaṃ jānāmi, ahametaṃ passāmi. idameva saccaṃ, moghamaññan’”ti? “no hidaṃ, bho gotama”. “kiṃ pana, bhāradvāja, atthi koci brāhmaṇānaṃ ekācariyopi, ekācariyapācariyopi, yāva sattamā ācariyamahayugāpi, yo evamāha: ‘ahametaṃ jānāmi, ahametaṃ passāmi. idameva saccaṃ, moghamaññan’”ti? “no hidaṃ, bho gotama”. “kiṃ pana, bhāradvāja, yepi te brāhmaṇānaṃ pubbakā isayo mantānaṃ kattāro mantānaṃ pavattāro yesamidaṃ etarahi brāhmaṇā porāṇaṃ mantapadaṃ gītaṃ pavuttaṃ samihitaṃ tadanugāyanti tadanubhāsanti bhāsitamanubhāsanti vācitamanuvācenti seyyathidaṃ—aṭṭhako vāmako vāmadevo vessāmitto yamataggi aṅgīraso bhāradvājo vāseṭṭho kassapo bhagu, tepi evamāhaṃsu: ‘mayametaṃ jānāma, mayametaṃ passāma. idameva saccaṃ, moghamaññan’”ti? “no hidaṃ, bho gotama”.
+
 
 ## CND 4 - Mettagu
 
@@ -61,7 +210,7 @@ Translation from https://zacanger.com/niddesa/assets/niddesa.html#mettag%C5%AB
 > 
 > “You ask me about the occurrence of suffering”: Suffering, bitterness, old age, sickness, death, sadness, desperation, and sorrow. You ask, you ask about the cause of suffering, you ask about the root, you ask about arising, you ask about happening, you ask about waiting, you ask about the nutriment, you ask about the object, you ask about the condition, you ask about the collection, you ask strongly, you ask, beg, request, make it clear. “Mettagū,” the Blessed One called the Brāhmaṇa by his name. “Blessed One,” this is a respectful synonym… (omitted).
 > 
-> “I will say that for you as **the one who knows**”: “That,” I will explain the cause of suffering, …the root, arising, production, …(omitted); I will explain, I will teach… (omitted). “As the one who knows,” **such as the one who knows, the one who understands, the one who penetrates, not from hearsay, not from rumors, not from inheritance, not from scripture, not from logic, not from reasoning, not because of theoretical contemplation, not because of the insights accepted after contemplation; a method that is personally proven and self-proven by oneself**, I will say that.
+> “I will say that for you as **the one who knows**”: “That,” I will explain the cause of suffering, …the root, arising, production, …(omitted); I will explain, I will teach… (omitted). “As the one who knows,” **such as the one who knows, the one who understands, the one who penetrates**, not from hearsay, not from rumors, not from inheritance, not from scripture, not from logic, not from reasoning, not because of theoretical contemplation, not because of the insights accepted after contemplation; a **method that is personally proven and self-proven by oneself**, I will say that.
 
 Tracing back to Pali [pi/cnd8](https://legacy.suttacentral.net/pi/cnd8):
 
@@ -138,7 +287,7 @@ Tracing back to Pali [pi/cnd9](https://legacy.suttacentral.net/pi/cnd9):
 > 
 > [...]
 > 
-> **Diṭṭhe dhamme anītihanti**. Diṭṭhe dhammeti diṭṭhe dhamme ñāte dhamme tulite dhamme tīrite dhamme vibhūte dhamme vibhāvite dhamme sabbe saṅkhārā aniccāti … pe … yaṃ kiñci samuda­ya­dhammaṃ sabbaṃ taṃ nirodha­dhammanti diṭṭhe dhamme ñāte dhamme tulite dhamme tīrite dhamme vibhāvite dhamme vibhūte dhammeti, evampi—diṭṭhe dhamme … pe …. Atha vā dukkhe diṭṭhe dukkhaṃ kathayissāmi, samudaye diṭṭhe samudayaṃ kathayissāmi, magge diṭṭhe maggaṃ kathayissāmi, nirodhe diṭṭhe nirodhaṃ kathayissāmīti, evampi— diṭṭhe dhamme … pe …. Atha vā sandiṭṭhikaṃ akālikaṃ ehipassikaṃ opaneyyikaṃ paccattaṃ veditabbaṃ viññūhīti, evampi—diṭṭhe dhamme. **Anītihanti na itihītihaṃ na itikirāya na paramparāya na piṭaka­sam­padāya na takkahetu na nayahetu na ākāra­pari­vitak­kena na diṭṭhi­nij­jhā­nak­khan­tiyā sāmaṃ saya­ma­bhiñ­ñā­taṃ attapaccak­kha­dhammaṃ**, taṃ kathayissāmīti—diṭṭhe dhamme anītihaṃ.
+> **Diṭṭhe dhamme anītihanti**. Diṭṭhe dhammeti diṭṭhe dhamme ñāte dhamme tulite dhamme tīrite dhamme vibhūte dhamme vibhāvite dhamme sabbe saṅkhārā aniccāti … pe … yaṃ kiñci samuda­ya­dhammaṃ sabbaṃ taṃ nirodha­dhammanti diṭṭhe dhamme ñāte dhamme tulite dhamme tīrite dhamme vibhāvite dhamme vibhūte dhammeti, evampi—diṭṭhe dhamme … pe …. Atha vā dukkhe diṭṭhe dukkhaṃ kathayissāmi, samudaye diṭṭhe samudayaṃ kathayissāmi, magge diṭṭhe maggaṃ kathayissāmi, nirodhe diṭṭhe nirodhaṃ kathayissāmīti, evampi— diṭṭhe dhamme … pe …. Atha vā sandiṭṭhikaṃ akālikaṃ ehipassikaṃ opaneyyikaṃ paccattaṃ veditabbaṃ viññūhīti, evampi—diṭṭhe dhamme. **Anītihanti na itihītihaṃ na itikirāya na paramparāya na piṭaka­sam­padāya na takkahetu na nayahetu na ākāra­pari­vitak­kena na diṭṭhi­nij­jhā­nak­khan­tiyā sāmaṃ saya­ma­bhiñ­ñā­taṃ attapaccak­kha­dhammaṃ, taṃ kathayissāmīti**—diṭṭhe dhamme anītihaṃ.
 
 
 ## CND 8 - Hemaka
@@ -230,14 +379,16 @@ https://zacanger.com/niddesa/assets/niddesa.html#quick-instructions
 > 
 > **“The self-evidenced method of distress adjustment”: “Self-evidenced method,” not from rumors, not from inheritance, not from scripture, not from logic, not from reasoning, not because of theoretical contemplation, not because of the insights accepted after contemplation; a method that is personally proven and self-proven by oneself.**
 
-Corresponding to Pali:
+Tracing back to pali []():
 
-Matches(d=8,o=16): [anussavena], [paramparāya], [itikirāya], [piṭakasampadānena], [takkahetu], [nayahetu], [ākāraparivitakkena], [diṭṭhinijjhānakkhantiyā], ~~[bhabbarūpatāya]~~, ~~[samaṇo no garū]~~
-
-**Paragraph [{'class': ['sc'], 'id': '71'}, {'class': ['pts'], 'id': 'pts361'}, {'class': ['ms'], 'id': 'p_24Mn_1414'}]**
-> sakkhidhammaṃ parissayavinayanti.  
-> sakkhidhammanti na **itihītihaṃ**, na **itikirāya**, na **paramparāya**, na **piṭakasampadāya**, na **takkahetu**, na **nayahetu**, na **ākāraparivitakkena**, na **diṭṭhinijjhānakkhantiyā** sāmaṃ sayamabhiññātaṃ attapaccakkhaṃ dhammanti—sakkhidhammaṃ.  
-> parissayavinayanti. parissayāti dve parissayā—pākaṭaparissayā ca paṭicchannaparissayā ca. katame pākaṭaparissayā? sīhā byagghā dīpī acchā taracchā kokā mahiṃsā hatthī ahi vicchikā satapadī, corā vā assu mānavā vā katakammā vā akatakammā vā, cakkhurogo sotarogo ghānarogo jivhārogo kāyarogo sīsarogo kaṇṇarogo mukharogo dantarogo kāso sāso pināso ḍāho jaro kucchirogo mucchā pakkhandikā sūlā visūcikā kuṭṭhaṃ gaṇḍo kilāso soso apamāro daddu kaṇḍu kacchu rakhasā vitacchikā lohitapittaṃ madhumeho aṃsā piḷakā bhagandalā, pittasamuṭṭhānā ābādhā semhasamuṭṭhānā ābādhā vātasamuṭṭhānā ābādhā sannipātikā ābādhā utupariṇāmajā ābādhā visamaparihārajā ābādhā opakkamikā ābādhā kammavipākajā ābādhā, sītaṃ uṇhaṃ jighacchā pipāsā uccāro passāvo ḍaṃsamakasavātātapasarīsapasamphassā iti vā—ime vuccanti pākaṭaparissayā.
+> “Na tassa adiṭ­ṭha­midhat­thi kiñci,  
+> Atho aviñ­ñāta­ma­jānitab­baṃ;  
+> Sabbaṃ abhiññāsi yadatthi neyyaṃ,  
+> Tathāgato tena samantacakkhū”ti.  
+> 
+> Evaṃ bhagavā saman­ta­cak­khu­nāpi vivaṭacakkhūti—akittayi vivaṭacakkhu.
+> 
+> **Sakkhidhammaṃ parissa­ya­vinayanti. Sakkhidhammanti na itihitihaṃ, na itikirāya, na paramparāya, na piṭaka­sam­padāya, na takkahetu, na nayahetu, na ākāra­pari­vitak­kena, na diṭṭhi­nij­jhā­nak­khan­tiyā sāmaṃ saya­ma­bhiñ­ñā­taṃ attapaccakkhaṃ dhammanti—sakkhidhammaṃ.**
 
 
 ## MND 14 - Quick Instructions
@@ -304,6 +455,47 @@ Matches(d=2,o=2): ~~[anussavena]~~, [paramparāya], ~~[itikirāya]~~, [piṭakas
 **Paragraph [{'class': ['sc'], 'id': '3'}, {'class': ['pts'], 'id': 'pts75'}, {'class': ['ms'], 'id': 'p_27Pe_449'}]**
 > yathā bhagavā kilese ādimhi tattha deseti. kiṃ desitaṃ? tesaṃ kilesānaṃ pahānaṃ udāhu no desitanti upaparikkhitabbaṃ. yadi na desitaṃ bhagavati tesaṃ kilesānaṃ pahānaṃ kusalā dhammā pariyesitabbā; yattha te akusalā pahānaṃ gacchanti. sace samannehamāno na labhati. tattha akusalā dhammā apakaḍḍhitabbā vīmaṃsitabbā, saṃkilesabhāgiyasuttaṃ, yadi kilesā apakaḍḍhiyantā. ye vā na denti tattha upaparikkhitabbā ariyamaggadhammā tāsu bhūmīsu kilesā pahānaṃ gacchanti, udāhu na gacchantīti. yattakā pana kilesā desitā. na tattakā ariyadhammā desitā. yattha kilesā pahānaṃ gacchanti, tattha ye kilesā ariyadhammānaṃ paṭipakkhena na yujjanti, te apakaḍḍhitabbā, sace apakaḍḍhiyantā yojanaṃ deti. tattha evaṃ vīmaṃsitabbaṃ. dve tīṇi vā taduttari vā kilesā ekena ariyamaggena pahānaṃ gacchantīti. sace evaṃ vīmaṃsiyantā yojanaṃ deti, tattha upaparikkhitabbaṃ. **paramparāya** vā **piṭakasampadānena** vā suttassa attho ca nattho ca. yaṃ vā na sakkā suttaṃ niddisituṃ neva suttaṃ vicikicchitabbaṃ. evaṃ yathā ādimhi kusalā dhammā honti. ye kilesā te pahīneyyāti. te upaparikkhitabbā. puro vā kusalo paṭipakkhena vā puro desanā, anūnā anadhikā uggahetabbā. yathā paṭhamo uttilo yesamidāni kilesānaṃ ye ariyadhammā desitā ime kilesā imehi ariyadhammehi pahīyanti, udāhu nappahīyantīti vicinitabbā. yadi upaparikkhiyamānā yujjanti, gahetabbā. atha na yujjanti, ye kilesā apaṭipakkhā honti, te kilesā aparipakkhitabbā. ye ca ariyadhammā paṭipakkhā honti, te ariyadhammā apakaḍḍhitabbā. na hi ariyadhammā anāgāmikilesappahānaṃ gacchanti, nāpi ariyadhammā sabbakilesānaṃ pahānāya saṃvattanti. yathā kusalā mettā akusalo rāgo na tu kusalā mettāti kāretvā akusalassa rāgassa pahānāya sambhavati byāpādo mettāya pahānaṃ gacchati. tasmā ubho kilesā upaparikkhitabbā. yo yo ca dhammo upadisiyati kusalo vā akusalo vā so apakaḍḍhitabbo. sace te yujjanti apakaḍḍhiyamāno natthi upaparikkhitabbaṃ. dve vā kilesā ekena ariyadhammena pahīneyyāti dvīhi vā ariyadhammehi eko vā kileso pahīyatīti.
 
+
+
+
+# B. Mapping "know for yourself"
+
+### MND 10
+
+> 88 · Those who have no leakage in satisfaction,  
+> Those who are not enthusiastic in arrogance,  
+> The soft and the eloquent, the unbeliever,  
+> He will not be tainted.  
+> 
+> “The unbeliever, he will not be tainted”: “The unbeliever,” who has been personally proven by himself, of the self-represented Dhamma, does not believe in any other Samaṇa, or Brāhmaṇa, or heaven, or man, or Brahma: “All actions are impermanent,” he has proved it himself …, “all actions are suffering”…, “all dhammas are selfless”…, “action is based on ignorance”…, “being is based on life, age, death”…, “death by ignorance leads to demise”…, “birth and death lead to life and death)”…, “this is suffering”…, “these are defilements”…, “this is the path leading to defilements”…, “these dhammas should be proven to be known”…, “these dhammas should be witnessed”…, “the gathering, extinction, pleasure, trouble, detachment of the touch…,” the gathering of the five aggregates…, the four major gatherings, disappearance, pleasure, trouble, detachment are justified by oneself, knowing… “any collection of dhammas is an extinguishing of dhammas.” The one who knows the Dhamma by himself, self-proven, does not believe in any other Samaṇa, or Brāhmaṇa, or heaven, or man, or Brahma.
+> 
+> This was said by the Blessed One [SN.48.44]: “Sāriputta! Do you have faith that when the root of faith has been practiced and practiced more, is an immortal foothold, an immortal shore, an end of immortality?; when the root of vitality…, the root of mind…, the root of concentration…, when the root of wisdom…, ?”
+> 
+> “Great Virtue! Here, I do not rely on faith in the Blessed One that when the root of faith…, when the root of vitality…, when the root of mind…, when the root of concentration…, when the root of wisdom …, Great Virtue! If this is not known, not seen, not discovered, not testified, not touched by wisdom, there, they will come to other people with faith that when the root of faith has been practiced…, there is an immortal foothold, an immortal other side, and an immortal end; but, Great Virtue! Those who have known, seen, discovered, testified, and touched with wisdom, where they are confident and undoubtful that the root of faith…., and an end of immortality. Great Virtue! For me, this has been known, has been seen, has been discovered, has been testified, has been touched with wisdom, where I am confident and undoubting that when the root of faith…, there is a foothold….”
+> 
+> “Good! Well! Sāriputta! Sāriputta! If this is not known, unseen, undiscovered, untested, untouched by wisdom, there, they will come to others with faith that when the root of faith…, when the root of wisdom has already been practiced and practiced more, there is an immortal foothold, an immortal shore, and an end of immortality.”
+> 
+> “The unbelievers and those who are not known,
+And those who have cut off reincarnation,
+The person who destroys the opportunity and the person who has spit out,
+He is indeed the best person.”
+[Dhp.97]
+> 
+> “The unbelievers will not be tainted”: All ignorant ordinary people are tainted, good ordinary people, including the seven types of learned, they are tainted, and the Arahant is neither tainted nor away from being tainted: he who is detached from the staining, the extinction of greed becomes the state of freedom from greed; the extinction of anger becomes the state of freedom from anger; the extinction of delusion becomes the state of freedom from delusion, he is the person who has descended into the state, has practiced the behavior… (omitted), the cycle of life and death, without his rebirth.
+
+searched:
+- self-proven
+- self-evidence
+- one who knows
+- unbeliever
+
+no other relevant passages show up
+
+MND14: sāmaṃ sayamabhiññātaṃ attapaccakkhaṃ dhammanti—sakkhidhammaṃ
+His insights were seen and understood in the Dhamma that he personally proved and realized.
+
+
+# Reserve
 
 ## Iti
 
