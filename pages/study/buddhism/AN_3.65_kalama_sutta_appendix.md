@@ -16,9 +16,11 @@ TODO:
 3. regroup those and search for relationships in other texts
 
 
-# A. Occurences of the matika on the acceptance of a teaching
+# A. Occurences of the matika on the grounds for the acceptance of a teaching
 
-In this section, we're looking for occurences of the matika formed by the ten grounds for the acceptance of a teaching, as stated in [AN3.65 Kalama Sutta](https://suttacentral.net/an3.65/en/sujato):
+In this section, we're looking for occurences of the matika formed by the ten grounds for the acceptance of a teaching.
+
+This matika is used in [AN3.65 Kalama Sutta](https://suttacentral.net/an3.65/en/sujato):
 
 > Please, Kālāmas, don’t go by oral transmission, don’t go by lineage, don’t go by testament, don’t go by canonical authority, don’t rely on logic, don’t rely on inference, don’t go by reasoned contemplation, don’t go by the acceptance of a view after consideration, don’t go by the appearance of competence, and don’t think ‘The ascetic is our respected teacher.’ But when you know for yourselves: ‘These things are unskillful, blameworthy, criticized by sensible people, and when you undertake them, they lead to harm and suffering’, then you should give them up.
 
@@ -46,7 +48,7 @@ IMPORTANT: + itihitiha
 - list 3: [bhabbarūpatāya], [samaṇo no garūti]
 
 
-## AN3.66 - 66. Sāḷhasutta
+## AN3.66 - Sāḷhasutta
 
 English extract: https://suttacentral.net/an3.66/en/sujato
 
@@ -60,7 +62,7 @@ Pali extract: https://suttacentral.net/an3.66/pli/ms
 
 This time the discourse is given by Venerable Nandaka to Salha and Rohana. Nandaka starts directly by saying to Salha this paragraph seen in [AN3.65](https://suttacentral.net/an3.65/pli/ms) (_"Come, Salha, do not go by..."_).
 
-Then Nandaka unfolds the same reasoning as in AN3.65: abandoning practices and views rooted in greed [lobha], aversion [dosa] and delusion [moha], and that lead to suffering.
+Then Nandaka unfolds the same reasoning as in AN3.65: we need to abandon practices and views rooted in greed [lobha], aversion [dosa] and delusion [moha], and that lead to suffering.
 
 This time, greed [lobha] is said to mean "longing" [abhijjhā], and that longing leads to wrong deeds. Aversion [dosa] is said to mean "ill will" [byāpāda], idem. And delusion [moha] is said to mean "ignorance" [avijjā].
 
@@ -68,14 +70,14 @@ In this sutta, Nandaka doesn't mention the four assurances. Instead, he says tha
 
 note 462 ref to [MN7.17](https://suttacentral.net/pi/mn7/) four divine abodes?
 
-[B. Bodhi, AN, 2012, note 462 p 1654] adds that the commentary (Anguttara Nikaya-atthakatha) establishes a relation between these four and the four noble truths:
+B. Bodhi, in his translationof AN, 2012, note 462 p 1654, adds that the commentary (Anguttara Nikaya-atthakatha) establishes a relation between these four and the four noble truths:
 - "there is this": five aggregates, truth of suffering
 - "inferior": truth of the origin of suffering
 - "superior": truth of the path
 - "further escape": nibbana, truth of cessation
 
 
-## AN4.193 - 193. Bhaddiyasutta
+## AN4.193 - Bhaddiyasutta
 
 English extract: https://suttacentral.net/an4.193/en/sujato
 
@@ -87,17 +89,20 @@ Pali extract: https://suttacentral.net/an4.193/pli/ms
 
 ### Notes
 
-In this sutta, Baddhiya comes to the Buddha because he heard that _"the ascetic Gotama is a magician who knows a converting magic by which he converts the disciples of teachers of other sects"_ ([B. Bodhi, AN, 2012, p567], see also note 907 ref to [SN42.13](https://suttacentral.net/pi/sn42.13) and [MN56.8](https://suttacentral.net/pi/mn56)). The Buddha dispells how "some ascetics and brahmins untruthfully, baselessly, falsely, and wrongly misrepresent [him]" by saying this. He uses the same sutta as in AN 3.65 to show what his conversion is about: abandoning practices and views rooted in greed [lobha], aversion [dosa] and delusion [moha], and that lead to suffering (with vehemence [sārambha] added in the mix).
+In this sutta, Baddhiya comes to the Buddha because he heard that _"the ascetic Gotama is a magician who knows a converting magic by which he converts the disciples of teachers of other sects"_ ([B. Bodhi, AN, 2012, p567], see also note 907 ref to [SN42.13](https://suttacentral.net/pi/sn42.13) and [MN56.8](https://suttacentral.net/pi/mn56)).
+
+The Buddha dispells how _"some ascetics and brahmins untruthfully, baselessly, falsely, and wrongly misrepresent [him]"_ by saying this. He uses the same sutta as in AN 3.65 to show what his conversion is about: abandoning practices and views rooted in greed [lobha], aversion [dosa] and delusion [moha], and that lead to suffering (with vehemence [sārambha] added in the mix).
 
 This time the Buddha doesn't mention the four assurances. But he asks Baddhiya: _"did I say to you: 'Come, Bhaddiya, be my disciple and I will be your teacher'?"_. Bhaddiya says no. The emphasis seems to be on the choice Bhaddiya made to go to the Buddha for refuge on his own.
 
 After having said how beneficial it would be for basically everyone to convert that way (in note 911, B. Bodhi refers to MN56.26 at this point), at the very end of the sutta, there is this interesting paragraph:
+
 > "If these great sal trees would be converted by this conversion toward the abandoning of unwholesome qualities and the acquisition of wholesome qualities, that would lead to the welfare and happiness even of these great sal trees for a long time, if they could choose. How much more then for a human being!" [B. Bodhi, AN, 2012, p 570]
 
 _Note: B. Bodhi note 912 mentions that "sace ceteyyum" ("if they could choose") is found in Sinhala-script and Roman-script but not Burmese-script._
 
 
-## SN12.68 - 68. Kosambisutta
+## SN12.68 - Kosambisutta
 
 English extract: https://suttacentral.net/sn12.68/en/sujato
 
@@ -115,11 +120,9 @@ Pali extract: https://suttacentral.net/sn12.68/pli/ms
 
 This sutta reports an exchange happening between the four Venerables Musila, Savittha, Narada and Ananda.
 
-Savittha asks Musila the following question:
+Savittha asks Musila the following question: _"Friend Musila, apart from faith, apart from personal preference, apart from oral tradition, apart from reasoned reflexion, apart from acceptance of a view after pondering it, does the Venerable Musila have personal knowledge thus: 'With birth as condition, aging-and-death [comes to be]?'"_ [B. Bodhi, SN, p. 612]
 
-> Friend Musila, apart from faith, apart from personal preference, apart from oral tradition, apart from reasoned reflexion, apart from acceptance of a view after pondering it, does the Venerable Musila have personal knowledge thus: 'With birth as condition, aging-and-death [comes to be]?' [B. Bodhi, SN, p. 612]
-
-This unfolds along the list of factors of dependent origination. And the final point is Savittha saying "I know this (TODO: which "know" here?), I see this: 'Nibbana is the cessation of existence'". To that sentence, Musila concludes that Savittha is an Arahant.
+This unfolds along the list of factors of dependent origination. And the final point is Savittha saying _"**I know this, I see this**: 'Nibbana is the cessation of existence'"_. To that sentence, Musila concludes that Savittha is an Arahant.
 
 But Narada interrupts. And an exchange of the same kind unfolds into a discussion on the point that it is not enough to know and see 'Nibbana is the cessation of existence' to be an arahant. That one needs also to extinguish all taints related to this view, to make "bodily contact" with this truth (use of a simile).
 
@@ -133,7 +136,7 @@ In his notes, B.Bodhi points to a discussion on the "five grounds for the accept
 TODO: See Gombrich, How Buddhism Began, 1996, pp 128-29
 
 
-## SN35.153 - 153. Atthi­nu­kho­pariyā­ya­sutta
+## SN35.153 - Atthi­nu­kho­pariyā­ya­sutta
 
 English extract: https://suttacentral.net/sn35.153/en/sujato
 
@@ -164,24 +167,9 @@ Pali extract: https://suttacentral.net/sn35.153/pli/ms
 
 Pointed out in [B. Bodhi, SN, note 198, p 781] as another sutta criticizing the "five grounds for the acceptance of a thesis".
 
-In this sutta, the investigation related to **how a Bhikkhu can declare** [] - 'Detroyed is birth, the holy life has been lived, what had to be done has been done, there is no more for this state of being'.
+In this sutta, the investigation deals with **how a Bhikkhu can declare** [] - 'Detroyed is birth, the holy life has been lived, what had to be done has been done, there is no more for this state of being'.
 
 The answer the Buddha provides is related to one, having seen a form, a sound with the ear... a mental phenomenon with the mind, "sees with wisdom" [dhammā paññāya disvā veditabbā] that there is no lust, hatred or delusion [lobha, dosa, moha] internally.
-
-
-## MN102 - Pañ­catta­yasutta [[link](https://suttacentral.net/pi/mn102/)]
-
-English extract: https://suttacentral.net/mn102/en/sujato
-
-> Now, consider the ascetics and brahmins whose view is as follows. ‘The self and the cosmos are eternal. This is the only truth, other ideas are silly.’ It’s simply not possible for them to have purified and clear personal knowledge of this, apart from faith, preference, oral tradition, reasoned contemplation, or acceptance of a view after consideration. And in the absence of such knowledge, even the partial knowledge that they are clear about is said to be grasping on their part. ‘All that is conditioned and coarse. But there is the cessation of conditions—that is real.’ Understanding this and seeing the escape from it, the Realized One has gone beyond all that.
-
-Pali extract: https://suttacentral.net/mn102/pli/ms
-
-> Tatra, bhikkhave, ye te samaṇabrāhmaṇā evaṁvādino evaṁdiṭṭhino: ‘sassato attā ca loko ca, idameva saccaṁ moghamaññan’ti, tesaṁ vata aññatreva saddhāya aññatra ruciyā aññatra anussavā aññatra ākāraparivitakkā aññatra diṭṭhinijjhānakkhantiyā paccattaṁyeva ñāṇaṁ bhavissati parisuddhaṁ pariyodātanti—netaṁ ṭhānaṁ vijjati. Paccattaṁ kho pana, bhikkhave, ñāṇe asati parisuddhe pariyodāte yadapi te bhonto samaṇabrāhmaṇā tattha ñāṇabhāgamattameva pariyodapenti tadapi tesaṁ bhavataṁ samaṇabrāhmaṇānaṁ upādānamakkhāyati. Variant: yadapi → yadipi (mr)‘Tayidaṁ saṅkhataṁ oḷārikaṁ atthi kho pana saṅkhārānaṁ nirodho atthetan’ti— iti viditvā tassa nissaraṇadassāvī tathāgato tadupātivatto.
-
-### Notes
-
-Basing acceptance of a thesis on the five grounds (faith, personal preference, oral tradition, reasoned reflexion, acceptance of a view after pondering it) would be considered as clinging to a wrong view.
 
 
 ## MN76 - Sandakasutta
@@ -223,19 +211,81 @@ Ananda then speaks of the Tathagata, how the Tathagata went through all jhanas (
 
 English extract: https://suttacentral.net/mn95/en/sujato
 
-> These five things can be seen to turn out in two different ways. What five? Faith, preference, oral tradition, reasoned contemplation, and acceptance of a view after consideration. Even though you have full faith in something, it may be void, hollow, and false. And even if you don’t have full faith in something, it may be true and real, not otherwise.  
+> “Master Gotama, regarding that which by the lineage of testament and by canonical authority is the ancient hymnal of the brahmins, the brahmins come to the definite conclusion: ‘This is the only truth, other ideas are silly.’ What do you say about this?”
+> 
+> “Well, Bhāradvāja, is there even a single one of the brahmins who says this: ‘**I know this, I see this**: this is the only truth, other ideas are silly’?”
+> 
+“No, Master Gotama.”
+> 
 > [...]
+> 
+> “The brahmins don’t just honor this because of faith, but also because of oral transmission.”
+> 
+> “First you relied on faith, now you speak of oral tradition. These five things can be seen to turn out in two different ways. What five? Faith, preference, oral tradition, reasoned contemplation, and acceptance of a view after consideration. Even though you have full faith in something, it may be void, hollow, and false. And even if you don’t have full faith in something, it may be true and real, not otherwise.
 
 Pali extract: https://suttacentral.net/mn95/pli/ms
 
-> Pañca kho ime, bhāradvāja, dhammā diṭṭheva dhamme dvedhā vipākā. Katame pañca? Saddhā, ruci, anussavo, ākāraparivitakko, diṭṭhinijjhānakkhanti— ime kho, bhāradvāja, pañca dhammā diṭṭheva dhamme dvedhā vipākā.  
-> [...]  
+> Atha kho kāpaṭiko māṇavo bhagavantaṁ etadavoca: “yadidaṁ, bho gotama, brāhmaṇānaṁ porāṇaṁ mantapadaṁ itihitihaparamparāya piṭakasampadāya, tattha ca brāhmaṇā ekaṁsena niṭṭhaṁ gacchanti: ‘idameva saccaṁ, moghamaññan’ti. Idha bhavaṁ gotamo kimāhā”ti?
 > 
+> “Kiṁ pana, bhāradvāja, atthi koci brāhmaṇānaṁ ekabrāhmaṇopi yo evamāha: ‘**ahametaṁ jānāmi, ahametaṁ passāmi**. Idameva saccaṁ, moghamaññan’”ti?
+> 
+> “No hidaṁ, bho gotama”.
+> 
+> [...]
+> 
+> “Na khvettha, bho gotama, brāhmaṇā saddhāyeva payirupāsanti, anussavāpettha brāhmaṇā payirupāsantī”ti.
+> 
+> “Pubbeva kho tvaṁ, bhāradvāja, saddhaṁ agamāsi, anussavaṁ idāni vadesi. Pañca kho ime, bhāradvāja, dhammā diṭṭheva dhamme dvedhā vipākā. Katame pañca? Saddhā, ruci, anussavo, ākāraparivitakko, diṭṭhinijjhānakkhanti— ime kho, bhāradvāja, pañca dhammā diṭṭheva dhamme dvedhā vipākā. Api ca, bhāradvāja, susaddahitaṁyeva hoti, tañca hoti rittaṁ tucchaṁ musā; no cepi susaddahitaṁ hoti, tañca hoti bhūtaṁ tacchaṁ anaññathā.
 
-Matches(d=3,o=3): [anussavena], [paramparāya], ~~[itikirāya]~~, [piṭakasampadānena], ~~[takkahetu]~~, ~~[nayahetu]~~, ~~[ākāraparivitakkena]~~, ~~[diṭṭhinijjhānakkhantiyā]~~, ~~[bhabbarūpatāya]~~, ~~[samaṇo no garū]~~
+### Notes
 
-**Paragraph [{'class': ['sc'], 'id': '25'}, {'class': ['pts'], 'id': 'pts2.170'}, {'class': ['ms'], 'id': 'p_10M_1326'}, {'class': ['msdiv'], 'id': 'msdiv427'}, {'class': ['wp'], 'id': 'wp13'}]**
-> atha kho kāpaṭikassa māṇavassa etadahosi: “samannāharati kho maṃ samaṇo gotamo. yannūnāhaṃ samaṇaṃ gotamaṃ pañhaṃ puccheyyan”ti. atha kho kāpaṭiko māṇavo bhagavantaṃ etadavoca: “yadidaṃ, bho gotama, brāhmaṇānaṃ porāṇaṃ mantapadaṃ **itihitiha** **paramparāya** **piṭakasampadāya**, tattha ca brāhmaṇā ekaṃsena niṭṭhaṃ gacchanti: ‘idameva saccaṃ, moghamaññan’ti. idha bhavaṃ gotamo kimāhā”ti? “kiṃ pana, bhāradvāja, atthi koci brāhmaṇānaṃ ekabrāhmaṇopi yo evamāha: ‘ahametaṃ jānāmi, ahametaṃ passāmi. idameva saccaṃ, moghamaññan’”ti? “no hidaṃ, bho gotama”. “kiṃ pana, bhāradvāja, atthi koci brāhmaṇānaṃ ekācariyopi, ekācariyapācariyopi, yāva sattamā ācariyamahayugāpi, yo evamāha: ‘ahametaṃ jānāmi, ahametaṃ passāmi. idameva saccaṃ, moghamaññan’”ti? “no hidaṃ, bho gotama”. “kiṃ pana, bhāradvāja, yepi te brāhmaṇānaṃ pubbakā isayo mantānaṃ kattāro mantānaṃ pavattāro yesamidaṃ etarahi brāhmaṇā porāṇaṃ mantapadaṃ gītaṃ pavuttaṃ samihitaṃ tadanugāyanti tadanubhāsanti bhāsitamanubhāsanti vācitamanuvācenti seyyathidaṃ—aṭṭhako vāmako vāmadevo vessāmitto yamataggi aṅgīraso bhāradvājo vāseṭṭho kassapo bhagu, tepi evamāhaṃsu: ‘mayametaṃ jānāma, mayametaṃ passāma. idameva saccaṃ, moghamaññan’”ti? “no hidaṃ, bho gotama”.
+The Buddha is being asked questions by a brahmin student Kapathika. It is said that this student is a sixteen years old clansman, "a master of the Three Vedas with their vocabularies, liturgy, phonology and grammar, fully versed in natural philosophy and in the marks of a Great Man", very learned, has good delivery and is wise.
+
+Kapathika asks (B. Bodhi trans.): "In regard to the ancient brahmanic hymns that have come down through oral transmission preserved in the collections the brahmins come to the definite conclusion: 'only this is true, anything else is wrong.' What does the Master Gotama say about this?"
+
+The Buddha replies that none of those brahmins **knows and sees** 'only this is true, anything else is wrong'. Thus placing the discussion about the method to access knowledge, and not the knowledge itself.
+
+He then proceeds with criticizing five grounds for the acceptance of a thesis (faith, personal preference, oral tradition, reasoned reflexion, acceptance of a view after pondering it).
+
+After this, Kapathika asks: "How does one preserve truth?" (_saccānurakkhana_ or safeguarding the truth), meaning how can one speak about some view without relying on those grounds?
+
+The Buddha explains: "He says 'my faith is thus'; but he does not yet come to the definite conclusion: 'only this is true, anything else is wrong'". Same for oral tradition ('my oral tradition is thus'), and reflective acceptance ('my reflective acceptance is thus').
+
+The sutta goes on with explaining how does one discover the truth. The follower investigates a bhikkhu in regard to stats based on greed, hate or delusion. If the bikkhu is purified from states based on greed, hate or delusion, then follows another matika describing a following discovering the truth.
+
+The follower: 
+- places faith in the bikkhu,
+- visits him,
+- pays respect,
+- gives ear to him,
+- hears the Dhamma,
+- memorises the Dhamma,
+- examines the meaning () of the teachings he has memorized,
+- gains a reflective acceptance ()
+- zeals springs up and then,
+- he applies his will,
+- he scrutinises,
+- he strives,
+- he realises with the body the surpreme truth and sees it by penetrating it with wisdom.
+
+"The final arrival at truth lies in the repetition, development, and cultivation of those same things."
+
+Faith being the first step here, is the faith in the teacher, after examining the teacher is purified from greed, hate and delusion.
+
+
+## TODO: MN102 - Pañ­catta­yasutta
+
+English extract: https://suttacentral.net/mn102/en/sujato
+
+> Now, consider the ascetics and brahmins whose view is as follows. ‘The self and the cosmos are eternal. This is the only truth, other ideas are silly.’ It’s simply not possible for them to have purified and clear personal knowledge of this, apart from faith, preference, oral tradition, reasoned contemplation, or acceptance of a view after consideration. And in the absence of such knowledge, even the partial knowledge that they are clear about is said to be grasping on their part. ‘All that is conditioned and coarse. But there is the cessation of conditions—that is real.’ Understanding this and seeing the escape from it, the Realized One has gone beyond all that.
+
+Pali extract: https://suttacentral.net/mn102/pli/ms
+
+> Tatra, bhikkhave, ye te samaṇabrāhmaṇā evaṁvādino evaṁdiṭṭhino: ‘sassato attā ca loko ca, idameva saccaṁ moghamaññan’ti, tesaṁ vata aññatreva saddhāya aññatra ruciyā aññatra anussavā aññatra ākāraparivitakkā aññatra diṭṭhinijjhānakkhantiyā paccattaṁyeva ñāṇaṁ bhavissati parisuddhaṁ pariyodātanti—netaṁ ṭhānaṁ vijjati. Paccattaṁ kho pana, bhikkhave, ñāṇe asati parisuddhe pariyodāte yadapi te bhonto samaṇabrāhmaṇā tattha ñāṇabhāgamattameva pariyodapenti tadapi tesaṁ bhavataṁ samaṇabrāhmaṇānaṁ upādānamakkhāyati. Variant: yadapi → yadipi (mr)‘Tayidaṁ saṅkhataṁ oḷārikaṁ atthi kho pana saṅkhārānaṁ nirodho atthetan’ti— iti viditvā tassa nissaraṇadassāvī tathāgato tadupātivatto.
+
+### Notes
+
+Basing acceptance of a thesis on the five grounds (faith, personal preference, oral tradition, reasoned reflexion, acceptance of a view after pondering it) would be considered as clinging to a wrong view.
 
 
 ## CND 4 - Mettagu
@@ -262,6 +312,7 @@ Tracing back to Pali [pi/cnd8](https://legacy.suttacentral.net/pi/cnd8):
 > [...]  
 > 
 > **Yathā pajānanti** yathā pajānanto ājānanto (?) **vijānanto paṭivijānanto paṭivijjhanto**. Na itihītihaṃ na itikirāya na paramparāya na piṭaka­sam­padāya na takkahetu na nayahetu na ākāra­pari­vitak­kena na diṭṭhi­nij­jhā­nak­khan­tiyā sāmaṃ saya­ma­bhiñ­ñā­taṃ attapaccak­kha­dhammaṃ taṃ kathayissāmīti—taṃ te pavakkhāmi yathā pajānaṃ.
+
 
 ## CND 4 - Mettagu
 
