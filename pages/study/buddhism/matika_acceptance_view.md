@@ -559,14 +559,17 @@ Tracing back to pali [pi/mnd16](https://legacy.suttacentral.net/pi/mnd16):
 
 ## PE4 - 4. Sutta­vicaya­catut­tha­bhūmi
 
-https://suttacentral.net/pe4/pli/ms
+English extract: https://suttacentral.net/pe4/en/nyanamoli
 
-Matches(d=2,o=2): ~~[anussavena]~~, [paramparāya], ~~[itikirāya]~~, [piṭakasampadānena], ~~[takkahetu]~~, ~~[nayahetu]~~, ~~[ākāraparivitakkena]~~, ~~[diṭṭhinijjhānakkhantiyā]~~, ~~[bhabbarūpatāya]~~, ~~[samaṇo no garū]~~
+> If, when thus inquired into, they give the construction, [then that Thread] must be scrutinized therein [in regard to those defilements] as follows: “What is the Thread's meaning and what is not its meaning according to the traditional [interpretation] or by what is given in the texts”?
 
-**Paragraph [{'class': ['sc'], 'id': '3'}, {'class': ['pts'], 'id': 'pts75'}, {'class': ['ms'], 'id': 'p_27Pe_449'}]**
-> yathā bhagavā kilese ādimhi tattha deseti. kiṃ desitaṃ? tesaṃ kilesānaṃ pahānaṃ udāhu no desitanti upaparikkhitabbaṃ. yadi na desitaṃ bhagavati tesaṃ kilesānaṃ pahānaṃ kusalā dhammā pariyesitabbā; yattha te akusalā pahānaṃ gacchanti. sace samannehamāno na labhati. tattha akusalā dhammā apakaḍḍhitabbā vīmaṃsitabbā, saṃkilesabhāgiyasuttaṃ, yadi kilesā apakaḍḍhiyantā. ye vā na denti tattha upaparikkhitabbā ariyamaggadhammā tāsu bhūmīsu kilesā pahānaṃ gacchanti, udāhu na gacchantīti. yattakā pana kilesā desitā. na tattakā ariyadhammā desitā. yattha kilesā pahānaṃ gacchanti, tattha ye kilesā ariyadhammānaṃ paṭipakkhena na yujjanti, te apakaḍḍhitabbā, sace apakaḍḍhiyantā yojanaṃ deti. tattha evaṃ vīmaṃsitabbaṃ. dve tīṇi vā taduttari vā kilesā ekena ariyamaggena pahānaṃ gacchantīti. sace evaṃ vīmaṃsiyantā yojanaṃ deti, tattha upaparikkhitabbaṃ. **paramparāya** vā **piṭakasampadānena** vā suttassa attho ca nattho ca. yaṃ vā na sakkā suttaṃ niddisituṃ neva suttaṃ vicikicchitabbaṃ. evaṃ yathā ādimhi kusalā dhammā honti. ye kilesā te pahīneyyāti. te upaparikkhitabbā. puro vā kusalo paṭipakkhena vā puro desanā, anūnā anadhikā uggahetabbā. yathā paṭhamo uttilo yesamidāni kilesānaṃ ye ariyadhammā desitā ime kilesā imehi ariyadhammehi pahīyanti, udāhu nappahīyantīti vicinitabbā. yadi upaparikkhiyamānā yujjanti, gahetabbā. atha na yujjanti, ye kilesā apaṭipakkhā honti, te kilesā aparipakkhitabbā. ye ca ariyadhammā paṭipakkhā honti, te ariyadhammā apakaḍḍhitabbā. na hi ariyadhammā anāgāmikilesappahānaṃ gacchanti, nāpi ariyadhammā sabbakilesānaṃ pahānāya saṃvattanti. yathā kusalā mettā akusalo rāgo na tu kusalā mettāti kāretvā akusalassa rāgassa pahānāya sambhavati byāpādo mettāya pahānaṃ gacchati. tasmā ubho kilesā upaparikkhitabbā. yo yo ca dhammo upadisiyati kusalo vā akusalo vā so apakaḍḍhitabbo. sace te yujjanti apakaḍḍhiyamāno natthi upaparikkhitabbaṃ. dve vā kilesā ekena ariyadhammena pahīneyyāti dvīhi vā ariyadhammehi eko vā kileso pahīyatīti.
+Pali extract: https://suttacentral.net/pe4/pli/ms
 
+>  Sace evaṁ vīmaṁsiyantā yojanaṁ deti, tattha upaparikkhitabbaṁ. Paramparāya vā piṭakasampadānena vā suttassa attho ca nattho ca.
 
+### Notes
+
+This text is part of the commentary, and deals with how to investigate the Suttas. It is expected that the 2 elements of the list related to scripture should occur here.
 
 
 # C. Mapping "know for yourself"
