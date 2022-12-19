@@ -1,58 +1,78 @@
-# Appendix
+# The grounds for the acceptance of a view
 
-MND is a commentary on Snp4
-CND is a commentary on Snp5
+In this document, we will look for the occurences of a specific [matika](http://tibetanbuddhistencyclopedia.com/en/index.php?title=Matika) related to the grounds for the acceptance of a view or doctrine. This list is found in the Pali Canon. In particular, it is found in the [Kesamuttisutta](https://suttacentral.net/an3.65/en/sujato) (a.k.a. the Kalama Sutta) where it has been the object of a lot of interpretations and commentaries from modern buddhist apologists.
 
-plan:
-1. pick up all instances of the matika in CND (easier) from https://zacanger.com/niddesa/assets/niddesa.html
-2. figure out the section in CND it comes from
-3. note any reference similar to "know for yourself"
-4. trace back to the section in Snp5
-5. note context from both CND and Snp5
+**Objectives** - This page will just enumerate and deep dive into the occurences of this list in the Canon. This will be used later (hopefully) for a commentary on the modernist interpretations of the Kalama Sutta.
 
-TODO:
-1. get an exaustive list of all occurences of the matika
-2. pick in context something corresponding to "know for yourself"
-3. regroup those and search for relationships in other texts
+**Structure** - To support this future commentary, this document will:
+- Section A: define the list we used for reference,
+- Section B: locate, as exhaustively as possible, all the full or partial occurences of the list in the pali canon,
+- Section C: examine, in the surrounding of those occurences of the matika, terms that are related to the expression "when you know for yourself" in the Kalama Sutta.
+
+**Future additions** to this document will (hopefully) include:
+- polishing and publishing the code used to locate the occurences from the [Sutta Central](https://suttacentral.net/) corpus
+- adding a section for the occurences of the terms related to "when you know for yourself" in other suttas.
+
+**Thanks** - The author wants to express the deepest thanks to [Sutta Central](https://suttacentral.net/) for their amazing work of collecting and maintaining an online version of the Pali Canon, and to all the translators, famous or not, that have provided versions of the texts in english.
 
 
-# A. Occurences of the matika on the grounds for the acceptance of a teaching
+# A. The matika
 
-In this section, we're looking for occurences of the matika formed by the ten grounds for the acceptance of a teaching.
+The list is known for its use in [AN3.65 Kalama Sutta](https://suttacentral.net/an3.65/en/sujato), _"Please, Kālāmas, don’t go by..."_
 
-This matika is used in [AN3.65 Kalama Sutta](https://suttacentral.net/an3.65/en/sujato):
+Come, Kālāmas, do not go by oral tradition, by lineage of teaching, by hearsay, by a collection of scriptures, by logical reasoning, by inferential reasoning, by reasoned cogitation, by the acceptance of a view after pondering it, by the seeming competence of a speaker, or because you think: ‘The ascetic is our guru.’
 
-> Please, Kālāmas, don’t go by oral transmission, don’t go by lineage, don’t go by testament, don’t go by canonical authority, don’t rely on logic, don’t rely on inference, don’t go by reasoned contemplation, don’t go by the acceptance of a view after consideration, don’t go by the appearance of competence, and don’t think ‘The ascetic is our respected teacher.’ But when you know for yourselves: ‘These things are unskillful, blameworthy, criticized by sensible people, and when you undertake them, they lead to harm and suffering’, then you should give them up.
+Please, Kālāmas, don’t go by oral transmission, don’t go by lineage, don’t go by testament, don’t go by canonical authority, don’t rely on logic, don’t rely on inference, don’t go by reasoned contemplation, don’t go by the acceptance of a view after consideration, don’t go by the appearance of competence, and don’t think ‘The ascetic is our respected teacher.’ 
 
-corresponding in [pali](https://suttacentral.net/an3.65/pli/ms) to:
+“Kālāmas, do not go by hearsay. Do not go by tradition. Do not go by what seems appropriate. Do not go by scriptural authority. Do not go by thought. Do not go by inference. Do not go by logic. Do not go by personal preference. Do not go by a teacher‘s semblance of competence. Do not go by the thought ‘This contemplative is our teacher.’
 
-> Etha tumhe, kālāmā, mā anussavena, mā paramparāya, mā itikirāya, mā piṭakasampadānena, mā takkahetu, mā nayahetu, mā ākāraparivitakkena, mā diṭṭhinijjhānakkhantiyā, mā bhabbarūpatāya, mā samaṇo no garūti. Yadā tumhe, kālāmā, attanāva jāneyyātha: ‘ime dhammā akusalā, ime dhammā sāvajjā, ime dhammā viññugarahitā, ime dhammā samattā samādinnā ahitāya dukkhāya saṁvattantī’ti, atha tumhe, kālāmā, pajaheyyātha.
-
-| Pali | English | Comment |
+| English | Pali | Notes |
 | :-- | :-- | :-- |
-| anussavena | oral tradition | ... |
-| paramparāya | ... | ... |
-| itikirāya | ... | ... |
-| piṭaka­sam­padā­nena | ... | ... |
-| takkahetu | ... | ... |
-| nayahetu | ... | ... |
-| ākāra­pari­vitak­kena | ... | ... |
-| diṭṭhi­nij­jhā­nak­khan­tiyā | ... | ... |
-| bhabbarūpatāya | ... | ... |
-| samaṇo no garūti | ... | ... |
+| _anussava_ | oral tradition, oral transmission | &nbsp; |
+| _parampara_ | lineage of teaching, inheritance, tradition | &nbsp; |
+| _itihītihaṃ_ |  rumor, hearsay | not in AN3.65, but in CND/MND |
+| _itikirāya_ | hearsay, testament, what seems appropriate |  &nbsp; |
+| _piṭakasampadānena_ | collection of scripture, canonical/scriptural authority | &nbsp; |
+| _takkahetu_ | logic, logical reasoning, thought | &nbsp; |
+| _nayahetu_ | inference, inferential reasoning | &nbsp; |
+| _ākāra­pari­vitak­kena_ | reasoned contemplation/cogitation | &nbsp; |
+| _diṭṭhi­nij­jhā­nak­khan­tiyā_ | acceptance of a view after consideration, after pondering it, personal preference | &nbsp; |
+| _bhabbarūpatāya_ | appearance/semblance of competence of a teacher, competence of a speaker | &nbsp; |
+| _samaṇo no garūti_ | thinking 'this ascetic is our respected teacher/guru' | &nbsp; |
 
-IMPORTANT: + itihitiha
+It has been refered to by some authors as the "grounds for the acceptance of a thesis" (or view, or doctrine), and it is a list one should _not_ use as ground for this acceptance. But the list comes with an advice on which one _should_ be used, that remains open to interpretation:
 
-- list 1: [anussavena], [paramparāya], [itikirāya], [piṭaka­sam­padā­nena]
-- list 2: [takkahetu], [nayahetu], [ākāra­pari­vitak­kena], [diṭṭhi­nij­jhā­nak­khan­tiyā]
-- list 3: [bhabbarūpatāya], [samaṇo no garūti]
+> But when you **know for yourselves**: ‘These things are unskillful, blameworthy, criticized by sensible people, and when you undertake them, they lead to harm and suffering’, then you should give them up.
 
+Corresponding in [pali](https://suttacentral.net/an3.65/pli/ms) to:
+
+> Yadā tumhe, kālāmā, **attanāva jāneyyātha**: ‘ime dhammā akusalā, ime dhammā sāvajjā, ime dhammā viññugarahitā, ime dhammā samattā samādinnā ahitāya dukkhāya saṁvattantī’ti, atha tumhe, kālāmā, pajaheyyātha.
+
+
+# B. Occurences of the matika
+
+This section will identify the occurences of the matika in the pali canon. We've kept only occurences of the full or partial matika up to 2 elements (when at least 2 elements of the list come together in a single sutta).  
+For each occurence, we provide an extract and some notes to understand the context in which the list is being used.
+
+## AN3.65 - 
+
+English extract: https://suttacentral.net/an3.65/en/bodhi
+
+> 
+
+Pali extract: 
+
+> 
+
+### Notes
+
+foo
 
 ## AN3.66 - Sāḷhasutta
 
 English extract: https://suttacentral.net/an3.66/en/sujato
 
-> “Please, Sāḷha and friend, don’t go by oral transmission, don’t go by lineage, don’t go by testament, don’t go by canonical authority, don’t rely on logic, don’t rely on inference, don’t go by reasoned contemplation, don’t go by the acceptance of a view after consideration, don’t go by the appearance of competence, and don’t think ‘The ascetic is our respected teacher.’ But when you know for yourselves: ‘These things are unskillful, blameworthy, criticized by sensible people, and when you undertake them, they lead to harm and suffering’, then you should give them up.
+> “Please, Sāḷha and friend, don’t go by oral transmission, don’t go by lineage, don’t go by testament, don’t go by canonical authority, don’t rely on logic, don’t rely on inference, don’t go by reasoned contemplation, don’t go by the acceptance of a view after consideration, don’t go by the appearance of competence, and don’t think ‘The ascetic is our respected teacher.’ But when you **know for yourselves**: ‘These things are unskillful, blameworthy, criticized by sensible people, and when you undertake them, they lead to harm and suffering’, then you should give them up.
 
 Pali extract: https://suttacentral.net/an3.66/pli/ms
 
@@ -311,7 +331,7 @@ Tracing back to Pali [pi/cnd8](https://legacy.suttacentral.net/pi/cnd8):
 > 
 > [...]  
 > 
-> **Yathā pajānanti** yathā pajānanto ājānanto (?) **vijānanto paṭivijānanto paṭivijjhanto**. Na itihītihaṃ na itikirāya na paramparāya na piṭaka­sam­padāya na takkahetu na nayahetu na ākāra­pari­vitak­kena na diṭṭhi­nij­jhā­nak­khan­tiyā sāmaṃ saya­ma­bhiñ­ñā­taṃ attapaccak­kha­dhammaṃ taṃ kathayissāmīti—taṃ te pavakkhāmi yathā pajānaṃ.
+> **Yathā pajānanti** yathā pajānanto ājānanto **vijānanto paṭivijānanto paṭivijjhanto**. Na itihītihaṃ na itikirāya na paramparāya na piṭaka­sam­padāya na takkahetu na nayahetu na ākāra­pari­vitak­kena na diṭṭhi­nij­jhā­nak­khan­tiyā sāmaṃ saya­ma­bhiñ­ñā­taṃ attapaccak­kha­dhammaṃ taṃ kathayissāmīti—taṃ te pavakkhāmi yathā pajānaṃ.
 
 
 ## CND 4 - Mettagu
@@ -549,10 +569,55 @@ Matches(d=2,o=2): ~~[anussavena]~~, [paramparāya], ~~[itikirāya]~~, [piṭakas
 
 
 
-# B. Mapping "know for yourself"
+# C. Mapping "know for yourself"
 
 Notes:
 - MN51.12=MN76.35 "which he has himself realized by direct knowledge"
+
+AN3.65, AN3.66, AN4.193
+you **know for yourselves**
+**attanāva jāneyyātha**
+
+SN12.68
+you **know for yourself**
+**atthāyasmato musilassa paccattameva ñāṇaṁ**
+I **know and see**
+**ahametaṁ jānāmi ahametaṁ passāmi**
+
+SN35.153
+I understand
+**pajānāmī**
+**understood by seeing them with wisdom**
+**paññāya disvā veditabbā**
+
+MN95
+**I know this, I see this**
+**ahametaṁ jānāmi, ahametaṁ passāmi**
+
+MN102
+Understanding this and seeing the escape from it, the Realized One has gone beyond all that.
+iti viditvā tassa nissaraṇadassāvī tathāgato tadupātivatto.
+
+CND 4, MND 16
+**the one who knows**
+**yathā pajānaṃ**
+
+CND 4
+**such as the one who knows, the one who understands, the one who penetrates**
+yathā pajānanto ājānanto **vijānanto paṭivijānanto paṭivijjhanto**
+
+CND 4, CND 5, CND 8, CND 18, MND 16
+**a method that is personally proven and self-proven by oneself**
+sāmaṃ saya­ma­bhiñ­ñā­taṃ attapaccak­kha­dhammaṃ taṃ kathayissāmīti
+
+MND 14, MND 14
+self-evidenced method
+Sakkhidhammaṃ
+
+MND 14
+His insights were seen and understood in the Dhamma that he personally proved and realized.
+sāmaṃ saya­ma­bhiñ­ñā­taṃ attapaccak­kha­dhammaṃ addasi addakkhi apassi paṭivijjhīti
+
 
 
 ### MND 10
