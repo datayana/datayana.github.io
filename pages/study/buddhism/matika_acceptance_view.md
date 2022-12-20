@@ -77,28 +77,36 @@ foo
 English extract: https://suttacentral.net/an3.66/en/sujato
 
 > “Please, Sāḷha and friend, don’t go by oral transmission, don’t go by lineage, don’t go by testament, don’t go by canonical authority, don’t rely on logic, don’t rely on inference, don’t go by reasoned contemplation, don’t go by the acceptance of a view after consideration, don’t go by the appearance of competence, and don’t think ‘The ascetic is our respected teacher.’ But when you **know for yourselves**: ‘These things are unskillful, blameworthy, criticized by sensible people, and when you undertake them, they lead to harm and suffering’, then you should give them up.
+> 
+> [...]
+> 
+> They **understand**: ‘There is this, there is what is worse than this, there is what is better than this, and there is an escape beyond the scope of perception.’ **Knowing and seeing** like this, their mind is freed from the defilements of sensuality, desire to be reborn, and ignorance. When they’re freed, they **know** they’re freed.  
+> They **understand**: ‘Rebirth is ended, the spiritual journey has been completed, what had to be done has been done, there is no return to any state of existence.’
 
 Pali extract: https://suttacentral.net/an3.66/pli/ms
 
 > “Etha tumhe, sāḷhā, mā anussavena, mā paramparāya, mā itikirāya, mā piṭakasampadānena, mā takkahetu, mā nayahetu, mā ākāraparivitakkena, mā diṭṭhinijjhānakkhantiyā, mā bhabbarūpatāya, mā samaṇo no garūti. Yadā tumhe, sāḷhā, **attanāva jāneyyātha** ‘ime dhammā akusalā, ime dhammā sāvajjā, ime dhammā viññugarahitā, ime dhammā samattā samādinnā ahitāya dukkhāya saṁvattantī’ti, atha tumhe, sāḷhā, pajaheyyātha.
+> 
+> [...]
+> 
+> So evaṁ **pajānāti**: ‘atthi idaṁ, atthi hīnaṁ, atthi paṇītaṁ, atthi imassa saññāgatassa uttari nissaraṇan’ti. Tassa **evaṁ jānato evaṁ passato** kāmāsavāpi cittaṁ vimuccati, bhavāsavāpi cittaṁ vimuccati, avijjāsavāpi cittaṁ vimuccati; vimuttasmiṁ vimuttamiti **ñāṇaṁ** hoti.  
+> 
+> ‘Khīṇā jāti, vusitaṁ brahmacariyaṁ, kataṁ karaṇīyaṁ, nāparaṁ itthattāyā’ti **pajānāti**.
 
 ### Notes
 
 This time the discourse is given by Venerable Nandaka to Salha and Rohana. Nandaka starts directly by saying to Salha this paragraph seen in [AN3.65](https://suttacentral.net/an3.65/pli/ms) (_"Come, Salha, do not go by..."_).
 
-Then Nandaka unfolds the same reasoning as in AN3.65: we need to abandon practices and views rooted in greed [lobha], aversion [dosa] and delusion [moha], and that lead to suffering.
+Then Nandaka unfolds the same reasoning as in AN3.65: we need to abandon practices and views rooted in greed (_lobha_), aversion (_dosa_) and delusion (_moha_), and that lead to suffering.
 
-This time, greed [lobha] is said to mean "longing" [abhijjhā], and that longing leads to wrong deeds. Aversion [dosa] is said to mean "ill will" [byāpāda], idem. And delusion [moha] is said to mean "ignorance" [avijjā].
+This time, greed is said to mean "longing" (_abhijjhā_), and that longing leads to wrong deeds. Aversion is said to mean "ill will" (_byāpāda_), idem. And delusion is said to mean "ignorance" (_avijjā_).
 
-In this sutta, Nandaka doesn't mention the four assurances. Instead, he says that the noble disciple, as a reward of abandoning greed, aversion, delusion, understands thus: _"There is this; there is the inferior; there is the superior; there is a further escape from whatever is involved with perception."_ And he is liberated from taints.
+In this sutta, Nandaka doesn't mention the four assurances of AN3.65. Instead, he says that the noble disciple, as a reward of abandoning greed, aversion, delusion, _He **understands** thus: 'There is this; there is the inferior, there is the superior; there is a further escape from whatever is involved with perception.' When he **knows and sees** thus, his mind is liberated from [the taints]. When it is liberated there comes the **knowledge**: 'it's liberated'."_
 
-note 462 ref to [MN7.17](https://suttacentral.net/pi/mn7/) four divine abodes?
-
-B. Bodhi, in his translationof AN, 2012, note 462 p 1654, adds that the commentary (Anguttara Nikaya-atthakatha) establishes a relation between these four and the four noble truths:
-- "there is this": five aggregates, truth of suffering
-- "inferior": truth of the origin of suffering
-- "superior": truth of the path
-- "further escape": nibbana, truth of cessation
+There's here 3 kinds of knowledge in one paragraph:
+- he understands thus: _pajānāti_
+- he knows and sees thus:  _evaṁ jānato evaṁ passato_
+- he knows (it's liberated): _ñāṇaṁ_
 
 
 ## AN4.193 - Bhaddiyasutta
