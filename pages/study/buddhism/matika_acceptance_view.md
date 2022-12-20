@@ -195,15 +195,40 @@ The answer the Buddha provides is related to one, having seen a form, a sound wi
 
 English extract: https://suttacentral.net/mn76/en/sujato
 
+> Sandaka, these things have been explained by the Blessed One, who **knows and sees**, the perfected one, the fully awakened Buddha: four ways that negate the spiritual life, and four kinds of unreliable spiritual life. A sensible person would, to the best of their ability, not practice such spiritual paths, and if they did practice them, they wouldn’t succeed in the procedure of the skillful teaching.”
+> 
+> [...]
+> 
 > Furthermore, take another teacher who is an oral transmitter, who takes oral transmission to be the truth. He teaches by oral transmission, by the lineage of testament, by canonical authority. But when a teacher takes oral transmission to be the truth, some of that is well learned, some poorly learned, some true, and some otherwise.
+> 
+> [...]
+> 
+> What do I **know or see** that I should lead the spiritual life under this teacher? This negates the spiritual life.’ Realizing this, they leave disappointed.
+> 
+> [...]
+> 
+> 
+> “But Master Ānanda, when a mendicant is perfected, would the **knowledge and vision** that their defilements are ended be constantly and continually present to them, while walking, standing, sleeping, and waking?”
 
 Pali extract: https://suttacentral.net/mn76/pli/ms
 
-> Puna caparaṁ, sandaka, idhekacco satthā anussaviko hoti anussavasacco. So **anussavena** **itihitihaparamparāya** **piṭakasampadāya** dhammaṁ deseti. Anussavikassa kho pana, sandaka, satthuno anussavasaccassa sussutampi hoti dussutampi hoti tathāpi hoti aññathāpi hoti.
+> “cattārome, sandaka, tena bhagavatā **jānatā passatā** arahatā sammāsambuddhena abrahmacariyavāsā akkhātā cattāri ca anassāsikāni brahmacariyāni akkhātāni, yattha viññū puriso sasakkaṁ brahmacariyaṁ na vaseyya, vasanto ca nārādheyya ñāyaṁ dhammaṁ kusalan”ti.
+> 
+> [...]
+> 
+> Puna caparaṁ, sandaka, idhekacco satthā anussaviko hoti anussavasacco. So anussavena itihitihaparamparāya piṭakasampadāya dhammaṁ deseti. Anussavikassa kho pana, sandaka, satthuno anussavasaccassa sussutampi hoti dussutampi hoti tathāpi hoti aññathāpi hoti.
+> 
+> [...]
+> 
+> Sohaṁ **kiṁ jānanto kiṁ passanto** imasmiṁ satthari brahmacariyaṁ carissāmi? ‘So abrahmacariyavāso ayan’ti— iti viditvā tasmā brahmacariyā nibbijja pakkamati.
+> 
+> [...]
+> 
+> “Yo pana so, bho ānanda, bhikkhu arahaṁ khīṇāsavo vusitavā katakaraṇīyo ohitabhāro anuppattasadattho parikkhīṇabhavasaṁyojano sammadaññāvimutto tassa carato ceva tiṭṭhato ca suttassa ca jāgarassa ca satataṁ samitaṁ **ñāṇadassanaṁ** paccupaṭṭhitaṁ: ‘khīṇā me āsavā’”ti?
 
 ### Notes
 
-The Blessed One is named "the Blessed One who knows and sees".
+The Blessed One is named "the Blessed One who **knows and sees**".
 
 Ananda speaks to an assembly of wanderer led by Sandaka. He teaches about the four ways that negate the living of the holy life.
 
@@ -212,18 +237,22 @@ Ananda speaks to an assembly of wanderer led by Sandaka. He teaches about the fo
 3. Holding the view "there is no cause or condition for the defilement of beings; beings are defiled withotu cause or condition; there is no cause or condition for the purification of beings, beings are purified withotu cause or condition; [...] all beings, all living things, all creatures, all souls are without mastery, power, energy",
 4. Holding the view "there are these seven bodies that are unmade, not brought forth, uncreated, without a creator, [these are earth, water, fire, air, pleasure, pain, soul]; herein there is no killer, no slaughterer, no hearer, no speaker; [...] the round of rebirths is limited, there is no shortening or extending it, no increasing or decreasing it".
 
-Those are clearly related to different doctrines of morality, cause and effect / karma.
+Those are clearly related to different doctrines of morality, cause and effect / karma. Each time, it is said _"about this a wise man considers thus: [...] 'What do I **know and see** that I should lead the holy life under this teacher?' So when he finds that this way  negates the living of the holy life, he turns away from it and leaves it."_
 
-Ananda then teaches about the four kind of holy life without consolate, wherein a wise man certainly would not live the holy life, or if he should live it, would not attain the true way.
+Ananda then teaches about the four kind of holy life without consolation, wherein a wise man certainly would not live the holy life, or if he should live it, would not attain the true way.
 
 1. "some teacher claims to be omniscient and all-seeing", when asked "how is this?" he replies "I had to...",
 2. "some teacher is a traditionalist, one who regards oral tradition as truth; he teaches a Dhamma by oral tradition, by legends handed down, by the authority of the collections",
 3. a certain teacher is a reasoner, an inquirer; he teaches a Dhamma hammered out by reasoning, following a line of inquiry as it occurs to him",
 4. "a certain teacher is dull and confused; [...] when he is asked such and such a question, he engages in verbal wriggling, in eel-wriggling".
 
-"So when [the teacher] finds that this holy life is without consolation, he turns away from it and leaves it."
+So when the wise man listening to teacher holding this view _"finds that this holy life is without consolation, he turns away from it and leaves it."_
 
-Ananda then speaks of the Tathagata, how the Tathagata went through all jhanas (unfolding this matika in the sutta, as in MN51). The sutta concludes on the description of the Arahant.
+Ananda then speaks of the Tathagata, how the Tathagata went through all jhanas (unfolding this matika in the sutta, as in MN51).
+
+The sutta concludes on a discussion about the status of the Arahant. Notably, Sadanka asks _"when a Bhikkhu is an arahant with taints destroyed [...] is his **knowledge and vision** that his taints are destroyed continuously and uninterruptedly present to him whether he is walking or standing or sleeping or awake?"_ Ananda replies _"his knowledge and vision that his taints are destroyed is not [...], rather, he knows 'My taints are destroyed' only when he reviews this fact."_
+
+Note: that last "knowledge and vision" (_ñāṇadassanaṁ_) is different from the "know and see" (_jānatā passatā_) of the Tathagata.
 
 
 ## MN95 - Caṅkīsutta
@@ -292,7 +321,7 @@ The follower:
 Faith being the first step here, is the faith in the teacher, after examining the teacher is purified from greed, hate and delusion.
 
 
-## TODO: MN102 - Pañ­catta­yasutta
+## MN102 - Pañ­catta­yasutta
 
 English extract: https://suttacentral.net/mn102/en/sujato
 
@@ -300,15 +329,22 @@ English extract: https://suttacentral.net/mn102/en/sujato
 
 Pali extract: https://suttacentral.net/mn102/pli/ms
 
-> Tatra, bhikkhave, ye te samaṇabrāhmaṇā evaṁvādino evaṁdiṭṭhino: ‘sassato attā ca loko ca, idameva saccaṁ moghamaññan’ti, tesaṁ vata aññatreva saddhāya aññatra ruciyā aññatra anussavā aññatra ākāraparivitakkā aññatra diṭṭhinijjhānakkhantiyā paccattaṁyeva ñāṇaṁ bhavissati parisuddhaṁ pariyodātanti—netaṁ ṭhānaṁ vijjati. Paccattaṁ kho pana, bhikkhave, ñāṇe asati parisuddhe pariyodāte yadapi te bhonto samaṇabrāhmaṇā tattha ñāṇabhāgamattameva pariyodapenti tadapi tesaṁ bhavataṁ samaṇabrāhmaṇānaṁ upādānamakkhāyati. Variant: yadapi → yadipi (mr)‘Tayidaṁ saṅkhataṁ oḷārikaṁ atthi kho pana saṅkhārānaṁ nirodho atthetan’ti— iti viditvā tassa nissaraṇadassāvī tathāgato tadupātivatto.
+> Tatra, bhikkhave, ye te samaṇabrāhmaṇā evaṁvādino evaṁdiṭṭhino: ‘sassato attā ca loko ca, idameva saccaṁ moghamaññan’ti, tesaṁ vata aññatreva saddhāya aññatra ruciyā aññatra anussavā aññatra ākāraparivitakkā aññatra diṭṭhinijjhānakkhantiyā **paccattaṁyeva ñāṇaṁ bhavissati parisuddhaṁ pariyodātanti**—netaṁ ṭhānaṁ vijjati. Paccattaṁ kho pana, bhikkhave, ñāṇe asati parisuddhe pariyodāte yadapi te bhonto samaṇabrāhmaṇā tattha ñāṇabhāgamattameva pariyodapenti tadapi tesaṁ bhavataṁ samaṇabrāhmaṇānaṁ upādānamakkhāyati. Variant: yadapi → yadipi (mr)‘Tayidaṁ saṅkhataṁ oḷārikaṁ atthi kho pana saṅkhārānaṁ nirodho atthetan’ti— iti viditvā tassa nissaraṇadassāvī tathāgato tadupātivatto.
 
 ### Notes
 
 Bhikkhu Bodhi notes that "this sutta is a 'middle length' counterpart of the longer [Brahmajāla Sutta](https://suttacentral.net/dn1/en/bodhi)".
 
-The sutta starts with the Buddha telling about _"some recluses and brahmins who speculate about the future"_. Those speculations are related to the nature of the self and its becoming after death.
+The sutta starts with the Buddha telling about _"some recluses and brahmins who speculate about the future"_. Those speculations are related to the nature of the self and its becoming after death. The sutta details multiple views, and how each brahmins holding one of those views criticize the others for some reason.
 
-Basing acceptance of a thesis on the five grounds (faith, personal preference, oral tradition, reasoned reflexion, acceptance of a view after pondering it) would be considered as clinging to a wrong view.
+In a second part, the Buddha tells, similarly, about _"some recluses and brahmins who speculate about the past, who assert various doctrinal propositions about the past"_. Here again, those are mostly about the nature and permanence of the self. In this second part, the Buddha highlights how those recluses and brahmins _"hold such a doctrine and view as this: [...] 'only this is true, anything else is wrong'"_.  
+Here the Buddha unfolds the five grounds for the acceptance of a thesis (faith, personal preference, oral tradition, reasoned reflexion, acceptance of a view after pondering it). But, for those recluses and brahmins, "since they have no pure and clear personal knowledge, [their knowledge] is declared to be clinging on their part".
+
+It is noted by Bhikkhu Bodhi, drawing from the commentary, that those different views (future and past) can be mapped to different levels of attainment.
+
+In a third part, the Buddha speaks about those recluses and brahmins who enter some levels of attainment while still clinging to some views of the self not based on clear personal knowledge. _"This good recluse of brahmin [...] regards himself thus: 'I am at peace, I have attained Nibbana, I am without clinging.' Certainly this venerable one asserts the way directed to Nibbana. Yet this good recluse of brahmin still clings"_,  and when they declare they have attained Nibbana, _"that too is declared clinging on the part of this good recluse of brahmin"_.
+
+The Tathagata, _"by understanding as they actually are the origination, the disappearance, the gratification, the danger and the escape in the case of the six bases of contact"_ has discovered the sublime peace that is _"liberation through not-clinging"_.
 
 
 ## CND 4 - Mettagu
@@ -599,6 +635,10 @@ I understand
 MN95
 **I know this, I see this**
 **ahametaṁ jānāmi, ahametaṁ passāmi**
+
+MN102
+**purified and clear personal knowledge**
+**paccattaṁyeva ñāṇaṁ bhavissati parisuddhaṁ pariyodātanti**
 
 MN102
 Understanding this and seeing the escape from it, the Realized One has gone beyond all that.
