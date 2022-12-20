@@ -20,12 +20,6 @@ In this document, we will look for the occurences of a specific [matika](http://
 
 The list is known for its use in [AN3.65 Kalama Sutta](https://suttacentral.net/an3.65/en/sujato), _"Please, Kālāmas, don’t go by..."_
 
-Come, Kālāmas, do not go by oral tradition, by lineage of teaching, by hearsay, by a collection of scriptures, by logical reasoning, by inferential reasoning, by reasoned cogitation, by the acceptance of a view after pondering it, by the seeming competence of a speaker, or because you think: ‘The ascetic is our guru.’
-
-Please, Kālāmas, don’t go by oral transmission, don’t go by lineage, don’t go by testament, don’t go by canonical authority, don’t rely on logic, don’t rely on inference, don’t go by reasoned contemplation, don’t go by the acceptance of a view after consideration, don’t go by the appearance of competence, and don’t think ‘The ascetic is our respected teacher.’ 
-
-“Kālāmas, do not go by hearsay. Do not go by tradition. Do not go by what seems appropriate. Do not go by scriptural authority. Do not go by thought. Do not go by inference. Do not go by logic. Do not go by personal preference. Do not go by a teacher‘s semblance of competence. Do not go by the thought ‘This contemplative is our teacher.’
-
 | English | Pali | Notes |
 | :-- | :-- | :-- |
 | _anussava_ | oral tradition, oral transmission | &nbsp; |
@@ -35,12 +29,16 @@ Please, Kālāmas, don’t go by oral transmission, don’t go by lineage, don�
 | _piṭakasampadānena_ | collection of scripture, canonical/scriptural authority | &nbsp; |
 | _takkahetu_ | logic, logical reasoning, thought | &nbsp; |
 | _nayahetu_ | inference, inferential reasoning | &nbsp; |
-| _ākāra­pari­vitak­kena_ | reasoned contemplation/cogitation | &nbsp; |
-| _diṭṭhi­nij­jhā­nak­khan­tiyā_ | acceptance of a view after consideration, after pondering it, personal preference | &nbsp; |
+| _ākāraparivitakkā_ | reasoned contemplation/cogitation | &nbsp; |
+| _diṭṭhinijjhānakkhantiyā_ | acceptance of a view after consideration, after pondering it | &nbsp; |
 | _bhabbarūpatāya_ | appearance/semblance of competence of a teacher, competence of a speaker | &nbsp; |
 | _samaṇo no garūti_ | thinking 'this ascetic is our respected teacher/guru' | &nbsp; |
 
-It has been refered to by some authors as the "grounds for the acceptance of a thesis" (or view, or doctrine), and it is a list one should _not_ use as ground for this acceptance. But the list comes with an advice on which one _should_ be used, that remains open to interpretation:
+It has been refered to by some authors as the _ten grounds for the acceptance of a thesis_ (or view, or doctrine), and it is a list one should _not_ use as ground for this acceptance.
+
+This list has overlap with another list refered by Bhikkhu Bodhi as the five grounds of conviction: _saddhā_ (faith), _ruci_ (preference), _anussava_ (oral tradition), _ākāraparivitakkā_ (reasoned contemplation), _diṭṭhinijjhānakkhantiyā_ (acceptance after consideration). Because of this overlap, we also examine occurences in MN95 and MN102 (see below).
+
+When used in a sutta, the list of ten grounds comes with an advice on which ground _should_ be used for accepting a doctrine. This advice remains open to interpretation:
 
 > But when you **know for yourselves**: ‘These things are unskillful, blameworthy, criticized by sensible people, and when you undertake them, they lead to harm and suffering’, then you should give them up.
 
@@ -48,6 +46,7 @@ Corresponding in [pali](https://suttacentral.net/an3.65/pli/ms) to:
 
 > Yadā tumhe, kālāmā, **attanāva jāneyyātha**: ‘ime dhammā akusalā, ime dhammā sāvajjā, ime dhammā viññugarahitā, ime dhammā samattā samādinnā ahitāya dukkhāya saṁvattantī’ti, atha tumhe, kālāmā, pajaheyyātha.
 
+We'll examine those second expressions on Section C.
 
 # B. Occurences of the matika
 
@@ -297,13 +296,17 @@ Faith being the first step here, is the faith in the teacher, after examining th
 
 English extract: https://suttacentral.net/mn102/en/sujato
 
-> Now, consider the ascetics and brahmins whose view is as follows. ‘The self and the cosmos are eternal. This is the only truth, other ideas are silly.’ It’s simply not possible for them to have purified and clear personal knowledge of this, apart from faith, preference, oral tradition, reasoned contemplation, or acceptance of a view after consideration. And in the absence of such knowledge, even the partial knowledge that they are clear about is said to be grasping on their part. ‘All that is conditioned and coarse. But there is the cessation of conditions—that is real.’ Understanding this and seeing the escape from it, the Realized One has gone beyond all that.
+> Now, consider the ascetics and brahmins whose view is as follows. ‘The self and the cosmos are eternal. This is the only truth, other ideas are silly.’ It’s simply not possible for them to have **purified and clear personal knowledge** of this, apart from faith, preference, oral tradition, reasoned contemplation, or acceptance of a view after consideration. And in the absence of such knowledge, even the partial knowledge that they are clear about is said to be grasping on their part. ‘All that is conditioned and coarse. But there is the cessation of conditions—that is real.’ Understanding this and seeing the escape from it, the Realized One has gone beyond all that.
 
 Pali extract: https://suttacentral.net/mn102/pli/ms
 
 > Tatra, bhikkhave, ye te samaṇabrāhmaṇā evaṁvādino evaṁdiṭṭhino: ‘sassato attā ca loko ca, idameva saccaṁ moghamaññan’ti, tesaṁ vata aññatreva saddhāya aññatra ruciyā aññatra anussavā aññatra ākāraparivitakkā aññatra diṭṭhinijjhānakkhantiyā paccattaṁyeva ñāṇaṁ bhavissati parisuddhaṁ pariyodātanti—netaṁ ṭhānaṁ vijjati. Paccattaṁ kho pana, bhikkhave, ñāṇe asati parisuddhe pariyodāte yadapi te bhonto samaṇabrāhmaṇā tattha ñāṇabhāgamattameva pariyodapenti tadapi tesaṁ bhavataṁ samaṇabrāhmaṇānaṁ upādānamakkhāyati. Variant: yadapi → yadipi (mr)‘Tayidaṁ saṅkhataṁ oḷārikaṁ atthi kho pana saṅkhārānaṁ nirodho atthetan’ti— iti viditvā tassa nissaraṇadassāvī tathāgato tadupātivatto.
 
 ### Notes
+
+Bhikkhu Bodhi notes that "this sutta is a 'middle length' counterpart of the longer [Brahmajāla Sutta](https://suttacentral.net/dn1/en/bodhi)".
+
+The sutta starts with the Buddha telling about _"some recluses and brahmins who speculate about the future"_. Those speculations are related to the nature of the self and its becoming after death.
 
 Basing acceptance of a thesis on the five grounds (faith, personal preference, oral tradition, reasoned reflexion, acceptance of a view after pondering it) would be considered as clinging to a wrong view.
 
