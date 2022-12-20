@@ -24,7 +24,6 @@ The list is known for its use in [AN3.65 Kalama Sutta](https://suttacentral.net/
 | :-- | :-- | :-- |
 | _anussava_ | oral tradition, oral transmission | &nbsp; |
 | _parampara_ | lineage of teaching, inheritance, tradition | &nbsp; |
-| _itihītihaṃ_ |  rumor, hearsay | not in AN3.65, but in CND/MND |
 | _itikirāya_ | hearsay, testament, what seems appropriate |  &nbsp; |
 | _piṭakasampadānena_ | collection of scripture, canonical/scriptural authority | &nbsp; |
 | _takkahetu_ | logic, logical reasoning, thought | &nbsp; |
@@ -36,7 +35,10 @@ The list is known for its use in [AN3.65 Kalama Sutta](https://suttacentral.net/
 
 It has been refered to by some authors as the _ten grounds for the acceptance of a thesis_ (or view, or doctrine), and it is a list one should _not_ use as ground for this acceptance.
 
-This list has overlap with another list refered by Bhikkhu Bodhi as the five grounds of conviction: _saddhā_ (faith), _ruci_ (preference), _anussava_ (oral tradition), _ākāraparivitakkā_ (reasoned contemplation), _diṭṭhinijjhānakkhantiyā_ (acceptance after consideration). Because of this overlap, we also examine occurences in MN95 and MN102 (see below).
+Note: in CND/MND, another element is added: _itihītihaṃ_, for rumor, hearsay.
+
+This list has overlap with another list refered by Bhikkhu Bodhi as the five grounds of conviction or five grounds for the acceptance of a doctrine: _saddhā_ (faith), _ruci_ (preference), _anussava_ (oral tradition), _ākāraparivitakkā_ (reasoned contemplation), _diṭṭhinijjhānakkhantiyā_ (acceptance after consideration). 
+This list occurs fully in SN12.68, SN35.153, MN95 and MN102, and are counted in this document as partial occurences of the list of ten grounds above.
 
 When used in a sutta, the list of ten grounds comes with an advice on which ground _should_ be used for accepting a doctrine. This advice remains open to interpretation:
 
@@ -46,7 +48,10 @@ Corresponding in [pali](https://suttacentral.net/an3.65/pli/ms) to:
 
 > Yadā tumhe, kālāmā, **attanāva jāneyyātha**: ‘ime dhammā akusalā, ime dhammā sāvajjā, ime dhammā viññugarahitā, ime dhammā samattā samādinnā ahitāya dukkhāya saṁvattantī’ti, atha tumhe, kālāmā, pajaheyyātha.
 
-We'll examine those second expressions on Section C.
+The list of five grounds (_saddhā_ ...), usually goes with similar expressions refering to knowledge and vision.
+
+We'll examine all those expressions related to the right method to access knowledge on Section C.
+
 
 # B. Occurences of the matika
 
@@ -131,7 +136,7 @@ English extract: https://suttacentral.net/sn12.68/en/sujato
 
 Pali extract: https://suttacentral.net/sn12.68/pli/ms
 
-> “aññatreva, āvuso musila, saddhāya aññatra ruciyā aññatra anussavā aññatra ākāraparivitakkā aññatra diṭṭhinijjhānakkhantiyā **atthāyasmato musilassa paccattameva ñāṇaṁ**: ‘jātipaccayā jarāmaraṇan’”ti?
+> “aññatreva, āvuso musila, saddhāya aññatra ruciyā aññatra anussavā aññatra ākāraparivitakkā aññatra diṭṭhinijjhānakkhantiyā atthāyasmato musilassa **paccattameva ñāṇaṁ**: ‘jātipaccayā jarāmaraṇan’”ti?
 > 
 > “Aññatreva, āvuso paviṭṭha, saddhāya aññatra ruciyā aññatra anussavā aññatra ākāraparivitakkā aññatra diṭṭhinijjhānakkhantiyā **ahametaṁ jānāmi ahametaṁ passāmi**: ‘jātipaccayā jarāmaraṇan’”ti.
 
@@ -139,20 +144,13 @@ Pali extract: https://suttacentral.net/sn12.68/pli/ms
 
 This sutta reports an exchange happening between the four Venerables Musila, Savittha, Narada and Ananda.
 
-Savittha asks Musila the following question: _"Friend Musila, apart from faith, apart from personal preference, apart from oral tradition, apart from reasoned reflexion, apart from acceptance of a view after pondering it, does the Venerable Musila have personal knowledge thus: 'With birth as condition, aging-and-death [comes to be]?'"_ [B. Bodhi, SN, p. 612]
+Savittha asks Musila the following question: _"Friend Musila, apart from faith, apart from personal preference, apart from oral tradition, apart from reasoned reflexion, apart from acceptance of a view after pondering it, does the Venerable Musila have personal knowledge thus: 'With birth as condition, aging-and-death [comes to be]?'"_ [B. Bodhi, SN, p. 610]
 
 This unfolds along the list of factors of dependent origination. And the final point is Savittha saying _"**I know this, I see this**: 'Nibbana is the cessation of existence'"_. To that sentence, Musila concludes that Savittha is an Arahant.
 
-But Narada interrupts. And an exchange of the same kind unfolds into a discussion on the point that it is not enough to know and see 'Nibbana is the cessation of existence' to be an arahant. That one needs also to extinguish all taints related to this view, to make "bodily contact" with this truth (use of a simile).
+But Narada interrupts. And an exchange of the same kind unfolds into a discussion on the point that it is not enough to **know and see** 'Nibbana is the cessation of existence' to be an arahant. That one needs also to extinguish all taints related to this view, to make "bodily contact" with this truth (use of a simile).
 
-In his notes, B.Bodhi points to a discussion on the "five grounds for the acceptance of a thesis" [B. Bodhi, SN, note 198, p 781] which are here put in comparison with "Personal knowledge" [paccattameva ñāṇa], and are also criticized in SN35.153 (see below):
-- faith [saddhā]
-- personal preference [ruci]
-- oral tradition [anussavā]
-- reasoned reflexion [ākāraparivitakkā]
-- acceptance of a view after pondering itth [diṭṭhinijjhānakkhanti]
-
-TODO: See Gombrich, How Buddhism Began, 1996, pp 128-29
+In his notes, B.Bodhi points to a discussion on the "five grounds for the acceptance of a thesis" [B. Bodhi, SN, note 198, p 781]. They are here put in contrast with personal knowledge (_paccattameva ñāṇa_), and knowledge and vision (_jānāmi passāmi_).
 
 
 ## SN35.153 - Atthi­nu­kho­pariyā­ya­sutta
@@ -184,7 +182,7 @@ Pali extract: https://suttacentral.net/sn35.153/pli/ms
 
 ### Notes
 
-Pointed out in [B. Bodhi, SN, note 198, p 781] as another sutta criticizing the "five grounds for the acceptance of a thesis".
+Another sutta criticizing the "five grounds for the acceptance of a thesis".
 
 In this sutta, the investigation deals with **how a Bhikkhu can declare** [] - 'Detroyed is birth, the holy life has been lived, what had to be done has been done, there is no more for this state of being'.
 
