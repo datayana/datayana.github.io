@@ -1,4 +1,8 @@
-# The grounds for the acceptance of a view
+---
+layout: page
+title: The grounds for the acceptance of a view (matika)
+permalink: /pages/study/buddhism/matika-acceptance-view/
+---
 
 In this document, we will look for the occurences of a specific [matika](http://tibetanbuddhistencyclopedia.com/en/index.php?title=Matika) related to the grounds for the acceptance of a view or doctrine. This list is found in the Pali Canon. In particular, it is found in the [Kesamuttisutta](https://suttacentral.net/an3.65/en/sujato) (a.k.a. the Kalama Sutta) where it has been the object of a lot of interpretations and commentaries from modern buddhist apologists.
 
