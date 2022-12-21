@@ -10,7 +10,7 @@ In this document, we will look for the occurences of a specific [matika](http://
 - Section C: examine, in the surrounding of those occurences of the matika, terms that are related to the expression "when you know for yourself" in the Kalama Sutta.
 
 **Future additions** to this document will (hopefully) include:
-- polishing and publishing the code used to locate the occurences from the [Sutta Central](https://suttacentral.net/) corpus
+- polishing and publishing the code used to locate the occurences from the [Sutta Central](https://suttacentral.net/) corpus,
 - adding a section for the occurences of the terms related to "when you know for yourself" in other suttas.
 
 **Thanks** - The author wants to express the deepest thanks to [Sutta Central](https://suttacentral.net/) for their amazing work of collecting and maintaining an online version of the Pali Canon, and to all the translators, famous or not, that have provided versions of the texts in english.
@@ -100,13 +100,13 @@ Pali extract: https://suttacentral.net/an3.66/pli/ms
 
 ### Notes
 
-This time the discourse is given by Venerable Nandaka to Salha and Rohana. Nandaka starts directly by saying to Salha this paragraph seen in [AN3.65](https://suttacentral.net/an3.65/pli/ms) (_"Come, Salha, do not go by..."_).
+This time the discourse is not given by the Buddha, but by Venerable Nandaka to Salha and Rohana. Nandaka starts directly by saying to Salha this paragraph seen in [AN3.65](https://suttacentral.net/an3.65/pli/ms) (_"Come, Salha, do not go by..."_).
 
 Then Nandaka unfolds the same reasoning as in AN3.65: we need to examine things (_dhammā_) rooted in greed (_lobha_), aversion (_dosa_) and delusion (_moha_), and that lead to suffering, and abandon them.
 
 This time, greed is said to mean "longing" (_abhijjhā_), and that longing leads to wrong deeds. Aversion is said to mean "ill will" (_byāpāda_), idem. And delusion is said to mean "ignorance" (_avijjā_).
 
-In this sutta, Nandaka doesn't mention the four assurances of AN3.65. Instead, he says that the noble disciple, as a reward of abandoning greed, aversion, delusion, _He **understands** thus: 'There is this; there is the inferior, there is the superior; there is a further escape from whatever is involved with perception.' When he **knows and sees** thus, his mind is liberated from [the taints]. When it is liberated there comes the **knowledge**: 'it's liberated'."_
+In this sutta, Nandaka doesn't mention the four assurances of AN3.65. Instead, he says that the noble disciple, as a reward of abandoning greed, aversion, delusion, _"He **understands** thus: 'There is this; there is the inferior; there is the superior; there is a further escape from whatever is involved with perception.' When he **knows and sees** thus, his mind is liberated from [the taints]. When it is liberated there comes the **knowledge**: 'it's liberated'."_
 
 There's here 3 kinds of knowledge in one paragraph:
 - he understands thus: _pajānāti_
@@ -126,15 +126,15 @@ Pali extract: https://suttacentral.net/an4.193/pli/ms
 
 ### Notes
 
-In this sutta, Baddhiya comes to the Buddha because he heard that _"the ascetic Gotama is a magician who knows a converting magic by which he converts the disciples of teachers of other sects"_ ([B. Bodhi, AN, 2012, p567], see also note 907 ref to [SN42.13](https://suttacentral.net/pi/sn42.13) and [MN56.8](https://suttacentral.net/pi/mn56)).
+In this sutta, Baddhiya comes to the Buddha because he heard that _"the ascetic Gotama is a magician who knows a converting magic by which he converts the disciples of teachers of other sects"_ ([Bhikkhu Bodhi, AN, 2012, p567], see also note 907 ref to [SN42.13](https://suttacentral.net/pi/sn42.13) and [MN56.8](https://suttacentral.net/pi/mn56)).
 
 The Buddha dispells how _"some ascetics and brahmins untruthfully, baselessly, falsely, and wrongly misrepresent [him]"_ by saying this. He uses the same sutta as in AN 3.65 to show what his conversion is about: abandoning things (_dhammā_) rooted in greed, aversion and delusion, and that lead to suffering (with vehemence (_sārambha_) added in the mix).
 
 This time the Buddha doesn't mention the four assurances. But he asks Baddhiya: _"did I say to you: 'Come, Bhaddiya, be my disciple and I will be your teacher'?"_. Bhaddiya says no. The emphasis seems to be on the choice Bhaddiya made to go to the Buddha for refuge on his own.
 
-After having said how beneficial it would be for basically everyone to convert that way (in note 911, B. Bodhi refers to MN56.26 at this point), at the very end of the sutta, there is this interesting paragraph: _"If these great sal trees would be converted by this conversion toward the abandoning of unwholesome qualities and the acquisition of wholesome qualities, that would lead to the welfare and happiness even of these great sal trees for a long time, if they could choose. How much more then for a human being!"_ (B. Bodhi, AN, 2012, p 570).
+After having said how beneficial it would be for basically everyone to convert that way (in note 911, Bhikkhu Bodhi refers to MN56.26 at this point), at the very end of the sutta, there is this interesting paragraph: _"If these great sal trees would be converted by this conversion toward the abandoning of unwholesome qualities and the acquisition of wholesome qualities, that would lead to the welfare and happiness even of these great sal trees for a long time, if they could choose. How much more then for a human being!"_ (Bhikkhu Bodhi, AN, 2012, p 570).
 
-Note: B. Bodhi note 912 mentions that "sace ceteyyum" ("if they could choose") is found in Sinhala-script and Roman-script but not Burmese-script.
+Note: Bhikkhu Bodhi note 912 mentions that _sace ceteyyum_ (_"if they could choose"_) is found in Sinhala-script and Roman-script but not Burmese-script.
 
 
 ## SN12.68 - Kosambisutta
@@ -155,13 +155,13 @@ Pali extract: https://suttacentral.net/sn12.68/pli/ms
 
 This sutta reports an exchange happening between the four Venerables Musila, Savittha, Narada and Ananda.
 
-Savittha asks Musila the following question: _"Friend Musila, apart from faith, apart from personal preference, apart from oral tradition, apart from reasoned reflexion, apart from acceptance of a view after pondering it, does the Venerable Musila have personal knowledge thus: 'With birth as condition, aging-and-death [comes to be]?'"_ [B. Bodhi, SN, p. 610]
+Savittha asks Musila the following question: _"Friend Musila, apart from faith, apart from personal preference, apart from oral tradition, apart from reasoned reflexion, apart from acceptance of a view after pondering it, does the Venerable Musila have personal knowledge thus: 'With birth as condition, aging-and-death [comes to be]?'"_ [Bhikkhu Bodhi, SN, p. 610]
 
 This unfolds along the list of factors of dependent origination. And the final point is Savittha saying _"**I know this, I see this**: 'Nibbana is the cessation of existence'"_. To that sentence, Musila concludes that Savittha is an Arahant.
 
 But Narada interrupts. And an exchange of the same kind unfolds into a discussion on the point that it is not enough to **know and see** 'Nibbana is the cessation of existence' to be an arahant. That one needs also to extinguish all taints related to this view, to make "bodily contact" with this truth (use of a simile).
 
-In his notes, B.Bodhi points to a discussion on the "five grounds for the acceptance of a thesis" [B. Bodhi, SN, note 198, p 781]. They are here put in contrast with personal knowledge (_paccattameva ñāṇa_), and knowledge and vision (_jānāmi passāmi_).
+In his notes, Bhikkhu Bodhi points to a discussion on the "five grounds for the acceptance of a thesis" [Bhikkhu Bodhi, SN, note 198, p 781]. They are here put in contrast with personal knowledge (_paccattameva ñāṇa_), and knowledge and vision (_jānāmi passāmi_).
 
 
 ## SN35.153 - Atthi­nu­kho­pariyā­ya­sutta
@@ -298,7 +298,7 @@ Pali extract: https://suttacentral.net/mn95/pli/ms
 
 The Buddha is being asked questions by a brahmin student Kapathika. It is said that this student is a sixteen years old clansman, "a master of the Three Vedas with their vocabularies, liturgy, phonology and grammar, fully versed in natural philosophy and in the marks of a Great Man", very learned, has good delivery and is wise.
 
-Kapathika asks (B. Bodhi trans.): "In regard to the ancient brahmanic hymns that have come down through oral transmission preserved in the collections the brahmins come to the definite conclusion: 'only this is true, anything else is wrong.' What does the Master Gotama say about this?"
+Kapathika asks (Bhikkhu Bodhi trans.): "In regard to the ancient brahmanic hymns that have come down through oral transmission preserved in the collections the brahmins come to the definite conclusion: 'only this is true, anything else is wrong.' What does the Master Gotama say about this?"
 
 The Buddha replies that none of those brahmins **knows and sees** 'only this is true, anything else is wrong'. Thus placing the discussion about the method to access knowledge, and not the knowledge itself.
 
@@ -622,58 +622,44 @@ This text is part of the commentary, and deals with how to investigate the Sutta
 
 # C. Mapping "know for yourself"
 
-Notes:
-- MN51.12=MN76.35 "which he has himself realized by direct knowledge"
-
-AN3.65, AN3.66, AN4.193
-you **know for yourselves**
-**attanāva jāneyyātha**
-
-SN12.68
-you **know for yourself**
-**atthāyasmato musilassa paccattameva ñāṇaṁ**
-I **know and see**
-**ahametaṁ jānāmi ahametaṁ passāmi**
-
-SN35.153
-I understand
-**pajānāmī**
-**understood by seeing them with wisdom**
-**paññāya disvā veditabbā**
-
-MN95
-**I know this, I see this**
-**ahametaṁ jānāmi, ahametaṁ passāmi**
-
-MN102
-**purified and clear personal knowledge**
-**paccattaṁyeva ñāṇaṁ bhavissati parisuddhaṁ pariyodātanti**
-
-MN102
-Understanding this and seeing the escape from it, the Realized One has gone beyond all that.
-iti viditvā tassa nissaraṇadassāvī tathāgato tadupātivatto.
-
-CND 4, MND 16
-**the one who knows**
-**yathā pajānaṃ**
-
-CND 4
-**such as the one who knows, the one who understands, the one who penetrates**
-yathā pajānanto ājānanto **vijānanto paṭivijānanto paṭivijjhanto**
-
-CND 4, CND 5, CND 8, CND 18, MND 16
-**a method that is personally proven and self-proven by oneself**
-sāmaṃ saya­ma­bhiñ­ñā­taṃ attapaccak­kha­dhammaṃ taṃ kathayissāmīti
-
-MND 14, MND 14
-self-evidenced method
-Sakkhidhammaṃ
+| Sutta | Subject | Verb | Object | Pali | 
+| :-- | :-- | :-- | :-- | :-- |
+| AN3.65 | you | know for yourself | these things (dhammam)... | attanāva jāneyyātha |
+| AN3.66 | you | know for yourself | these things (dhammam)... | attanāva jāneyyātha |
+| AN3.66 | a noble disciple | understands | 'There is this' | pajānāti |
+| AN3.66 | a noble disciple | knows and sees | thus (infra) | evaṁ jānato evaṁ passato |
+| AN3.66 | a noble disciple | knows | 'It is liberated' | ñāṇaṁ |
+| AN4.193 | you | know for yourself | these things (dhammam)... | attanāva jāneyyātha |
+| SN12.68 | you (bhikkhu) | know for yourself | paticcasamuppada | paccattameva ñāṇaṁ |
+| SN12.68 | I (bhikkhu) | know and see | paticcasamuppada | ahametaṁ jānāmi ahametaṁ passāmi |
+| SN35.153 | I (Tathagata) | understand | 'Rebirt is ended' | pajānāmī |
+| SN35.153 | a bhikkhu | understand | 'I have greed' | pajānāmī |
+| SN35.153 | these things | are understood by seeing them with wisdom | &nbsp; | paññāya disvā veditabbā |
+| MN76 | Blessed One | knows and sees | &nbsp; | jānatā passatā |
+| MN76 | I (student) | know or see | that I should lead the spiritual life... | kiṁ jānanto kiṁ passanto |
+| MN76 | a bhikkhu | knows and sees | their defilements are ended | ñāṇadassanaṁ |
+| MN95 | I (a brahmin) | know and see  | this (doctrine) | ahametaṁ jānāmi, ahametaṁ passāmi |
+| MN102 | a brahmin | has | purified and clear personal knowledge | paccattaṁyeva ñāṇaṁ bhavissati parisuddhaṁ pariyodātanti |
+| CND4 | The Blessed One | knows | all sufferings... | yathā pajānaṃ |
+| CND4 | The Blessed One | knows | a method... | vijānanto |
+| CND4 | The Blessed One | understands | a method... | paṭivijānanto |
+| CND4 | The Blessed One | penetrates | a method... | paṭivijjhanto |
+| CND4 | The Blessed One | know in real life | the Dhamma | anītihaṃ |
+| CND5 | The Blessed One | know in real life | the stillness | anītihaṃ |
+| MND14 | The Blessed One | sees the Dhamma self-evidently | sak­khi­dhamma­ma­nīti­ha­maddasi |
+| MND16 | The Blessed One | knows | the Dhamma | yathā pajānaṃ |
+| CND4, CND5, CND8, CND18, MND16 | A method | personnaly proven and self-proven by oneself | &nbsp; | sāmaṃ saya­ma­bhiñ­ñā­taṃ attapaccak­kha­dhammaṃ taṃ kathayissāmīti |
+| MND14 | a method | self-evidenced | &nbsp; | sakkhidhammaṃ |
 
 MND 14
 His insights were seen and understood in the Dhamma that he personally proved and realized.
 sāmaṃ saya­ma­bhiñ­ñā­taṃ attapaccak­kha­dhammaṃ addasi addakkhi apassi paṭivijjhīti
 
+Notes:
+- MN51.12=MN76.35 "which he has himself realized by direct knowledge"
 
+
+# Reserve
 
 ### MND 10
 
@@ -708,9 +694,6 @@ no other relevant passages show up
 
 MND14: sāmaṃ sayamabhiññātaṃ attapaccakkhaṃ dhammanti—sakkhidhammaṃ
 His insights were seen and understood in the Dhamma that he personally proved and realized.
-
-
-# Reserve
 
 ## Iti
 
