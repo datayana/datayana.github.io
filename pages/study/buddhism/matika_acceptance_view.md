@@ -58,19 +58,24 @@ We'll examine all those expressions related to the right method to access knowle
 This section will identify the occurences of the matika in the pali canon. We've kept only occurences of the full or partial matika up to 2 elements (when at least 2 elements of the list come together in a single sutta).  
 For each occurence, we provide an extract and some notes to understand the context in which the list is being used.
 
-## AN3.65 - 
+## AN3.65 - Kesaputtiya
 
 English extract: https://suttacentral.net/an3.65/en/bodhi
 
-> 
+> “It is fitting for you to be perplexed, Kālāmas, fitting for you to be in doubt. Doubt has arisen in you about a perplexing matter. 
+> Come, Kālāmas, do not go by oral tradition, by lineage of teaching, by hearsay, by a collection of scriptures, by logical reasoning, by inferential reasoning, by reasoned cogitation, by the acceptance of a view after pondering it, by the seeming competence of a speaker, or because you think: ‘The ascetic is our guru.’ But when, Kālāmas, you **know for yourselves**: ‘These things are unwholesome; these things are blameworthy; these things are censured by the wise; these things, if accepted and undertaken, lead to harm and suffering,’ then you should abandon them.
 
-Pali extract: 
+Pali extract: https://suttacentral.net/an3.65/pli/ms
 
-> 
+> “Alañhi vo, kālāmā, kaṅkhituṁ alaṁ vicikicchituṁ. Kaṅkhanīyeva pana vo ṭhāne vicikicchā uppannā.  
+> Etha tumhe, kālāmā, mā anussavena, mā paramparāya, mā itikirāya, mā piṭakasampadānena, mā takkahetu, mā nayahetu, mā ākāraparivitakkena, mā diṭṭhinijjhānakkhantiyā, mā bhabbarūpatāya, mā samaṇo no garūti. Yadā tumhe, kālāmā, **attanāva jāneyyātha**: ‘ime dhammā akusalā, ime dhammā sāvajjā, ime dhammā viññugarahitā, ime dhammā samattā samādinnā ahitāya dukkhāya saṁvattantī’ti, atha tumhe, kālāmā, pajaheyyātha.
 
 ### Notes
 
-foo
+The Buddha speaks with the Kalamas. Recently, they have been exposed to a lot of different teachers, _"they explain and elucidate their own doctrines, but disparage, denigrate, deride, and denounce the doctrines of others"_.
+
+There comes the famous list (see extract above), and the advice to _"know for yourselves"_.
+
 
 ## AN3.66 - Sāḷhasutta
 
@@ -97,7 +102,7 @@ Pali extract: https://suttacentral.net/an3.66/pli/ms
 
 This time the discourse is given by Venerable Nandaka to Salha and Rohana. Nandaka starts directly by saying to Salha this paragraph seen in [AN3.65](https://suttacentral.net/an3.65/pli/ms) (_"Come, Salha, do not go by..."_).
 
-Then Nandaka unfolds the same reasoning as in AN3.65: we need to abandon practices and views rooted in greed (_lobha_), aversion (_dosa_) and delusion (_moha_), and that lead to suffering.
+Then Nandaka unfolds the same reasoning as in AN3.65: we need to examine things (_dhammā_) rooted in greed (_lobha_), aversion (_dosa_) and delusion (_moha_), and that lead to suffering, and abandon them.
 
 This time, greed is said to mean "longing" (_abhijjhā_), and that longing leads to wrong deeds. Aversion is said to mean "ill will" (_byāpāda_), idem. And delusion is said to mean "ignorance" (_avijjā_).
 
@@ -113,7 +118,7 @@ There's here 3 kinds of knowledge in one paragraph:
 
 English extract: https://suttacentral.net/an4.193/en/sujato
 
-> “Please, Bhaddiya, don’t go by oral transmission, don’t go by lineage, don’t go by testament, don’t go by canonical authority, don’t rely on logic, don’t rely on inference, don’t go by reasoned contemplation, don’t go by the acceptance of a view after consideration, don’t go by the appearance of competence, and don’t think ‘The ascetic is our respected teacher.’ But when **you know for yourselves**: ‘These things are unskillful, blameworthy, criticized by sensible people, and when you undertake them, they lead to harm and suffering’, then you should give them up.
+> “Please, Bhaddiya, don’t go by oral transmission, don’t go by lineage, don’t go by testament, don’t go by canonical authority, don’t rely on logic, don’t rely on inference, don’t go by reasoned contemplation, don’t go by the acceptance of a view after consideration, don’t go by the appearance of competence, and don’t think ‘The ascetic is our respected teacher.’ But when you **know for yourselves**: ‘These things are unskillful, blameworthy, criticized by sensible people, and when you undertake them, they lead to harm and suffering’, then you should give them up.
 
 Pali extract: https://suttacentral.net/an4.193/pli/ms
 
@@ -123,15 +128,13 @@ Pali extract: https://suttacentral.net/an4.193/pli/ms
 
 In this sutta, Baddhiya comes to the Buddha because he heard that _"the ascetic Gotama is a magician who knows a converting magic by which he converts the disciples of teachers of other sects"_ ([B. Bodhi, AN, 2012, p567], see also note 907 ref to [SN42.13](https://suttacentral.net/pi/sn42.13) and [MN56.8](https://suttacentral.net/pi/mn56)).
 
-The Buddha dispells how _"some ascetics and brahmins untruthfully, baselessly, falsely, and wrongly misrepresent [him]"_ by saying this. He uses the same sutta as in AN 3.65 to show what his conversion is about: abandoning practices and views rooted in greed [lobha], aversion [dosa] and delusion [moha], and that lead to suffering (with vehemence [sārambha] added in the mix).
+The Buddha dispells how _"some ascetics and brahmins untruthfully, baselessly, falsely, and wrongly misrepresent [him]"_ by saying this. He uses the same sutta as in AN 3.65 to show what his conversion is about: abandoning things (_dhammā_) rooted in greed, aversion and delusion, and that lead to suffering (with vehemence (_sārambha_) added in the mix).
 
 This time the Buddha doesn't mention the four assurances. But he asks Baddhiya: _"did I say to you: 'Come, Bhaddiya, be my disciple and I will be your teacher'?"_. Bhaddiya says no. The emphasis seems to be on the choice Bhaddiya made to go to the Buddha for refuge on his own.
 
-After having said how beneficial it would be for basically everyone to convert that way (in note 911, B. Bodhi refers to MN56.26 at this point), at the very end of the sutta, there is this interesting paragraph:
+After having said how beneficial it would be for basically everyone to convert that way (in note 911, B. Bodhi refers to MN56.26 at this point), at the very end of the sutta, there is this interesting paragraph: _"If these great sal trees would be converted by this conversion toward the abandoning of unwholesome qualities and the acquisition of wholesome qualities, that would lead to the welfare and happiness even of these great sal trees for a long time, if they could choose. How much more then for a human being!"_ (B. Bodhi, AN, 2012, p 570).
 
-> "If these great sal trees would be converted by this conversion toward the abandoning of unwholesome qualities and the acquisition of wholesome qualities, that would lead to the welfare and happiness even of these great sal trees for a long time, if they could choose. How much more then for a human being!" [B. Bodhi, AN, 2012, p 570]
-
-_Note: B. Bodhi note 912 mentions that "sace ceteyyum" ("if they could choose") is found in Sinhala-script and Roman-script but not Burmese-script._
+Note: B. Bodhi note 912 mentions that "sace ceteyyum" ("if they could choose") is found in Sinhala-script and Roman-script but not Burmese-script.
 
 
 ## SN12.68 - Kosambisutta
