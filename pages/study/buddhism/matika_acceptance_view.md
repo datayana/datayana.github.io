@@ -4,11 +4,11 @@ title: The grounds for the acceptance of a view (matika)
 permalink: /pages/study/buddhism/matika-acceptance-view/
 ---
 
-In this document, we will look for the occurences of a specific [matika](http://tibetanbuddhistencyclopedia.com/en/index.php?title=Matika) related to the grounds for the acceptance of a view or doctrine. This list is found in the Pali Canon. In particular, it is found in the [Kesamuttisutta](https://suttacentral.net/an3.65/en/sujato) (a.k.a. the Kalama Sutta) where it has been the object of a lot of interpretations and commentaries from modern buddhist apologists.
+In this document, we will look for the occurrences of a specific [matika](http://tibetanbuddhistencyclopedia.com/en/index.php?title=Matika) related to the grounds for the acceptance of a view or doctrine. This list is found in the Pali Canon. In particular, it is found in the [Kesamuttisutta](https://suttacentral.net/an3.65/en/sujato) (a.k.a. the Kalama Sutta) where it has been the object of a lot of interpretations and commentaries from modern Buddhist apologists.
 
 Table of content:
 - [A. The matika](#a-the-matika)
-- [B. Occurences of the matika](#b-occurences-of-the-matika)
+- [B. occurrences of the matika](#b-occurrences-of-the-matika)
     - [AN3.65](#an365---kesaputtiya)
     - [AN3.66](#an366---sāḷhasutta)
     - [AN4.193](#an4193---bhaddiyasutta)
@@ -28,16 +28,16 @@ Table of content:
     - [PE4](#pe4---4-sutta­vicaya­catut­tha­bhūmi)
 - [C. Mapping "know for yourself"](#c-mapping-know-for-yourself)
 
-**Objectives** - This page will just enumerate and deep dive into the occurences of this list in the Canon. This will be used later (hopefully) for a commentary on the modernist interpretations of the Kalama Sutta.
+**Objectives** - This page will just enumerate and deep dive into the occurrences of this list in the Canon. This will be used later (hopefully) for a commentary on the modernist interpretations of the Kalama Sutta.
 
 **Structure** - To support this future commentary, this document will:
 - Section A: define the list we used as reference,
-- Section B: locate, as exhaustively as possible, all the full or partial occurences of the list in the pali canon,
-- Section C: examine, in the surrounding of those occurences of the matika, terms that are related to the expression "when you know for yourself" in the Kalama Sutta.
+- Section B: locate, as exhaustively as possible, all the full or partial occurrences of the list in the pali canon,
+- Section C: examine, in the surrounding of those occurrences of the matika, terms that are related to the expression "when you know for yourself" in the Kalama Sutta.
 
 **Future additions** to this document will (hopefully) include:
-- polishing and publishing the code used to locate the occurences from the [Sutta Central](https://suttacentral.net/) corpus,
-- adding a section for the occurences of the terms related to "when you know for yourself" in other suttas.
+- polishing and publishing the code used to locate the occurrences from the [Sutta Central](https://suttacentral.net/) corpus,
+- adding a section for the occurrences of the terms related to "when you know for yourself" in other suttas.
 
 **Thanks** - The author wants to express the deepest thanks to [Sutta Central](https://suttacentral.net/) for their amazing work of collecting and maintaining an online version of the Pali Canon, and to all the translators, famous or not, that have provided versions of the texts in english.
 
@@ -64,9 +64,9 @@ It has been refered to by some authors as the _ten grounds for the acceptance of
 Note: in CND/MND, another element is added: _itihītihaṃ_, for rumor, hearsay.
 
 This list overlaps with another list refered by Bhikkhu Bodhi as the _five grounds of conviction_ or _five grounds for the acceptance of a doctrine_: namely _saddhā_ (faith), _ruci_ (preference), _anussava_ (oral tradition), _ākāraparivitakkā_ (reasoned contemplation), _diṭṭhinijjhānakkhantiyā_ (acceptance after consideration).  
-This list occurs fully in SN12.68, SN35.153, MN95 and MN102, and are counted in this document as partial occurences of the list of ten grounds above.
+This list occurs fully in SN12.68, SN35.153, MN95 and MN102, and are counted in this document as partial occurrences of the list of ten grounds above.
 
-We list the occurences of those terms in Section B.
+We list the occurrences of those terms in Section B.
 
 When used in a sutta, the list of ten grounds comes with an advice on what _should_ be used for accepting a doctrine. This advice remains open to interpretation:
 
@@ -81,10 +81,10 @@ The list of five grounds (_saddhā_ ...), usually goes with similar expressions 
 In section C, we'll collect all those expressions related to the right method to access knowledge.
 
 
-# B. Occurences of the matika
+# B. occurrences of the matika
 
-This section will identify the occurences of the matika in the pali canon. We've kept only occurences of the full or partial matika up to 2 elements (when at least 2 elements of the list come together in a single sutta).  
-For each occurence, we provide an extract and some notes to understand the context in which the list is being used.
+This section will identify the occurrences of the matika in the pali canon. We've kept only occurrences of the full or partial matika up to 2 elements (when at least 2 elements of the list come together in a single sutta).  
+For each occurrence, we provide an extract and some notes to understand the context in which the list is being used.
 
 ## AN3.65 - Kesaputtiya
 
@@ -650,7 +650,7 @@ This text is part of the commentary, and deals with how to investigate the Sutta
 
 # C. Mapping "know for yourself"
 
-In the following section, we've collected all the occurences, in section B, of expressions that can relate to "know for yourself" (_attanāva jāneyyātha_). See the following table:
+In the following section, we've collected all the occurrences, in section B, of expressions that can relate to "know for yourself" (_attanāva jāneyyātha_). See the following table:
 
 | Sutta | Subject | Verb | Object | Pali | 
 | :-- | :-- | :-- | :-- | :-- |
@@ -691,7 +691,7 @@ Notes:
 
 # Reserve
 
-This section is work in progress. We've searched expressions such as "self-proven", "self-evidence", "one who knows" or "unbeliever" in CND/MND. And one occurence sounded interesting enough to be kept here.
+This section is work in progress. We've searched expressions such as "self-proven", "self-evidence", "one who knows" or "unbeliever" in CND/MND. And one occurrence sounded interesting enough to be kept here.
 
 ### MND 10
 
