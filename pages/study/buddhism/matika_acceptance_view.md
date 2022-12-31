@@ -100,10 +100,22 @@ Pali extract: https://suttacentral.net/an3.65/pli/ms
 
 ### Notes
 
-The Buddha speaks with the Kalamas. Recently, they have been exposed to a lot of different teachers, _"they explain and elucidate their own doctrines, but disparage, denigrate, deride, and denounce the doctrines of others"_.
+The Buddha speaks with the Kalamas. Recently, they have been exposed to a lot of different teachers, _"they explain and elucidate their own doctrines, but disparage, denigrate, deride, and denounce the doctrines of others"_. The Kalamas have seen so many Brahmins come and go, each contradicting/belittling the previous ones. It created perplexity and doubt, scepticism towards any Dharma.
 
 There comes the famous list (see extract above), and the advice to _"know for yourselves"_.
 
+The Buddha then goes into multiple examples, leading the Kalamas into investigating what's a good doctrine of morality.
+
+The conclusion reveals the relationship between the "do not go by oral tradition (etc)" and this discourse on discipline: _"it is because of this that this was said"_ [do not go by oral tradition, etc]].
+
+_"The disciple who lives according to this [...] has won four assurances."_
+
+1. if transmigration and karma are real, they will be reborn in a good destination
+2. if there is no transmigration and karma, they will still obtain happiness in this life
+3. if evil comes to one who does evil, they will be spared (because they have no evil intention)
+4. if evil does not come to one who does evil, at least they will be purified.
+
+These four assurances are related to four views on transmigration and karma. That’s the conclusion of this sutta: independently on which view you adopt on the matter of karma and rebirth, if you align your life with the right discipline (sila), according to your own inner experience of wholesomeness/unwholesomeness, and how this leads to happiness/suffering, you will ease your own suffering.
 
 ## AN3.66 - Sāḷhasutta
 
