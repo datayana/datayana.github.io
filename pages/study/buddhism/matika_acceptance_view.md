@@ -235,7 +235,7 @@ Pali extract: https://suttacentral.net/sn35.153/pli/ms
 
 Another sutta criticizing the "five grounds for the acceptance of a thesis".
 
-In this sutta, the investigation deals with **how a Bhikkhu can declare** [] - 'Detroyed is birth, the holy life has been lived, what had to be done has been done, there is no more for this state of being'.
+In this sutta, the investigation is on the grounds on which a Bhikkhu can declare: 'Detroyed is birth, the holy life has been lived, what had to be done has been done, there is no more for this state of being'.
 
 The answer the Buddha provides is related to one, having seen a form, a sound with the ear... a mental phenomenon with the mind, "sees with wisdom" [dhammā paññāya disvā veditabbā] that there is no lust, hatred or delusion [lobha, dosa, moha] internally.
 
