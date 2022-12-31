@@ -6,10 +6,32 @@ permalink: /pages/study/buddhism/matika-acceptance-view/
 
 In this document, we will look for the occurences of a specific [matika](http://tibetanbuddhistencyclopedia.com/en/index.php?title=Matika) related to the grounds for the acceptance of a view or doctrine. This list is found in the Pali Canon. In particular, it is found in the [Kesamuttisutta](https://suttacentral.net/an3.65/en/sujato) (a.k.a. the Kalama Sutta) where it has been the object of a lot of interpretations and commentaries from modern buddhist apologists.
 
+Table of content:
+- [A. The matika](#a-the-matika)
+- [B. Occurences of the matika](#b-occurences-of-the-matika)
+    - [AN3.65](#an365---kesaputtiya)
+    - [AN3.66](#an366---sāḷhasutta)
+    - [AN4.193](#an4193---bhaddiyasutta)
+    - [SN12.68](#sn1268---kosambisutta)
+    - [SN35.153](#sn35153---atthi­nu­kho­pariyā­ya­sutta)
+    - [MN76](#mn76---sandakasutta)
+    - [MN95](#mn95---caṅkīsutta)
+    - [MN102](#mn102---pañ­catta­yasutta)
+    - [CND4](#cnd-4---mettagu)
+    - [CND4 (2)](#cnd-4---mettagu-1)
+    - [CND5](#cnd-5---dhokata)
+    - [CND8](#cnd-8---hemaka)
+    - [MND10](#mnd-10)
+    - [MND14](#mnd-14---quick-instructions)
+    - [MND14 (2)](#mnd-14---quick-instructions-1)
+    - [MND16](#mnd-16---sariputta)
+    - [PE4](#pe4---4-sutta­vicaya­catut­tha­bhūmi)
+- [C. Mapping "know for yourself"](#c-mapping-know-for-yourself)
+
 **Objectives** - This page will just enumerate and deep dive into the occurences of this list in the Canon. This will be used later (hopefully) for a commentary on the modernist interpretations of the Kalama Sutta.
 
 **Structure** - To support this future commentary, this document will:
-- Section A: define the list we used for reference,
+- Section A: define the list we used as reference,
 - Section B: locate, as exhaustively as possible, all the full or partial occurences of the list in the pali canon,
 - Section C: examine, in the surrounding of those occurences of the matika, terms that are related to the expression "when you know for yourself" in the Kalama Sutta.
 
@@ -37,14 +59,16 @@ The list is known for its use in [AN3.65 Kalama Sutta](https://suttacentral.net/
 | _bhabbarūpatāya_ | appearance/semblance of competence of a teacher, competence of a speaker | &nbsp; |
 | _samaṇo no garūti_ | thinking 'this ascetic is our respected teacher/guru' | &nbsp; |
 
-It has been refered to by some authors as the _ten grounds for the acceptance of a thesis_ (or view, or doctrine), and it is a list one should _not_ use as ground for this acceptance.
+It has been refered to by some authors as the _ten grounds for the acceptance of a thesis_ (or view, or doctrine). It lists the grounds that cannot be used as foundations for accepting a view or doctrine, because a view founded on those grounds could be eventually be either true or false.
 
 Note: in CND/MND, another element is added: _itihītihaṃ_, for rumor, hearsay.
 
-This list has overlap with another list refered by Bhikkhu Bodhi as the five grounds of conviction or five grounds for the acceptance of a doctrine: _saddhā_ (faith), _ruci_ (preference), _anussava_ (oral tradition), _ākāraparivitakkā_ (reasoned contemplation), _diṭṭhinijjhānakkhantiyā_ (acceptance after consideration). 
+This list overlaps with another list refered by Bhikkhu Bodhi as the _five grounds of conviction_ or _five grounds for the acceptance of a doctrine_: namely _saddhā_ (faith), _ruci_ (preference), _anussava_ (oral tradition), _ākāraparivitakkā_ (reasoned contemplation), _diṭṭhinijjhānakkhantiyā_ (acceptance after consideration).  
 This list occurs fully in SN12.68, SN35.153, MN95 and MN102, and are counted in this document as partial occurences of the list of ten grounds above.
 
-When used in a sutta, the list of ten grounds comes with an advice on which ground _should_ be used for accepting a doctrine. This advice remains open to interpretation:
+We list the occurences of those terms in Section B.
+
+When used in a sutta, the list of ten grounds comes with an advice on what _should_ be used for accepting a doctrine. This advice remains open to interpretation:
 
 > But when you **know for yourselves**: ‘These things are unskillful, blameworthy, criticized by sensible people, and when you undertake them, they lead to harm and suffering’, then you should give them up.
 
@@ -54,7 +78,7 @@ Corresponding in [pali](https://suttacentral.net/an3.65/pli/ms) to:
 
 The list of five grounds (_saddhā_ ...), usually goes with similar expressions refering to knowledge and vision.
 
-We'll examine all those expressions related to the right method to access knowledge on Section C.
+In section C, we'll collect all those expressions related to the right method to access knowledge.
 
 
 # B. Occurences of the matika
@@ -626,6 +650,8 @@ This text is part of the commentary, and deals with how to investigate the Sutta
 
 # C. Mapping "know for yourself"
 
+In the following section, we've collected all the occurences, in section B, of expressions that can relate to "know for yourself" (_attanāva jāneyyātha_). See the following table:
+
 | Sutta | Subject | Verb | Object | Pali | 
 | :-- | :-- | :-- | :-- | :-- |
 | AN3.65 | you | know for yourself | these things (dhammam)... | attanāva jāneyyātha |
@@ -665,6 +691,8 @@ Notes:
 
 # Reserve
 
+This section is work in progress. We've searched expressions such as "self-proven", "self-evidence", "one who knows" or "unbeliever" in CND/MND. And one occurence sounded interesting enough to be kept here.
+
 ### MND 10
 
 > 88 · Those who have no leakage in satisfaction,  
@@ -687,20 +715,3 @@ He is indeed the best person.”
 [Dhp.97]
 > 
 > “The unbelievers will not be tainted”: All ignorant ordinary people are tainted, good ordinary people, including the seven types of learned, they are tainted, and the Arahant is neither tainted nor away from being tainted: he who is detached from the staining, the extinction of greed becomes the state of freedom from greed; the extinction of anger becomes the state of freedom from anger; the extinction of delusion becomes the state of freedom from delusion, he is the person who has descended into the state, has practiced the behavior… (omitted), the cycle of life and death, without his rebirth.
-
-searched:
-- self-proven
-- self-evidence
-- one who knows
-- unbeliever
-
-no other relevant passages show up
-
-MND14: sāmaṃ sayamabhiññātaṃ attapaccakkhaṃ dhammanti—sakkhidhammaṃ
-His insights were seen and understood in the Dhamma that he personally proved and realized.
-
-## Iti
-
-https://www.accesstoinsight.org/tipitaka/kn/iti/iti.1.001-027.than.html#iti-016
-
-MN 2 lists the following questions as not fit for attention: "Was I in the past? Was I not in the past? What was I in the past? How was I in the past?... Shall I be in the future? Shall I not be in the future? What shall I be in the future? How shall I be in the future?... Am I? Am I not? What am I? How am I? Where has this being come from? Where is it bound?" The discourse also lists the following issues as fit for attention: "This is stress. This is the origination of stress. This is the cessation of stress. This is the way leading to the cessation of stress."
