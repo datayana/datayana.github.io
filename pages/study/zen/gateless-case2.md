@@ -8,6 +8,11 @@ permalink: /pages/study/zen/gateless-case2/
 
 Translation: [Robert Aitken, The Gateless Barrier, 1990](https://www.google.com/search?q=robert+aitken+gateless+barrier).
 
+The story of Paichang/Baizhang/Hyakujo and the Fox can be found in multiple collections of koans with some variations:
+- Case 2 of the Gateless Barrier (_Mumonkan_),
+- Case 8 of Book of Serenity (_Shōyōroku_),
+- Case 102 of Dogen's Shinji Shobogenzo.
+
 > ### The Case
 >
 > Once when Paichang gave a series of talks, a certain old man was always there listening together with the monks. When they left, he would leave too. One day, however, he remained behind. Paichang asked him, "Who are you, standing here before me?"
@@ -100,7 +105,7 @@ I bet the other side of __that__ mountain is facing north.
 
 > After the meal, Paichang led the monks to the foot of a rock __on the far side of the mountain__. And there, with his staff, he poked out the body of a dead fox. He then __performed the ceremony of cremation__.
 
-Old Paichang does not belong to the same side of the mountain, still he deserves to receive the ritual owed to a priest.
+The old man does not belong to the same side of the mountain, still he deserves to receive the ritual owed to a priest.
 
 > "In the far distant past, in the time of Kasyapa Buddha, I was head priest at this mountain. One day a monk asked me, 'Does an enlightened person fall under the law of cause and effect or not?' I replied, '__Such a person does not fall under the law of cause and effect.__' With this I was __reborn five hundred times__ as a fox. Please say a turning word for me and release me from the body of a fox."
 >
