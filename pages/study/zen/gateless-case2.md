@@ -8,6 +8,11 @@ permalink: /pages/study/zen/gateless-case2/
 
 Translation: [Robert Aitken, The Gateless Barrier, 1990](https://www.google.com/search?q=robert+aitken+gateless+barrier).
 
+The story of Paichang/Baizhang/Hyakujo and the Fox can be found in multiple collections of koans with some variations:
+- Case 2 of the Gateless Barrier (_Mumonkan_),
+- Case 8 of Book of Serenity (_Shōyōroku_),
+- Case 102 of Dogen's Shinji Shobogenzo.
+
 > ### The Case
 >
 > Once when Paichang gave a series of talks, a certain old man was always there listening together with the monks. When they left, he would leave too. One day, however, he remained behind. Paichang asked him, "Who are you, standing here before me?"
@@ -100,7 +105,7 @@ I bet the other side of __that__ mountain is facing north.
 
 > After the meal, Paichang led the monks to the foot of a rock __on the far side of the mountain__. And there, with his staff, he poked out the body of a dead fox. He then __performed the ceremony of cremation__.
 
-Old Paichang does not belong to the same side of the mountain, still he deserves to receive the ritual owed to a priest.
+The old man does not belong to the same side of the mountain, still he deserves to receive the ritual owed to a priest.
 
 > "In the far distant past, in the time of Kasyapa Buddha, I was head priest at this mountain. One day a monk asked me, 'Does an enlightened person fall under the law of cause and effect or not?' I replied, '__Such a person does not fall under the law of cause and effect.__' With this I was __reborn five hundred times__ as a fox. Please say a turning word for me and release me from the body of a fox."
 >
@@ -110,7 +115,7 @@ Old Paichang does not belong to the same side of the mountain, still he deserves
 >
 > Hearing this, the old man __immediately was enlightened__. Making his bows he said, "I am released from the body of a fox."
 
-So, on *this* side of the mountain, you can get enlightened like that? Looks like old Paichang has been stuck on the other side for way too long.
+So, on *this* side of the mountain, you can get enlightened like that? Looks like the old man has been stuck on the other side for way too long.
 
 > Huang-po stepped forward and said, "As you say, the old man missed the turning word and was reborn as a fox five hundred times. What if he had given __the right answer__ each time he was asked a question -- what would have happened then?"
 
@@ -131,7 +136,7 @@ How many times does one have to answer that question to finally reach enlightenm
 
 Ritual and liturgy, could this be an answer to the question?
 
-Why does old Paichang even request a funeral? What's the purpose of it?
+Why does the old man even request a funeral? What's the purpose of it?
 
 > "There, with his staff, he poked out the body of a dead fox. He then performed __the ceremony of cremation__."
 
@@ -142,7 +147,7 @@ Why would there be anything to do with the fox's _body_? What does it actually _
 
 > Once when Paichang gave a series of talks, a certain old man was always there listening together with the monks. When they left, he would leave too. __One day__, however, __he remained behind.__
 
-What happened that day? What came to be? What was different about that day? What emerged so that __this__ day old Paichang went to the master?
+What happened that day? What came to be? What was different about that day? What emerged so that __this__ day the old man went to the master?
 
 > __When they left, he would leave too__.
 
@@ -154,7 +159,7 @@ There the stream meets a boulder, causing the water to stop for a moment.
 
 > "Not falling under the law of cause and effect." Why should __this__ prompt five hundred lives as a fox? "Not evading the law of cause and effect." Why should __this__ prompt a return a human life? If you have the single eye of realization, you will appreciate how old Paichang lived five hundred lives as a fox as lives of grace.
 
-What has old Paichang done to receive this fruit and live five hundred lives as a fox? What has he done to be released from it today? Why should __this__ prompt five hundred lives as a fox?
+What has the old man done to receive this fruit and live five hundred lives as a fox? What has he done to be released from it today? Why should __this__ prompt five hundred lives as a fox?
 
 > The old man replied, "I am not a human being. __In the far distant past__, in the time of Kasyapa Buddha, __I was__ head priest at this mountain.
 
