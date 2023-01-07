@@ -167,7 +167,7 @@ What has the old man done to receive this fruit and live five hundred lives as a
 
 This is so far in the past, how could there be anything left from the "I" that __was__?  
 
-> "Please say a __turning point__ for me [...] Hearing this, the old man __immediately was enlightened__."
+> "Please say a __turning word__ for me [...] Hearing this, the old man __immediately was enlightened__."
 
 > Making his bows he said, "I am released from the body of a fox."
 

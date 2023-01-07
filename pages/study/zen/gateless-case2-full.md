@@ -30,17 +30,16 @@ Thomas Cleary, Book of Serenity, Case 8, 2005:
 > \- He is not blind to cause and effect.
 
 J.C. Cleary, Wumen's Gate, 2005:
-> \- TODO
+> \- Does a person of great practice still fall into cause and effect or not?  
 > \- He is not deluded about cause and effect.
 
 Gudo Nishijima, Master Dogen's Shinji Shobogenzo, Book II case 2, 2003:
-> \- TODO
+> \- Does someone of great Buddhist practice also falls into cause and effect, or not?
 > \- Do not be unclear about cause and effect.
 
 Kazuaki Tanahashi, John Daido Loori, The True Dharma Eye case 102, 2005:
 > \- Does an enlightened person fall into cause and effect?  
 > \- Don't ignore cause and effect.
-
 
 The Book of Serenity, in covering Case 8, provides "added sayings" as footnotes of the text. Those are interjections, thoughts related to specific lines of the text. Here's a few:
 - _"The old man was enlightened at these words - Fox drool is still there."_
@@ -52,6 +51,11 @@ The Book of Serenity, in covering Case 8, provides "added sayings" as footnotes 
 There are two chapters of Dogen's Shobogenzo, commenting on this case. One is titled "On the Great Practice" (_Daishugyo_) \[[pdf](https://www.thezensite.com/ZenTeachings/Dogen_Teachings/Shobogenzo/073daishugyo.pdf)\], the other "On the Absolute Certainty of Cause and Effect" (_Jinshin Inga_) \[[pdf](http://www.thezensite.com/ZenTeachings/Dogen_Teachings/Shobogenzo/088jinshiInga.pdf)\].
 
 There is also a book covering this koan: Steven Heine, "Shifting Shape, Shaping Text: Philosophy and Folklore in the Fox Koan", University of Hawai’i Press, 1999 [link](http://www.jstor.org/stable/j.ctt6wqz3j).
+
+Some translations also add the translator's commentary, in particular:
+- Gudo Nishijima, Master Dogen's Shinji Shobogenzo, Book II case 2, 2003
+- Robert Aitken, The Gateless Barrier, 1990
+- Koun Yamada Roshi, The Gateless Gate, 1979
 
 # Commentary [work in progress]
 
@@ -151,7 +155,7 @@ Once you deep dive like this, reading from the beginning again brings a lot more
 
 "**Once when...**" - When was this exaclty? What happened before?
 
-"**Paichang gave a series of talks..**"- Why was this series of teachings more favorable for the old man to show up? Is this story only about how karmic law applies to the old man? Or is it also about how karmic law applies to Hyakujo? Are those two meeting here as the fruit of a process binding both together?
+"**Paichang gave a series of talks..**"- Why was this series of teachings more favorable for the old man to show up? Is this story only about how karmic law applies to the old man? Or is it also about how karmic law applies to Hyakujo? Are those two meeting here as the fruit of a process binding both together?  
 
 "**a certain old man was always there...**" - Was the old man literally **always** there? Like since the beginning of time? Probably not, so he must have entered the teaching hall at some point in the past for the first time. At what point? What happened then? Why at that time?
 
@@ -159,11 +163,14 @@ Once you deep dive like this, reading from the beginning again brings a lot more
 
 "**When they left, he would leave too.**" - He was going with the stream. Maybe that can explain why nobody noticed or interacted with him before that day". Did Hyakujo notice him only when he started asking questions?
 
-"**One day, however..** - There the stream meets a boulder, causing the water to stop for a moment. Now, if the old man had never asked any question to Hyakujo, would he still be reborn as a fox again and again? 
+"**One day, however..** - There the stream meets a boulder, causing the water to stop for a moment. Now, if the old man had never asked any question to Hyakujo, would he still be reborn as a fox again and again?
+
 
 ### But what is it?
 
-> "Not falling under the law of cause and effect." Why should __this__ prompt five hundred lives as a fox? "Not evading the law of cause and effect." Why should __this__ prompt a return a human life? If you have the single eye of realization, you will appreciate how old Paichang lived five hundred lives as a fox as lives of grace.
+> "Not falling under the law of cause and effect." Why should __this__ prompt five hundred lives as a fox? "Not evading the law of cause and effect." Why should __this__ prompt a return a human life? If you have the single eye of realization, you will appreciate how old Pai-chang lived five hundred lives as a fox as lives of grace.
+
+Interestingly, the old man and Hyakujo are somehow related. Aitken notes: _"Like most other Zen teachers, Pai-chang was named for his place - in his case the nickname of his mountain (One Hundred Leagues)."_ Since the old man was teaching on that same mountain, he would have had the same name. So in their comment, Wu-men refers to the old man as _"old Pai-chang"_.
 
 What has old Paichang done to receive this fruit and live five hundred lives as a fox? What has he done to be released from it today? Why should __this__ prompt five hundred lives as a fox?
 
@@ -174,7 +181,7 @@ _"In the far distant past ... __I was__ ..."_ - this is so far in the past, how 
 It has already been dispersed, ceased, renewed, every instant between then and now. A radical change for every instant, not just for a second but for centuries.  
 If there's nothing left really, what is the "I" that old Paichang now claims he __was__ (a head priest) back then? If there's nothing left from it, __who__ was reborn five hundred times?
 
-> "Please say a __turning point__ for me [...] Hearing this, the old man __immediately was enlightened__."
+> "Please say a __turning word__ for me [...] Hearing this, the old man __immediately was enlightened__."
 
 > Making his bows he said, "I am released from the body of a fox."
 
@@ -190,21 +197,59 @@ Yes. What would have happened then? What **then**?
 
 What is the effect of **this** cause? Is there any even?
 
-## 3. The ritual
+## 3. No response
 
-Ritual and liturgy, is that the answer to the question? Is the ritual of cremation the way to find your way between the two answers? Is it the function, the end of Zen practice and liturgy to pay respect to both answers and hold them simultaneously?
+work in progress
 
-> Hearing this, the old man immediately was enlightened. Making his bows he said, "I am released from the body of a fox. The body is on the other side of this mountain. I wish to make a request of you. __Please__, Abbot, __perform my funerals as for a priest__."
+## 4. The ritual
 
-Why does old Paichang even request a funeral? What's the purpose of it from the perspective of Enlightenment?
+> Making his bows he said, "I am released from the body of a fox. The body is on the other side of this mountain. I wish to make a request of you. __Please__, Abbot, __perform my funerals as for a priest__."  
+> [...] After the meal, Pai-chang led the monks to the foot of a rock on the far side of the mountain. And there, with his staff, he poked out the body of a dead fox. He then __performed the ceremony of cremation__.
 
-Is the ritual requested by old Paichang, __because__ he understands that an enlightened person __does not evade__ the law of cause and effect? Old Paichang is enlightened, but there are still things that need to happen, and a law that cannot be obscured?
+This ritual might be overlooked as just a mundane step of this story. In his commentary of the koan, Robert Aitken invites us to not skip this ceremony of cremation, especially because it has raised objections by reknown Zen masters.
 
-> "There, with his staff, he poked out the body of a dead fox. He then performed __the ceremony of cremation__."
+Indeed, Aitken notes that _"a thousand years later [Hakuin](https://en.wikipedia.org/wiki/Hakuin_Ekaku) challenged Pai-chang on this act of cremation: 'What are you doing, old Pai-chang, performing a funeral for a fox as though it were a priest? [...] Aren't you making a mishmash of the Dharma? Isn't a priest irrevocably a priest and a fox irrevocably a fox?'"_
+
+In addition, Dogen criticizes in _Daishugyo_ both the old man for asking for this ritual, and Huakyjo for accepting to perform it.
+
+About the old man, Dogen objects: _"how could a dead fox become a dead monk, since it has never taken the Precepts, or attended a summer retreat, or kept to the everyday behavior of a monk, or held to the principles of a monk? If such a creature may arbitrarily undergo the funeral ceremony for a dead monk, then any dead person who has never left home life behind would have to be accorded the funeral rites of a dead monk too."_
+
+About Hyakujo, Dogen warns: _"Do not treat with arrogance the Dharma standards of the Buddhas and Ancestors by vainly taking as real the transformations of the spirit of some wild fox. As offspring of the Buddhas and Ancestors, you should treat with importance the Dharma standards of the Buddhas and Ancestors. Never leave matters up to what others request, as Hyakujō did."_
+
+### "Please, Abbot, perform my funerals as for a priest"
+
+Once you stop to investigate it, many aspects of the old man's request can be challenging.
+
+"**perform my funerals**" - A first interrogation is on the subject of the funeral. The old man just said, _"I am released from the body of a fox"_. Thus himself and the body of the fox are two different things. When requesting for a funeral, is the old man asking for himself or for the fox? Are those two things the same or different? (Is that why the Book of Serenity has _"Fox drool is still there"_?)
+
+"**as for a priest**" - A second interrogation is on the nature of the subject. According to his presentation, the old man said _"In the far distant past, in the time of Kasyapa Buddha, I was head priest at this mountain."_ So he *was* a priest, shouldn't he consider himself as a priest now? It sounds like the old man is asking for a funeral not for his distant past self as a priest, but for his previous self as a fox.
+
+"**Please, Abbot**" - A third interrogation is on the motivation of the ritual. At this stage of the story, the old man just got (suddenly) enlightened. Why would the old man care about having a ritual performed for the body of the fox? What is he hoping to accomplish?
+
+### "He then performed the cermony of cremation"
 
 Why would there be anything to do with the fox's body? What does it __do__ to cremate it? What does it accomplish?
 
+Ritual and liturgy, is that the answer to the question? Is the ritual of cremation the way to find your way between the two answers? Is it the function, the end of Zen practice and liturgy to pay respect to both answers and hold them simultaneously?
 
+
+
+### Ritual and enlightenmend
+
+And, considering he's said to be "enlightened", does this mean an enlightened being can still be motivated / hope to accomplish anything?
+
+Is the ritual requested by old Paichang, __because__ he understands that an enlightened person __does not evade__ the law of cause and effect? Old Paichang is enlightened, but there are still things that need to happen, and a law that cannot be obscured?
+Why does old Paichang even request a funeral? What's the purpose of it from the perspective of Enlightenment?
+
+
+To address these interrogations, I think it is beneficial to relate them to the two core aspects of the story - the notion of Enlightenment, and the law of cause and effect - and see what this request interrogates.
+
+The subject of the ritual doesn't make sense.  
+The function of the ritual doesn't make sense.  
+The benefit of the ritual doesn't make sense.  
+Let's do it anyway.
+
+It doesn't do anything in reality, but it does in the mind.
 
 ## Unsorted notes
 
