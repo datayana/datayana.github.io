@@ -115,7 +115,7 @@ There is some irony here though. The old man was suddenly enlightened after disc
 
 Going back to Huang-po's question, "What if...", there's also a lot of irony, almost cynicism. Let's go through it.
 
-"**What if he had given the right answer**" - This seems to imply there **is** a right answer, but Huang-po doesn't believe there is one, he's calling out Hyakujo because his story implied there is one. Huang-po's slap suggests that none of those answers are actually right. What to make of this?
+"**What if he had given the right answer**" - This seems to imply there **is** a right answer, but Huang-po doesn't say there is one, he's calling out Hyakujo because this story implied there is one. Huang-po's slap suggests that none of those answers are actually right. What to make of this?
 
 "What if he had given **the right answer each time he was asked** a question" - To me, there's two funny aspects about this.  
 First, it means you would have to give the right answer the very first time you're being asked. Seriously, could anyone really do that? We're talking about such a fundamental question, if you were asked this question before you understand the true nature of enlightenment, you could very well give the wrong answer. Would you then be reborn as a fox? That doesn't sound very reasonable (or fair). Dogen pointed this out in _Daishugyo_: _"Senior monks who have made mistakes over the past two or three hundred years would certainly have become innumerable foxes"_.  
@@ -143,7 +143,9 @@ Ultimately, the question is not whether sudden enlightenment is more true than g
 
 ## Read 2. The law of cause and effect
 
-### Causality is everywhere
+TODO: Karma is not any cause and effect. Example of five orders in Pali Canon.
+
+### Causality at every word
 
 One interesting exercise is to look for, in the text and between the lines, where causal relationships are present. And even at the very start of the case, it is clear they are everywhere.
 
@@ -165,21 +167,39 @@ Once you deep dive like this, reading from the beginning again brings a lot more
 
 "**One day, however..** - There the stream meets a boulder, causing the water to stop for a moment. Now, if the old man had never asked any question to Hyakujo, would he still be reborn as a fox again and again?
 
+### Causality at the turning word
 
-### But what is it?
+> Please say a **turning word** for me and release me from the body of a fox."  
 
-> "Not falling under the law of cause and effect." Why should __this__ prompt five hundred lives as a fox? "Not evading the law of cause and effect." Why should __this__ prompt a return a human life? If you have the single eye of realization, you will appreciate how old Pai-chang lived five hundred lives as a fox as lives of grace.
+"Turning word" means an expression that can turn someone to realization, to enlightenment. The old man is asking Hyakujo to say such an expression for him. Again we should pause here: what does _requesting_ turning words mean?.
 
-Interestingly, the old man and Hyakujo are somehow related. Aitken notes: _"Like most other Zen teachers, Pai-chang was named for his place - in his case the nickname of his mountain (One Hundred Leagues)."_ Since the old man was teaching on that same mountain, he would have had the same name. So in their comment, Wu-men refers to the old man as _"old Pai-chang"_.
+This does not mean that the old man is asking Hyakujo for some teachings or some insights, like you would during a [dokusan](https://www.learnreligions.com/dokusan-449803). This means literally the old man is asking Hyakujo to make him enlightened. As if that was something you could just request like that! Imagine sitting with your teacher in dokusan next time, and demanding for a turning word.
+
+This does not make sense. Enlightenment cannot be just a turning-word-on-demand service.
+
+> He then asked Paichang, "Does an enlightened person fall under the law of cause and effect or not?"  
+> Paichang said, "Such a person does not evade the law of cause and effect."  
+> **Hearing this, the old man immediately was enlightened**.  
+
+Many Zen stories describe someone realizing enlightenment, either through a word, or some event. [The record of transmitting the light](https://en.wikipedia.org/wiki/Denkoroku) is full of those, in the context of Dharma transmissions in the Sōtō lineage.
+
+If Hyakujo's answer - _"..does not evade..."_ - can _turn_ the old man, is this answer magic somehow? Can it _turn_ you and me? Probably not.
+
+
+
+The old man had to be ready.
+
+Sudden enlightenment doesn't mean enlightenment for free.
+
+
+Dogen: _"If you were to say, “When someone who was a bystander spoke a triggering phrase concerning causality, that freed another from the mind of a wild fox,” well, the great earth with its mountains and rivers has already been giving forth innumerable triggering expressions concerning causality and is continually doing so."_
+
+> "Not falling under the law of cause and effect." Why should __this__ prompt five hundred lives as a fox? "Not evading the law of cause and effect." Why should __this__ prompt a return a human life?
+
+
+> If you have the single eye of realization, you will appreciate how old Pai-chang lived five hundred lives as a fox as lives of grace.
 
 What has old Paichang done to receive this fruit and live five hundred lives as a fox? What has he done to be released from it today? Why should __this__ prompt five hundred lives as a fox?
-
-> The old man replied, "I am not a human being. __In the far distant past__, in the time of Kasyapa Buddha, __I was__ head priest at this mountain.
-
-The "I" changes every day. Every instant there's a new "I" emerging and an old "I" ceasing. It is the radical impermanence of the Self, dispersed in Indra's Net.  
-_"In the far distant past ... __I was__ ..."_ - this is so far in the past, how could there be anything left from the "I" that __was__.  
-It has already been dispersed, ceased, renewed, every instant between then and now. A radical change for every instant, not just for a second but for centuries.  
-If there's nothing left really, what is the "I" that old Paichang now claims he __was__ (a head priest) back then? If there's nothing left from it, __who__ was reborn five hundred times?
 
 > "Please say a __turning word__ for me [...] Hearing this, the old man __immediately was enlightened__."
 
@@ -197,9 +217,28 @@ Yes. What would have happened then? What **then**?
 
 What is the effect of **this** cause? Is there any even?
 
+### But what is it?
+
+> "Not falling under the law of cause and effect." Why should __this__ prompt five hundred lives as a fox? "Not evading the law of cause and effect." Why should __this__ prompt a return a human life? If you have the single eye of realization, you will appreciate how old Pai-chang lived five hundred lives as a fox as lives of grace.
+
+Interestingly, the old man and Hyakujo are somehow related. Aitken notes: _"Like most other Zen teachers, Pai-chang was named for his place - in his case the nickname of his mountain (One Hundred Leagues)."_ Since the old man was teaching on that same mountain, he would have had the same name. So in their comment, Wu-men refers to the old man as _"old Pai-chang"_.
+
+What has old Paichang done to receive this fruit and live five hundred lives as a fox? What has he done to be released from it today? Why should __this__ prompt five hundred lives as a fox?
+
+> The old man replied, "I am not a human being. __In the far distant past__, in the time of Kasyapa Buddha, __I was__ head priest at this mountain.
+
+The "I" changes every day. Every instant there's a new "I" emerging and an old "I" ceasing. It is the radical impermanence of the Self, dispersed in Indra's Net.  
+_"In the far distant past ... __I was__ ..."_ - this is so far in the past, how could there be anything left from the "I" that __was__.  
+It has already been dispersed, ceased, renewed, every instant between then and now. A radical change for every instant, not just for a second but for centuries.  
+If there's nothing left really, what is the "I" that old Paichang now claims he __was__ (a head priest) back then? If there's nothing left from it, __who__ was reborn five hundred times?
+
+
 ## 3. No response
 
 work in progress
+
+_"senior monks who have made mistakes over the past two or three hundred years would certainly have become innumerable foxes."_
+
 
 ## 4. The ritual
 
@@ -218,7 +257,7 @@ About Hyakujo, Dogen warns: _"Do not treat with arrogance the Dharma standards o
 
 ### "Please, Abbot, perform my funerals as for a priest"
 
-Once you stop to investigate it, many aspects of the old man's request can be challenging.
+Once you pause to investigate it, many aspects of the old man's request can be challenging.
 
 "**perform my funerals**" - A first interrogation is on the subject of the funeral. The old man just said, _"I am released from the body of a fox"_. Thus himself and the body of the fox are two different things. When requesting for a funeral, is the old man asking for himself or for the fox? Are those two things the same or different? (Is that why the Book of Serenity has _"Fox drool is still there"_?)
 
@@ -226,15 +265,13 @@ Once you stop to investigate it, many aspects of the old man's request can be ch
 
 "**Please, Abbot**" - A third interrogation is on the motivation of the ritual. At this stage of the story, the old man just got (suddenly) enlightened. Why would the old man care about having a ritual performed for the body of the fox? What is he hoping to accomplish?
 
-### "He then performed the cermony of cremation"
+### Hyakujo "then performed the cermony of cremation"
 
 Why would there be anything to do with the fox's body? What does it __do__ to cremate it? What does it accomplish?
 
 Ritual and liturgy, is that the answer to the question? Is the ritual of cremation the way to find your way between the two answers? Is it the function, the end of Zen practice and liturgy to pay respect to both answers and hold them simultaneously?
 
-
-
-### Ritual and enlightenmend
+### Ritual and enlightenment
 
 And, considering he's said to be "enlightened", does this mean an enlightened being can still be motivated / hope to accomplish anything?
 
@@ -244,12 +281,12 @@ Why does old Paichang even request a funeral? What's the purpose of it from the 
 
 To address these interrogations, I think it is beneficial to relate them to the two core aspects of the story - the notion of Enlightenment, and the law of cause and effect - and see what this request interrogates.
 
+It doesn't do anything in reality, but it does in the mind, so it does in reality.
+
 The subject of the ritual doesn't make sense.  
 The function of the ritual doesn't make sense.  
 The benefit of the ritual doesn't make sense.  
 Let's do it anyway.
-
-It doesn't do anything in reality, but it does in the mind.
 
 ## Unsorted notes
 
