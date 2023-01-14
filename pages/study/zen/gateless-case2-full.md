@@ -63,7 +63,7 @@ Some translations also add the translator's commentary, in particular:
 - explain the structure
 - one point/argument can come back several times, under different reads
 
-## Read 1. Schools on the nature of enlightenment
+## Read 1. On the nature of enlightenment
 
 > Making his bows he said, "I am released from the body of a fox. The body is __on the other side of this mountain__.
 
@@ -128,7 +128,7 @@ Between us, if I can pragmatic for a second, I'd rather get slapped in the face 
 
 ### What if we could hold both together?
 
-What I suggest this reading points to, is that the opposition between those two views is a trap, a false dichotomy.
+What I suggest this read points to, is that the opposition between those two views is a trap, a false dichotomy.
 
 Maybe that's why the _Mumonkan_ closes the case the verses:
 
@@ -141,7 +141,7 @@ Each of them leads to a partial understanding of reality and contradictions. Hol
 
 Ultimately, the question is not whether sudden enlightenment is more true than gradual enlightenment. The question is.... what is enlightenment itself? and what is the relationship with the law of cause and effect?
 
-## Read 2. The law of cause and effect
+## Read 2. On the law of cause and effect
 
 TODO: Karma is not any cause and effect. Example of five orders in Pali Canon.
 
@@ -237,7 +237,6 @@ If there's nothing left really, what is the "I" that old Paichang now claims he 
 
 work in progress
 
-_"senior monks who have made mistakes over the past two or three hundred years would certainly have become innumerable foxes."_
 
 
 ## 4. The ritual
@@ -298,6 +297,43 @@ How many times does one have to answer that question?
 The answer is a distraction, a reflection in the water. The answer old Paichang gave has nothing to do with him being reborn five hundred times as a fox. There is no relationship between that cause and that effect.
 
 ## Dogen's slap
+
+_"senior monks who have made mistakes over the past two or three hundred years would certainly have become innumerable foxes."_
+
+Fumai-inga
+chapter 73, nishijima, cross
+Thirty-seven elements of Bodhi
+_Sanjūshichi-bon-bodai-bunpō_
+
+Commenting "The Five Roots of Training"
+> "First, the root of faith in the Dharma  
+> Second, the root of zealous spiritual endeavor  
+> Third, the root of mindfulness  
+> Fourth, the root of concentration  
+> Fifth, the root of wise discernment."
+
+
+> "Balance as a root" is keeping one's eyebrows to oneself or "lifting up an eyebrow." This, it is both "not being unclear about cause and effect" and "not falling subject to cause and effect" - and consequently entering the womb of a donkey or entering the womb of a horse. It is like a rock envelopping a jewel: we cannot call it completely rock or completely jewel.
+
+Chapter Eighty-Four, Karma in Three Times (Sanji-no-gō)
+
+"They do not fall into cause and effect" => negating cause 
+
+in Shinjin-inga
+
+> “They do not fall into cause and effect” is just the negation of cause and effect, as a result of which [the negator] falls into bad states. “Do not be unclear about cause and effect” evidently is deep belief in cause and effect, as a result of which the listener gets rid of bad states. We should not wonder [at this], and should not doubt it. Among people of recent generations who profess to be “students of the Way of Zen practice,” most have negated cause and effect. How do we know that they have negated cause and effect? Namely [because] they have considered that “do not fall” and “do not be unclear” amount to the same and are not different. Hence, we know that they have negated cause
+and effect.
+
+Also check out:
+- Chapter 9, Shoaku Makusa, On ‘Refrain from All Evil Whatsoever’
+- Chapter 10, Raihai Tokuzui, On ‘Respectful Bowing Will Secure the Very Marrow of the Way’
+- Chapter 15, Shisho, On the Record of Transmission
+- Chapter 21, Busshō, On Buddha Nature
+- Chapter 22, Gyōbutsu Iigi, On the Everyday Behavior of a Buddha Doing His Practice
+- Chapter 49, Shohō Jissō, On the Real Form of All Thoughts and Things
+- Chapter 82, Shukke Kudoku, On the Spiritual Merits of Leaving Home Life Behind
+- Chapter 89, Sanji Gō, On Karmic Retribution in the Three Temporal Periods
+- Chapter 91, Shizen Biku, On the Monk in the Fourth Meditative State
 
 At this point in my exploration, after a couple of months, I read Dogen's commentary on this case. There are two chapters of the Shobogenzo, one titled "On the Great Practice" (_Daishugyo_) \[[pdf](https://www.thezensite.com/ZenTeachings/Dogen_Teachings/Shobogenzo/073daishugyo.pdf)\], the other "On the Absolute Certainty of Cause and Effect" (_Jinshin Inga_) \[[pdf](http://www.thezensite.com/ZenTeachings/Dogen_Teachings/Shobogenzo/088jinshiInga.pdf)\].
 
