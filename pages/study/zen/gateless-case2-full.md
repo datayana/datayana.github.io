@@ -63,24 +63,26 @@ Some translations also add the translator's commentary, in particular:
 - explain the structure
 - one point/argument can come back several times, under different reads
 
-## Read 1. On the nature of enlightenment
+## Read 1. Two schools on the nature of enlightenment
 
 > Making his bows he said, "I am released from the body of a fox. The body is __on the other side of this mountain__.
 
 I bet the other side of __this__ mountain is facing north.
 
-When I read this line, it evokes two things to me. First, Kalu Rimpoche used to describe all the vehicles (_yana_) of Buddhism (Hinayana, Mahayana, Vajrayana) as paths on a mountain, all leading to the top, but being different in difficulty and time depending on the side a practitioner is taking. Second, the ["Sutra of Hui-neng"](https://www.shambhala.com/the-sutra-of-hui-neng-grand-master-of-zen-1434.html) introduces the distinction between the northern and southern schools of Zen. For an explanation, you can read  [H. Dumoulin, "Zen Enlightenment", pp 44-52](https://www.thriftbooks.com/w/zen-enlightenment-origins-and-meaning_heinrich-dumoulin/623561/item/3095725/), that I have summarized in a [comparison table here](https://datayana.github.io/2019/03/05/Notes).  
+When I read this line, it evokes two things to me.  
+First, [Kalu Rimpoche](https://en.wikipedia.org/wiki/Kalu_Rinpoche) used to describe all the vehicles (_yana_) of Buddhism (Hinayana, Mahayana, Vajrayana) as paths on a mountain, all leading to the top, but being different in difficulty and time depending on the side a practitioner is taking.  
+Second, the ["Sutra of Hui-neng"](https://www.shambhala.com/the-sutra-of-hui-neng-grand-master-of-zen-1434.html) introduces the distinction between the northern and southern schools of Zen. For an explanation, you can read  [H. Dumoulin, "Zen Enlightenment", pp 44-52](https://www.thriftbooks.com/w/zen-enlightenment-origins-and-meaning_heinrich-dumoulin/623561/item/3095725/), that I have summarized in a [comparison table here](https://datayana.github.io/2019/03/05/Notes).  
 I like to think of the expression _"the other side of the mountain"_ as pointing to the difference in doctrine between Hyakujo and the old men.
 
 ### Different but still entitled to respect
 
-Before we establish a comparison between those schools, it is important for them to respect each other.
+Before we start putting those schools in competition, it is important for them to respect each other.
 
 > After the meal, Paichang led the monks to the foot of a rock __on the far side of the mountain__. And there, with his staff, he poked out the body of a dead fox. He then __performed the ceremony of cremation__.
 
 The old man does not belong to the same side of the mountain, still he deserves to receive the ritual owed to a priest.
 
-Even if we belong to different schools, to different traditions, we still owe each other respect, we have to help one another. Here, I am going to forget those differences to allow for a ritual we both share, offering dignity and respect at the passing of my traditional adversary.
+Even if we belong to different schools, to different traditions, we still owe each other respect, we have to help one another. Here, we are going to forget those differences to allow for a ritual we both share, offering dignity and respect at the passing of our traditional adversary.
 
 ### Sudden enlightenment rescueing gradual enlightenment from rebirth
 
@@ -145,6 +147,8 @@ Ultimately, the question is not whether sudden enlightenment is more true than g
 
 TODO: Karma is not any cause and effect. Example of five orders in Pali Canon.
 
+Answering the koan is enacting the law of cause and effect, to translate it into action.
+
 ### Causality at every word
 
 One interesting exercise is to look for, in the text and between the lines, where causal relationships are present. And even at the very start of the case, it is clear they are everywhere.
@@ -167,45 +171,44 @@ Once you deep dive like this, reading from the beginning again brings a lot more
 
 "**One day, however..** - There the stream meets a boulder, causing the water to stop for a moment. Now, if the old man had never asked any question to Hyakujo, would he still be reborn as a fox again and again?
 
+
+### Causality at the "wrong" answer
+
+> One day a monk asked me, 'Does an enlightened person fall under the law of cause and effect or not?' I replied, 'Such a person does not fall under the law of cause and effect.' **With this** I was reborn five hundred times as a fox.
+
+Dogen: _"If being reduced to the state of a wild fox was the inevitable consequence of answering a trainee’s question inaccurately, then [...] senior monks who have made mistakes over the past two or three hundred years would certainly have become innumerable foxes."_
+
+
 ### Causality at the turning word
 
 > Please say a **turning word** for me and release me from the body of a fox."  
 
-"Turning word" means an expression that can turn someone to realization, to enlightenment. The old man is asking Hyakujo to say such an expression for him. Again we should pause here: what does _requesting_ turning words mean?.
+"Turning word" means an expression that can turn someone to realization, to enlightenment. The old man is asking Hyakujo to say such an expression for him. Again we should pause here: what does _requesting_ some turning words mean?
 
-This does not mean that the old man is asking Hyakujo for some teachings or some insights, like you would during a [dokusan](https://www.learnreligions.com/dokusan-449803). This means literally the old man is asking Hyakujo to make him enlightened. As if that was something you could just request like that! Imagine sitting with your teacher in dokusan next time, and demanding for a turning word.
+This does not simply mean that the old man is asking Hyakujo for some teachings or some guidance, like you would during a [dokusan](https://www.learnreligions.com/dokusan-449803). This means literally the old man is asking Hyakujo to turn him enlightened. As if that was something you could request like that! Imagine sitting with your teacher in dokusan next time, and demanding for a turning word.
 
-This does not make sense. Enlightenment cannot be just a turning-word-on-demand service.
+This does not make sense. Enlightenment cannot be just a turning-word-on-demand service. And yet...
 
 > He then asked Paichang, "Does an enlightened person fall under the law of cause and effect or not?"  
 > Paichang said, "Such a person does not evade the law of cause and effect."  
-> **Hearing this, the old man immediately was enlightened**.  
+> **Hearing this**, the old man immediately was enlightened.
 
-Many Zen stories describe someone realizing enlightenment, either through a word, or some event. [The record of transmitting the light](https://en.wikipedia.org/wiki/Denkoroku) is full of those, in the context of Dharma transmissions in the Sōtō lineage.
+Many Zen stories describe someone realizing enlightenment, through a word or some event. [The record of transmitting the light](https://en.wikipedia.org/wiki/Denkoroku) is full of those, in the context of Dharma transmissions in the Sōtō lineage.
 
-If Hyakujo's answer - _"..does not evade..."_ - can _turn_ the old man, is this answer magic somehow? Can it _turn_ you and me? Probably not.
+A careless read of those stories can tend to confer to those acts some kind of magic. It does sound magic indeed that just by hearing Hyakujo's answer - _"..does not evade..."_ - the old man was suddently enlightened. And yet, that answer alone is definitely not magic. When I read it, I didn't become suddenly enlightened, did you? Focusing on the answer itself as if it had some kind of property of enlightenment does not make sense.
 
+Also, as Dogen noted: _"If you were to say, “When someone who was a bystander spoke a triggering phrase concerning causality, that freed another from the mind of a wild fox,” well, the great earth with its mountains and rivers has already been giving forth innumerable triggering expressions concerning causality and is continually doing so. But even so, the old man had not yet dropped off the mind of a wild fox in the past, and he only dropped it off due to [Hyakujo]’s triggering words concerning causality."_
 
-
-The old man had to be ready.
-
-Sudden enlightenment doesn't mean enlightenment for free.
+It is not _"hearing this"_ that triggered the old man's enlightenment. Sudden enlightenment doesn't mean enlightenment for free. There's a process at work, and enlightenment is its outcome.
 
 
-Dogen: _"If you were to say, “When someone who was a bystander spoke a triggering phrase concerning causality, that freed another from the mind of a wild fox,” well, the great earth with its mountains and rivers has already been giving forth innumerable triggering expressions concerning causality and is continually doing so."_
+### Emptiness at work.
 
 > "Not falling under the law of cause and effect." Why should __this__ prompt five hundred lives as a fox? "Not evading the law of cause and effect." Why should __this__ prompt a return a human life?
-
 
 > If you have the single eye of realization, you will appreciate how old Pai-chang lived five hundred lives as a fox as lives of grace.
 
 What has old Paichang done to receive this fruit and live five hundred lives as a fox? What has he done to be released from it today? Why should __this__ prompt five hundred lives as a fox?
-
-> "Please say a __turning word__ for me [...] Hearing this, the old man __immediately was enlightened__."
-
-> Making his bows he said, "I am released from the body of a fox."
-
-No you're not. _"Fox drool is still there."_
 
 Before and after the turning point are the same. Old Paichang was enlightened but there was __no evasion__, precisely __because__ an enlightened person _"does **not** evade the law of cause and effect"_.
 
@@ -216,6 +219,12 @@ But still, __something__ must have turned, but __what__ ? __What__ could be _"re
 Yes. What would have happened then? What **then**?
 
 What is the effect of **this** cause? Is there any even?
+
+### Fox drool is still there
+
+> Making his bows he said, "I am released from the body of a fox."
+
+No you're not. _"Fox drool is still there."_
 
 ### But what is it?
 
@@ -231,6 +240,9 @@ The "I" changes every day. Every instant there's a new "I" emerging and an old "
 _"In the far distant past ... __I was__ ..."_ - this is so far in the past, how could there be anything left from the "I" that __was__.  
 It has already been dispersed, ceased, renewed, every instant between then and now. A radical change for every instant, not just for a second but for centuries.  
 If there's nothing left really, what is the "I" that old Paichang now claims he __was__ (a head priest) back then? If there's nothing left from it, __who__ was reborn five hundred times?
+
+
+## Read 3. Enlightenment or liberation ?
 
 
 ## 3. No response
@@ -254,17 +266,25 @@ About the old man, Dogen objects: _"how could a dead fox become a dead monk, sin
 
 About Hyakujo, Dogen warns: _"Do not treat with arrogance the Dharma standards of the Buddhas and Ancestors by vainly taking as real the transformations of the spirit of some wild fox. As offspring of the Buddhas and Ancestors, you should treat with importance the Dharma standards of the Buddhas and Ancestors. Never leave matters up to what others request, as Hyakujō did."_
 
-### "Please, Abbot, perform my funerals as for a priest"
+> Please, Abbot, perform my funerals as for a priest.
 
 Once you pause to investigate it, many aspects of the old man's request can be challenging.
 
-"**perform my funerals**" - A first interrogation is on the subject of the funeral. The old man just said, _"I am released from the body of a fox"_. Thus himself and the body of the fox are two different things. When requesting for a funeral, is the old man asking for himself or for the fox? Are those two things the same or different? (Is that why the Book of Serenity has _"Fox drool is still there"_?)
+"**perform my funerals**" - A first interrogation is on the subject of the funeral. The old man just said, _"I am released from the body of a fox"_. Thus himself and the body of the fox are two different things. When requesting for a funeral, is the old man asking for himself or for the fox? Are those two things the same or different?
 
 "**as for a priest**" - A second interrogation is on the nature of the subject. According to his presentation, the old man said _"In the far distant past, in the time of Kasyapa Buddha, I was head priest at this mountain."_ So he *was* a priest, shouldn't he consider himself as a priest now? It sounds like the old man is asking for a funeral not for his distant past self as a priest, but for his previous self as a fox.
 
 "**Please, Abbot**" - A third interrogation is on the motivation of the ritual. At this stage of the story, the old man just got (suddenly) enlightened. Why would the old man care about having a ritual performed for the body of the fox? What is he hoping to accomplish?
 
-### Hyakujo "then performed the cermony of cremation"
+> [Hyakujo] then performed the cermony of cremation.
+
+I really hope Hyakujo knows what the old man is hoping to accomplish, because he goes at lenghts to do help.
+
+We have to imagine that this looked like to the monks, having their head master do this.
+
+They hear a surprise strike on the signal board, meaning an improvised funeral. But who? When? There's some interrogation in the community, but the head master just says nothing about it. Then, without any context whatsoever, Hyakujo takes everyone for a long trip to _"the far side of the mountain"_. There, in front of everyone, he pokes a random fox corpse from behind a rock. And then a ritual on that random corpse, not just any ritual, but one that the monks likely have regarded as a highly respectful and important to them. Doing that on a fox? That far out in the mountain? Has the master gone insane? _"What does the teacher mean?"_
+
+Having fun of causality? negating causality?
 
 Why would there be anything to do with the fox's body? What does it __do__ to cremate it? What does it accomplish?
 
