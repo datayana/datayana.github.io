@@ -124,8 +124,7 @@ CEDH, "We the Sceptics, brothers of the Kalamas" (fr trans.), 2010, \[[cedh.info
 
 > We, the Sceptics, who can have no belief, no "faith", no opinion, no certainty, there is only one Way that can satisfy us, rejoice us, the Way of the Dharma.  
 > Here is the Sutta to the Kalamas, the skeptics of the time of the Buddha. It shows that it is possible to follow this Way without any prior, simply by "seeing" the phenonemons as they are.
-> Le Dharma du Bouddha n’est pas une religion, ce n’est pas non plus une philosophie, à moins que l’on égale Prajñā et Sophia – elles ont en commun quelques caractères, mais ne peuvent être confondues.
-> Ce Dharma est une voie négative par excellence, une voie qui conduit à l’Absolu, qui donne accès à l’Absolu, au « sans conditions », résolvant ainsi tout problème phénoménal quelque subtil qu’il soit. En effet, toutes les difficultés humaines proviennent de l’impact des phénomènes, des apparences. Les cerveaux, informés par les sens, transforment les données sensorielles, les interprètent, concoctent des fantasmes, échafaudent des opinions, des croyances, des certitudes et vont ainsi vers l’insatisfaction, la peine, la frustration, le malheur, le mal de vivre qui accablent le « moi » illusoire construit lui-même par ces cerveaux obscurcis, par la psyché aveuglée, par le cœur obnubilé.
+> The Dharma of the Buddha is not a religion, it is not a philosophy, except if one equals Prajñā et Sophia - they have in common some aspects, but cannot be taken for one another.
 
 ### Bhikkhu Buddhadasa, 1988
 
