@@ -63,6 +63,33 @@ Some translations also add the translator's commentary, in particular:
 - explain the structure
 - one point/argument can come back several times, under different reads
 
+points of the story showing it does not make any sense:
+- causality at every word
+- causality at the wrong answer
+- causality at the turning word
+- the ritual, why?
+
+1. shallow read, superficial interpretation
+
+two schools on the nature of enlightenment
+
+end with huang-po's question: "what if he had given the right answer every time?" to show the cracks
+
+and 500 fox lives is not enough time between two Buddhas.
+
+2. break everything, not making sense anymore
+3. emptiness at work
+
+## Pre-read : Hyakujo old and new, and their karma
+
+### Who is the old man?
+
+The old man was an abbot "_in the time of Kasyapa Buddha_", which means not just a long time ago, but a different era of Buddhism entirely (see [Kasyapa Buddha](https://en.wikipedia.org/wiki/Kassapa_Buddha)). The The universe was still the same universe, according to Buddhist cosmology it had not gone through recycling yet. But the Dharma - the teachings of the Buddhas - had enough time to go extinct, like it is said it will go extinct between [Gautama](https://en.wikipedia.org/wiki/The_Buddha)'s turning of the wheel and [Maitreya](https://en.wikipedia.org/wiki/Maitreya)'s. So the old man comes from an entirely different context, with a different Buddha, and teachings that were similar in nature (there's only one Dharma) but different in form and stories.
+
+- two competing schools on Enlightenment
+- same person?
+- 
+
 ## Read 1. Two schools on the nature of enlightenment
 
 > Making his bows he said, "I am released from the body of a fox. The body is __on the other side of this mountain__.
@@ -145,9 +172,9 @@ Ultimately, the question is not whether sudden enlightenment is more true than g
 
 ## Read 2. On the law of cause and effect
 
-TODO: Karma is not any cause and effect. Example of five orders in Pali Canon.
+> One day a monk asked me, 'Does an enlightened person fall under the law of cause and effect or not?' I replied, 'Such a person does not fall under the law of cause and effect.' **With this** I was reborn five hundred times as a fox.
 
-Answering the koan is enacting the law of cause and effect, to translate it into action.
+TODO: Karma is not any cause and effect. Example of five orders in Pali Canon.
 
 ### Causality at every word
 
@@ -171,6 +198,7 @@ Once you deep dive like this, reading from the beginning again brings a lot more
 
 "**One day, however..** - There the stream meets a boulder, causing the water to stop for a moment. Now, if the old man had never asked any question to Hyakujo, would he still be reborn as a fox again and again?
 
+Answering the koan is enacting the law of cause and effect, to translate it into action.
 
 ### Causality at the "wrong" answer
 
@@ -249,8 +277,6 @@ If there's nothing left really, what is the "I" that old Paichang now claims he 
 
 work in progress
 
-
-
 ## 4. The ritual
 
 > Making his bows he said, "I am released from the body of a fox. The body is on the other side of this mountain. I wish to make a request of you. __Please__, Abbot, __perform my funerals as for a priest__."  
@@ -260,7 +286,7 @@ This ritual might be overlooked as just a mundane step of this story. In his com
 
 Indeed, Aitken notes that _"a thousand years later [Hakuin](https://en.wikipedia.org/wiki/Hakuin_Ekaku) challenged Pai-chang on this act of cremation: 'What are you doing, old Pai-chang, performing a funeral for a fox as though it were a priest? [...] Aren't you making a mishmash of the Dharma? Isn't a priest irrevocably a priest and a fox irrevocably a fox?'"_
 
-In addition, Dogen criticizes in _Daishugyo_ both the old man for asking for this ritual, and Huakyjo for accepting to perform it.
+In addition, in _Daishugyo_, Dogen criticizes both the old man for asking for this ritual, and Huakyjo for accepting to perform it.
 
 About the old man, Dogen objects: _"how could a dead fox become a dead monk, since it has never taken the Precepts, or attended a summer retreat, or kept to the everyday behavior of a monk, or held to the principles of a monk? If such a creature may arbitrarily undergo the funeral ceremony for a dead monk, then any dead person who has never left home life behind would have to be accorded the funeral rites of a dead monk too."_
 
