@@ -6,16 +6,24 @@ permalink: /pages/study/zen/gateless-case2-/
 
 > **IMPORTANT** - This page will offer a full (personal) commentary on this koan. If you'd rather not be polluted by my thoughts on this case, please **do not read this page**. You can also check out the [version with only prompts](../gateless-gate2.md). Remember, the investigation **has to be your own** (see [introduction](../intro-to-koans)).
 
-## Notes on the text of this case
+You can find a version of the koan itself in the ["prompt-only" version of this page](./gateless-case2.md).
 
-You can find a version in the ["prompt-only" version of this page](./gateless-case2.md).
+# Foreword
+
+At the moment I'm writing this text, I have practiced with this koan for 5 years. What I mean by "practice" is a mix of different contemplative modalities, ranging from simply reading the text and pondering its meaning, to sitting with the text in zazen and asking myself its main question over and over.
+
+This commentary is a tentative for me to render what I took from the koan. I am hesitant to use expressions like "what I learned from", "my interpretation", and of course "the meaning of". This commentary is not a "solution" to the koan, it does not close this koan, but rather renders my explorations, my contemplations, as an invite for others to do their own. It is definitely opinionated, but lightly so, to encourage others to form their own thoughts (or non-thoughts).
+
+If that is not helpful to you, or if you end up disagreeing or thinking poorly of my judgement, I apologize, and I invite you to move forward without it on your journey into this koan.
+
+## Notes on the text of this case
 
 The story of Paichang/Baizhang/Hyakujo and the Fox can be found in multiple collections of koans with some variations:
 - Case 2 of the Gateless Barrier (_Mumonkan_),
 - Case 8 of Book of Serenity (_Shōyōroku_),
 - Case 102 of Dogen's Shinji Shobogenzo.
 
-Central to the case, the main question and response is rendered different ways according to translators:
+Central to the case is one main question about enlightenment and the law of karma and its "answer". They are rendered different ways according to translators:
 
 Robert Aitken, The Gateless Barrier, 1990:
 > \- Does an enlightened person fall under the law of cause and effect or not?  
@@ -34,19 +42,21 @@ J.C. Cleary, Wumen's Gate, 2005:
 > \- He is not deluded about cause and effect.
 
 Gudo Nishijima, Master Dogen's Shinji Shobogenzo, Book II case 2, 2003:
-> \- Does someone of great Buddhist practice also falls into cause and effect, or not?
+> \- Does someone of great Buddhist practice also falls into cause and effect, or not?  
 > \- Do not be unclear about cause and effect.
 
 Kazuaki Tanahashi, John Daido Loori, The True Dharma Eye case 102, 2005:
 > \- Does an enlightened person fall into cause and effect?  
 > \- Don't ignore cause and effect.
 
-The Book of Serenity, in covering Case 8, provides "added sayings" as footnotes of the text. Those are interjections, thoughts related to specific lines of the text. Here's a few:
+The Book of Serenity, in covering Case 8, provides "added sayings". Those are some kind of footnotes, interjections, thoughts related to specific lines of the text.
+
+Here's a few examples:
 - _"The old man was enlightened at these words - Fox drool is still there."_
 - _"For five hundred lives he couldn't do a thing - If he had known what would happen today, he'd regret not being careful to begin with."_
 - _"I fell into a wild fox body for five hundred lives - You said one doesn't fall into cause and effect."_
 
-# Commentaries available elsewhere
+## Commentaries available elsewhere
 
 There are two chapters of Dogen's Shobogenzo, commenting on this case. One is titled "On the Great Practice" (_Daishugyo_) \[[pdf](https://www.thezensite.com/ZenTeachings/Dogen_Teachings/Shobogenzo/073daishugyo.pdf)\], the other "On the Absolute Certainty of Cause and Effect" (_Jinshin Inga_) \[[pdf](http://www.thezensite.com/ZenTeachings/Dogen_Teachings/Shobogenzo/088jinshiInga.pdf)\].
 
@@ -59,8 +69,7 @@ Some translations also add the translator's commentary, in particular:
 
 # Commentary [work in progress]
 
-- "in my opinion"
-- explain the structure
+- explain the structure of this commentary
 - one point/argument can come back several times, under different reads
 
 points of the story showing it does not make any sense:
