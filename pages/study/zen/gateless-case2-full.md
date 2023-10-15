@@ -67,7 +67,9 @@ Some translations also add the translator's commentary, in particular:
 - Robert Aitken, The Gateless Barrier, 1990
 - Koun Yamada Roshi, The Gateless Gate, 1979
 
-# Commentary [work in progress]
+# Commentary
+
+::construction:: [work in progress] ::construction::
 
 - explain the structure of this commentary
 - one point/argument can come back several times, under different reads
@@ -89,15 +91,21 @@ and 500 fox lives is not enough time between two Buddhas.
 2. break everything, not making sense anymore
 3. emptiness at work
 
-## Pre-read : Hyakujo old and new, and their karma
+Question: the fact you can still fall into 500 lives as a fox even after giving the right answer is a slap to the face of Rinzai practice? Your answer to a koan does not correlate with liberation?
 
-### Who is the old man?
+## Pre-read : Hyakujo old and new
 
-The old man was an abbot "_in the time of Kasyapa Buddha_", which means not just a long time ago, but a different era of Buddhism entirely (see [Kasyapa Buddha](https://en.wikipedia.org/wiki/Kassapa_Buddha)). The The universe was still the same universe, according to Buddhist cosmology it had not gone through recycling yet. But the Dharma - the teachings of the Buddhas - had enough time to go extinct, like it is said it will go extinct between [Gautama](https://en.wikipedia.org/wiki/The_Buddha)'s turning of the wheel and [Maitreya](https://en.wikipedia.org/wiki/Maitreya)'s. So the old man comes from an entirely different context, with a different Buddha, and teachings that were similar in nature (there's only one Dharma) but different in form and stories.
+### Who is Hyakujo?
 
-- two competing schools on Enlightenment
-- same person?
-- 
+### Who is the "old man"?
+
+The old man was an abbot "_in the time of Kasyapa Buddha_", which means not just a long time ago, but a different era of Buddhism entirely (see [Kasyapa Buddha](https://en.wikipedia.org/wiki/Kassapa_Buddha)).
+
+According to Buddhist cosmology, the universe was still the same universe we live in right now, it had not gone through contraction and recycling yet. But the Dharma itself - the teachings of the Buddhas - had gone extinct and revived in the meantime, like it is said it will go extinct between [Gautama](https://en.wikipedia.org/wiki/The_Buddha)'s turning of the wheel and [Maitreya](https://en.wikipedia.org/wiki/Maitreya)'s.
+
+In short, the old man comes from the same place, but lived in an entirely different context, with a different Buddha, and teachings that were similar in nature (there's only one Dharma) but different in form and stories.
+
+So, since Hyakujo's name (Paichang) is inherited from the place he lives in, the old man is also referred to as "old Paichang". One interesting thought is to consider those two characters as one and the same through time, but we'll consider that later.
 
 ## Read 1. Two schools on the nature of enlightenment
 
@@ -105,10 +113,11 @@ The old man was an abbot "_in the time of Kasyapa Buddha_", which means not just
 
 I bet the other side of __this__ mountain is facing north.
 
-When I read this line, it evokes two things to me.  
-First, [Kalu Rimpoche](https://en.wikipedia.org/wiki/Kalu_Rinpoche) used to describe all the vehicles (_yana_) of Buddhism (Hinayana, Mahayana, Vajrayana) as paths on a mountain, all leading to the top, but being different in difficulty and time depending on the side a practitioner is taking.  
-Second, the ["Sutra of Hui-neng"](https://www.shambhala.com/the-sutra-of-hui-neng-grand-master-of-zen-1434.html) introduces the distinction between the northern and southern schools of Zen. For an explanation, you can read  [H. Dumoulin, "Zen Enlightenment", pp 44-52](https://www.thriftbooks.com/w/zen-enlightenment-origins-and-meaning_heinrich-dumoulin/623561/item/3095725/), that I have summarized in a [comparison table here](https://datayana.github.io/2019/03/05/Notes).  
-I like to think of the expression _"the other side of the mountain"_ as pointing to the difference in doctrine between Hyakujo and the old men.
+[Kalu Rimpoche](https://en.wikipedia.org/wiki/Kalu_Rinpoche) used to describe all the vehicles (_yana_) of Buddhism (Hinayana, Mahayana, Vajrayana) as different paths on a single mountain: all leading to the top, but being different in difficulty and time depending on the side a practitioner is taking. So, I like to think of the expression _"the other side of this mountain"_ as pointing to the difference in doctrine between Hyakujo and the old men.
+
+Important in the origins of Zen Buddhism, the ["Sutra of Hui-neng"](https://www.shambhala.com/the-sutra-of-hui-neng-grand-master-of-zen-1434.html) introduces the distinction between the northern and southern schools of Zen. For an explanation, you can read  [H. Dumoulin, "Zen Enlightenment", pp 44-52](https://www.thriftbooks.com/w/zen-enlightenment-origins-and-meaning_heinrich-dumoulin/623561/item/3095725/), that I have summarized in a [comparison table here](https://datayana.github.io/2019/03/05/Notes).
+
+So I like to think _"the other side of this mountain"_, where the old man's fox body can be found, is pointing to the northern side. I mean it points to an opposition between two schools of Buddhism, both paths of a single Dharma, leading to enlightemnent but with variying degrees of complexity and success.
 
 ### Different but still entitled to respect
 
@@ -166,7 +175,7 @@ Between us, if I can pragmatic for a second, I'd rather get slapped in the face 
 
 ### What if we could hold both together?
 
-What I suggest this read points to, is that the opposition between those two views is a trap, a false dichotomy.
+What I guess this read suggests, is that the opposition between those two views is a trap, a false dichotomy.
 
 Maybe that's why the _Mumonkan_ closes the case the verses:
 
@@ -177,7 +186,7 @@ Maybe that's why the _Mumonkan_ closes the case the verses:
 
 Each of them leads to a partial understanding of reality and contradictions. Holding one view - sudden enlightenment - might be helpful but grasping it as the one true view is an illusion.
 
-Ultimately, the question is not whether sudden enlightenment is more true than gradual enlightenment. The question is.... what is enlightenment itself? and what is the relationship with the law of cause and effect?
+Ultimately, the question is not whether sudden enlightenment is "more true" than gradual enlightenment. The question is.... what is enlightenment itself? and what is the relationship with the law of cause and effect?
 
 ## Read 2. On the law of cause and effect
 
