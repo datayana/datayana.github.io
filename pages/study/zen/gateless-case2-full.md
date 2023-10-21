@@ -71,31 +71,30 @@ Some translations also add the translator's commentary, in particular:
 
 ::construction:: [work in progress] ::construction::
 
-- explain the structure of this commentary
-- one point/argument can come back several times, under different reads
+I have written this commentary to reflect my own practice of the koan.
+I've read the koan many times, sometimes it feels like a fishing expedition. 
 
-points of the story showing it does not make any sense:
-- causality at every word
-- causality at the wrong answer
-- causality at the turning word
-- the ritual, why?
+The text is organized in "reads", which are like slices in the understanding of the text. They can give the illusion of providing a conclusion, and in the same time they open to many more questions that can't be entirely adressed by just one read. That's because they present a mono-dimensional picture of a text that is multi-dimensional. Each "read" makes the text readable, nice to contemplate, organized in a way our mind can grasp it, but you see behind this nice picture the tension with the other dimensions, the need for more dimensions to actually grasp anything meaningful. And the same notions or references come back accross multiple reads, under different angles.
 
-1. shallow read, superficial interpretation
+So you'll likely feel frustrated reading this, because one read will look too easy, or limited and wrong, and another will look obscure and esoteric. That depends on your own journey and where you are. I'm not entirely sure of each of them myself, but I laid them out anyway as my offering to others on the same journey. Maybe you're further along in the path. Who knows?
 
-two schools on the nature of enlightenment
+Explain the plan
+- pre-read: hyakujo and the old man
+- read 1 : gradual vs sudden enlightenment
+- read 2 : causality at every word
+- read 3 : enlightenment
+- read 4 : the ritual
 
-end with huang-po's question: "what if he had given the right answer every time?" to show the cracks
-
-and 500 fox lives is not enough time between two Buddhas.
-
-2. break everything, not making sense anymore
-3. emptiness at work
-
-Question: the fact you can still fall into 500 lives as a fox even after giving the right answer is a slap to the face of Rinzai practice? Your answer to a koan does not correlate with liberation?
+Unresolved notes:
+- 500 fox lives is not enough time between two Buddhas.
+- enlightenment *is* answering the question the right way.
+- the fact you can still fall into 500 lives as a fox even after giving the right answer is a slap to the face of Rinzai practice? Your answer to a koan does not correlate with liberation?
 
 ## Pre-read : Hyakujo old and new
 
 ### Who is Hyakujo?
+
+::construction::
 
 ### Who is the "old man"?
 
@@ -113,21 +112,21 @@ So, since Hyakujo's name (Paichang) is inherited from the place he lives in, the
 
 I bet the other side of __this__ mountain is facing north.
 
-[Kalu Rimpoche](https://en.wikipedia.org/wiki/Kalu_Rinpoche) used to describe all the vehicles (_yana_) of Buddhism (Hinayana, Mahayana, Vajrayana) as different paths on a single mountain: all leading to the top, but being different in difficulty and time depending on the side a practitioner is taking. So, I like to think of the expression _"the other side of this mountain"_ as pointing to the difference in doctrine between Hyakujo and the old men.
-
 Important in the origins of Zen Buddhism, the ["Sutra of Hui-neng"](https://www.shambhala.com/the-sutra-of-hui-neng-grand-master-of-zen-1434.html) introduces the distinction between the northern and southern schools of Zen. For an explanation, you can read  [H. Dumoulin, "Zen Enlightenment", pp 44-52](https://www.thriftbooks.com/w/zen-enlightenment-origins-and-meaning_heinrich-dumoulin/623561/item/3095725/), that I have summarized in a [comparison table here](https://datayana.github.io/2019/03/05/Notes).
 
-So I like to think _"the other side of this mountain"_, where the old man's fox body can be found, is pointing to the northern side. I mean it points to an opposition between two schools of Buddhism, both paths of a single Dharma, leading to enlightemnent but with variying degrees of complexity and success.
+[Kalu Rimpoche](https://en.wikipedia.org/wiki/Kalu_Rinpoche) used to describe all the vehicles (_yana_) of Buddhism (Hinayana, Mahayana, Vajrayana) as different paths on a single mountain: all leading to the top, but being different in difficulty and time depending on the side a practitioner is taking.
+
+So, I like to think of the expression _"the other side of this mountain"_ as pointing to the difference in doctrine between Hyakujo and the old men. I like to think _"the other side of this mountain"_, where the old man's fox body can be found, is pointing to the northern side. I mean it points to an opposition between two schools of Buddhism, both paths of a single Dharma, leading to enlightemnent but different in length and hardship.
 
 ### Different but still entitled to respect
 
-Before we start putting those schools in competition, it is important for them to respect each other.
+Before we start putting those schools in competition, it is important that they respect each other.
 
 > After the meal, Paichang led the monks to the foot of a rock __on the far side of the mountain__. And there, with his staff, he poked out the body of a dead fox. He then __performed the ceremony of cremation__.
 
 The old man does not belong to the same side of the mountain, still he deserves to receive the ritual owed to a priest.
 
-Even if we belong to different schools, to different traditions, we still owe each other respect, we have to help one another. Here, we are going to forget those differences to allow for a ritual we both share, offering dignity and respect at the passing of our traditional adversary.
+Even if we belong to different schools, to different traditions, we still owe each other respect, we have to help one another. Here, we are going to forget those differences to allow for a ritual we both share, offering dignity and respect at the passing of our so called "adversary" in tradition.
 
 ### Sudden enlightenment rescueing gradual enlightenment from rebirth
 
@@ -139,30 +138,32 @@ Even if we belong to different schools, to different traditions, we still owe ea
 >
 > Hearing this, the old man __immediately was enlightened__. Making his bows he said, "I am released from the body of a fox."
 
-This is where the distinction between northern and southern schools of Zen shows up for me.
+This is where the distinction between northern and southern schools of Zen shows up.
 
 One interesting exercise is to examine each line according to a distinction between gradual enlightenment or sudden enlightenment.
 
-"**Such a person does not fall...**" - This sounds very much like something said by someone from the school of gradual enlightenment. Maybe the old man comes from the northern school.
+"**Such a person does not fall...**" - This sounds very much like something said by someone from the school of gradual enlightenment. The old man comes from the northern school where enlightenment exhausts rebirth.
 
 "**With this** I was **reborn five hundred times as a fox**" - Again here, the old man holds a view in which a single wrong answer can throw you into a long line of rebirths (that can be exhausted). It sounds to me that the old man still holds the view of gradual enlightenment at this point of the conversation.
 
 "**Such a person does not evade...**" - Hyakujo is providing an answer that fits well in the view of sudden enlightenment.
 
-"**Hearing this, the old man immediately was enlightened**" - Suddenly, the old man enlightened, after being exposed to the view of sudden enlightenment. The old man realizes the truth of this view and suddenly sheds the skin of the fox on the floor of the other side of the mountain.
+"**Hearing this, the old man immediately was enlightened**" - Suddenly, the old man is enlightened... after being exposed to the view of sudden enlightenment. The old man realizes the truth of this view and suddenly sheds the skin of the fox on the floor of the other side of the mountain, as he sheds his former view of gradual enlightenment.
 
 ### Is one view better than the other?
+
+Now, it would be too easy to just claim victory for one side, to say the view of sudden enlightenment is superior.
 
 > Huang-po stepped forward and said, "As you say, the old man missed the turning word and was reborn as a fox five hundred times. What if he had given __the right answer__ each time he was asked a question -- what would have happened then?"  
 > Paichang said, "Just step here closer, and I'll tell you." Huang-po went up to Paichang and __slapped him in the face__.
 
-Now, it would be too easy to just claim victory for one side, to say the view of sudden enlightenment is superior. I read the passage above as indicative that, if you do that, you will be slapped in the face, not just by Huang-po, but also by reality.
+I read the passage above as indicative that, if you claim superiority of one view, you will be slapped in the face, not just by Huang-po, but also by reality.
 
-There is some irony here though. The old man was suddenly enlightened after discussing with Hyakugo, but he **had to wait** for such a long time, go through so many lives. Who knows how many lives he would have lived if he had now met Hyakujo. Who knows if he could have become enlightened another way. Ultimately, this sounds very much like a gradual path to enlightenment.
+There is some irony here though. The old man was suddenly enlightened after discussing with Hyakugo, but he **had to wait** for such a long time, go through so many lives. Who knows how many lives he would have lived if he had not met Hyakujo. Who knows if he could have become enlightened another way. Ultimately, this sounds very much like a gradual path to enlightenment. Both paths happened for the old man.
 
-Going back to Huang-po's question, "What if...", there's also a lot of irony, almost cynicism. Let's go through it.
+Going back to Huang-po's question, "What if...", there's also a lot of irony, almost cynicism. Let's unpack it.
 
-"**What if he had given the right answer**" - This seems to imply there **is** a right answer, but Huang-po doesn't say there is one, he's calling out Hyakujo because this story implied there is one. Huang-po's slap suggests that none of those answers are actually right. What to make of this?
+"**What if he had given the right answer**" - This seems to imply there **is** a right answer, but Huang-po doesn't say there is one, he's calling out Hyakujo because his story implied there is one. Huang-po's slap suggests that none of those answers are actually right. What to make of this?
 
 "What if he had given **the right answer each time he was asked** a question" - To me, there's two funny aspects about this.  
 First, it means you would have to give the right answer the very first time you're being asked. Seriously, could anyone really do that? We're talking about such a fundamental question, if you were asked this question before you understand the true nature of enlightenment, you could very well give the wrong answer. Would you then be reborn as a fox? That doesn't sound very reasonable (or fair). Dogen pointed this out in _Daishugyo_: _"Senior monks who have made mistakes over the past two or three hundred years would certainly have become innumerable foxes"_.  
@@ -171,7 +172,7 @@ True understanding of enlightenment is not just something you can deliver like t
 Now let's say you _did_ answer properly at some point. Well, you'll still have to answer this question right every single time you're being asked, for the rest of your life, or else you'll be thrown in a long chain of rebirths as a fox. What's the point of being suddenly enlightened if you're still stuck with the possibility of being thrown in hell at every single corner, if you're still stuck within a reality that very much sounds aligned with the view of gradual enlightenment.
 
 "**Huang-po went up to Paichang and slapped him in the face**" - If previously it sounded like the reward for the old man's original answer was to be thrown in rebirths, here it sounds like the reward for Hyakujo's answer is to be slapped in the face. Is Sudden enlightenment, as a view, not "more true" than gradual?. The (Could it be the meaning of Wumen's verses _"a thousand mistakes, ten thousand mistakes"_?).  
-Between us, if I can pragmatic for a second, I'd rather get slapped in the face than be reborn five hundred times as a fox. So, could we just say sudden enlightenment is "less wrong" than gradual enlightenment?
+If I can pragmatic for a second, I'd rather get slapped in the face than be reborn five hundred times as a fox. So, could we just say sudden enlightenment is "less wrong" than gradual enlightenment?
 
 ### What if we could hold both together?
 
@@ -191,6 +192,12 @@ Ultimately, the question is not whether sudden enlightenment is "more true" than
 ## Read 2. On the law of cause and effect
 
 > One day a monk asked me, 'Does an enlightened person fall under the law of cause and effect or not?' I replied, 'Such a person does not fall under the law of cause and effect.' **With this** I was reborn five hundred times as a fox.
+>
+> He then asked Paichang, "Does an enlightened person fall under the law of cause and effect or not?"
+>
+> Paichang said, "Such a person does not evade the law of cause and effect."
+>
+> **Hearing this**, the old man immediately was enlightened. Making his bows he said, "I am released from the body of a fox."
 
 TODO: Karma is not any cause and effect. Example of five orders in Pali Canon.
 
@@ -295,7 +302,8 @@ If there's nothing left really, what is the "I" that old Paichang now claims he 
 
 work in progress
 
-## 4. The ritual
+
+## Read 4. The ritual
 
 > Making his bows he said, "I am released from the body of a fox. The body is on the other side of this mountain. I wish to make a request of you. __Please__, Abbot, __perform my funerals as for a priest__."  
 > [...] After the meal, Pai-chang led the monks to the foot of a rock on the far side of the mountain. And there, with his staff, he poked out the body of a dead fox. He then __performed the ceremony of cremation__.
@@ -312,7 +320,7 @@ About Hyakujo, Dogen warns: _"Do not treat with arrogance the Dharma standards o
 
 > Please, Abbot, perform my funerals as for a priest.
 
-Once you pause to investigate it, many aspects of the old man's request can be challenging.
+Once you pause to investigate it, many aspects of the old man's request can be questioned.
 
 "**perform my funerals**" - A first interrogation is on the subject of the funeral. The old man just said, _"I am released from the body of a fox"_. Thus himself and the body of the fox are two different things. When requesting for a funeral, is the old man asking for himself or for the fox? Are those two things the same or different?
 
@@ -322,34 +330,34 @@ Once you pause to investigate it, many aspects of the old man's request can be c
 
 > [Hyakujo] then performed the cermony of cremation.
 
-I really hope Hyakujo knows what the old man is hoping to accomplish, because he goes at lenghts to do help.
+I really hope Hyakujo knows what the old man is hoping to accomplish, because he goes at length to help.
 
 We have to imagine that this looked like to the monks, having their head master do this.
 
-They hear a surprise strike on the signal board, meaning an improvised funeral. But who? When? There's some interrogation in the community, but the head master just says nothing about it. Then, without any context whatsoever, Hyakujo takes everyone for a long trip to _"the far side of the mountain"_. There, in front of everyone, he pokes a random fox corpse from behind a rock. And then a ritual on that random corpse, not just any ritual, but one that the monks likely have regarded as a highly respectful and important to them. Doing that on a fox? That far out in the mountain? Has the master gone insane? _"What does the teacher mean?"_
+They hear a surprise strike on the signal board, meaning an improvised funeral. But who? When? There's some interrogation in the community, but the head master just says nothing about it. Then, without any context whatsoever, Hyakujo takes everyone for a long trip to _"the far side of the mountain"_. There, in front of everyone, he pokes a random fox corpse from behind a rock. And then performs a ritual on that random corpse, not just any ritual, but one that the monks likely have regarded as a highly respectful and important to them. Doing that on a fox? That far out in the mountain? Has the master gone insane? _"What does the teacher mean?"_
 
-Having fun of causality? negating causality?
+With all our discussion on enlightenment, on emptiness, why would there be anything to do with the fox's __body__? What does it __do__ to cremate it? What effect does this cause accomplish?
 
-Why would there be anything to do with the fox's body? What does it __do__ to cremate it? What does it accomplish?
-
-Ritual and liturgy, is that the answer to the question? Is the ritual of cremation the way to find your way between the two answers? Is it the function, the end of Zen practice and liturgy to pay respect to both answers and hold them simultaneously?
+It feels like the story is making fun of our understanding of causality. It is another slap in the face. Oh you think you got it? Wait, here's a completely inappropriate and useless ritual that you need to accept and integrate into your new found view now.
 
 ### Ritual and enlightenment
 
-And, considering he's said to be "enlightened", does this mean an enlightened being can still be motivated / hope to accomplish anything?
+The old man is said to be "enlightened", still he requires a cremation. Does this mean an enlightened being can still be motivated / hope to accomplish anything? Well, we should know the answer to this, like Hyakujo said, he __does not evade__ the law of cause and effect.
 
-Is the ritual requested by old Paichang, __because__ he understands that an enlightened person __does not evade__ the law of cause and effect? Old Paichang is enlightened, but there are still things that need to happen, and a law that cannot be obscured?
-Why does old Paichang even request a funeral? What's the purpose of it from the perspective of Enlightenment?
+But why does the old man request the ritual? Well, __because__ he understands that an enlightened person __does not evade__ the law of cause and effect. Old Paichang is enlightened, there are still things that need to happen, and a law that cannot be obscured.
 
-
-To address these interrogations, I think it is beneficial to relate them to the two core aspects of the story - the notion of Enlightenment, and the law of cause and effect - and see what this request interrogates.
-
-It doesn't do anything in reality, but it does in the mind, so it does in reality.
+But why ? What's the purpose of it from the perspective of Enlightenment? To address these interrogations, it is beneficial to relate them to the two core aspects of the story - the notion of Enlightenment, and the law of cause and effect - and see what this request interrogates.
 
 The subject of the ritual doesn't make sense.  
 The function of the ritual doesn't make sense.  
 The benefit of the ritual doesn't make sense.  
-Let's do it anyway.
+So let's do it anyway.
+
+The ritual doesn't do anything in reality, but it does in the mind, so it does in reality.
+
+The old man requests a funeral, as a demonstration that he does not evade the law. Hyakujo performs the ritual as a demonstration that he does not evade the law.
+
+Ritual and liturgy, maybe that's the answer to the koan question. Does an enlightened person fall under the law of cause and effect or not? Bow and chant. And perform rituals of cremation.
 
 ## Unsorted notes
 
