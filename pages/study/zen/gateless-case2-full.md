@@ -12,9 +12,9 @@ You can find a version of the koan itself in the ["prompt-only" version of this 
 
 At the moment I'm writing this text, I have practiced with this koan for 5 years. What I mean by "practice" is a mix of different contemplative modalities, ranging from simply reading the text and pondering its meaning, to sitting with the text in zazen and asking myself its main question over and over.
 
-This commentary is a tentative for me to render what I took from the koan. I am hesitant to use expressions like "what I learned from", "my interpretation", and of course "the meaning of". This commentary is not a "solution" to the koan, it does not close this koan, but rather renders my explorations, my contemplations, as an invite for others to do their own. It is definitely opinionated, but lightly so, to encourage others to form their own thoughts (or non-thoughts).
+This commentary is a tentative for me to render what I took from the koan. I am hesitant to use expressions like "what I learned from", "my interpretation", and of course "the meaning of". This commentary is not a "solution" to the koan, it does not bring closure to my practice of this koan, but rather renders my explorations, my contemplations, as an invite for others to support their own practice. It is definitely opinionated, but lightly so, to encourage others to form their own thoughts (or non-thoughts).
 
-If that is not helpful to you, or if you end up disagreeing or thinking poorly of my judgement, I apologize, and I invite you to move forward without it on your journey into this koan.
+If that is not helpful to you, or if you end up disagreeing or thinking poorly of my judgement, I apologize, and I invite you to move forward without it.
 
 ## Notes on the text of this case
 
@@ -23,7 +23,7 @@ The story of Paichang/Baizhang/Hyakujo and the Fox can be found in multiple coll
 - Case 8 of Book of Serenity (_Shōyōroku_),
 - Case 102 of Dogen's Shinji Shobogenzo.
 
-Central to the case is one main question about enlightenment and the law of karma and its "answer". They are rendered different ways according to translators:
+Central to the case is one main pair of question and answer about enlightenment and the law of karma. This pair is translated into english with a great deal of variance:
 
 Robert Aitken, The Gateless Barrier, 1990:
 > \- Does an enlightened person fall under the law of cause and effect or not?  
@@ -49,6 +49,8 @@ Kazuaki Tanahashi, John Daido Loori, The True Dharma Eye case 102, 2005:
 > \- Does an enlightened person fall into cause and effect?  
 > \- Don't ignore cause and effect.
 
+The diversity of those translations indicates we should probably not try to use conceptual thought to capture the answer to this question, as the concept behind it might be hard to grasp with actual words.
+
 The Book of Serenity, in covering Case 8, provides "added sayings". Those are some kind of footnotes, interjections, thoughts related to specific lines of the text.
 
 Here's a few examples:
@@ -66,6 +68,30 @@ Some translations also add the translator's commentary, in particular:
 - Gudo Nishijima, Master Dogen's Shinji Shobogenzo, Book II case 2, 2003
 - Robert Aitken, The Gateless Barrier, 1990
 - Koun Yamada Roshi, The Gateless Gate, 1979
+- Kazuaki Tanahashi, John Daido Loori, 2005
+
+## Pre-read : Hyakujo old and new
+
+### Who is Hyakujo?
+
+[Baizhang Huaihai](https://en.wikipedia.org/wiki/Baizhang_Huaihai) (720-814), known as Hyakujo in Japanese, was a significant figure in Zen Buddhism during the Tang Dynasty in China. He was a dharma heir of [Mazu Daoyi](https://en.wikipedia.org/wiki/Mazu_Daoyi) (Matsu in japanese), another prominent Zen master.
+
+Hyakujo is known for his establishment of the Zen monastic system. He is the author of the phrase _'No work, no eating'_, signifying his belief in the spiritual value of hard work. He made the entire work of the monastery and its grounds part of the monk's training, thus shaping the practice of Zen Buddhism. His students included notable figures such as [Huangbo](https://en.wikipedia.org/wiki/Huangbo_Xiyun) and [Linji](https://en.wikipedia.org/wiki/Linji_Yixuan) (both important Zen masters).
+
+In this koan, we see him as the main protagonist, the leader of the community and teacher of the Dharma.
+
+### Who is the "old man"?
+
+The old man here is a more enigmatic figure.
+
+According to the koan, the old man was an abbot "_in the time of Kasyapa Buddha_", which means not just a long time ago, but a different era of Buddhism entirely (see [Kasyapa Buddha](https://en.wikipedia.org/wiki/Kassapa_Buddha)).
+
+According to Buddhist cosmology, the universe was still the same universe we live in right now, it had not gone through contraction and recycling between the time of Kasyapa and now. But the Dharma itself - the teachings of the Buddhas - had gone extinct and revived by [Gautama](https://en.wikipedia.org/wiki/The_Buddha) in the meantime, like it is said it will go extinct between Gautama's turning of the wheel and [Maitreya](https://en.wikipedia.org/wiki/Maitreya)'s.
+
+In short, the old man comes from the same place in the world, but lived in an entirely different context, with a different Buddha. The Dharma he was taught and taught himself was similar in nature (there's only one Dharma) but different in form and stories.
+
+So, since Hyakujo's name (Paichang) is inherited from the place he lives in, the old man is also referred to as "old Paichang". One interesting thought is to consider those two characters as one and the same through time, but we'll consider that later.
+
 
 # Commentary
 
@@ -79,32 +105,18 @@ The text is organized in "reads", which are like slices in the understanding of 
 So you'll likely feel frustrated reading this, because one read will look too easy, or limited and wrong, and another will look obscure and esoteric. That depends on your own journey and where you are. I'm not entirely sure of each of them myself, but I laid them out anyway as my offering to others on the same journey. Maybe you're further along in the path. Who knows?
 
 Explain the plan
-- pre-read: hyakujo and the old man
-- read 1 : gradual vs sudden enlightenment
-- read 2 : causality at every word
-- read 3 : enlightenment
-- read 4 : the ritual
+- [x] pre-read: hyakujo and the old man
+- [x] read 1 : gradual vs sudden enlightenment
+- [ ] read 2 : causality at every word
+- [ ] read 3 : enlightenment
+- [ ] read 4 : the ritual
 
 Unresolved notes:
 - 500 fox lives is not enough time between two Buddhas.
 - enlightenment *is* answering the question the right way.
 - the fact you can still fall into 500 lives as a fox even after giving the right answer is a slap to the face of Rinzai practice? Your answer to a koan does not correlate with liberation?
-
-## Pre-read : Hyakujo old and new
-
-### Who is Hyakujo?
-
-::construction::
-
-### Who is the "old man"?
-
-The old man was an abbot "_in the time of Kasyapa Buddha_", which means not just a long time ago, but a different era of Buddhism entirely (see [Kasyapa Buddha](https://en.wikipedia.org/wiki/Kassapa_Buddha)).
-
-According to Buddhist cosmology, the universe was still the same universe we live in right now, it had not gone through contraction and recycling yet. But the Dharma itself - the teachings of the Buddhas - had gone extinct and revived in the meantime, like it is said it will go extinct between [Gautama](https://en.wikipedia.org/wiki/The_Buddha)'s turning of the wheel and [Maitreya](https://en.wikipedia.org/wiki/Maitreya)'s.
-
-In short, the old man comes from the same place, but lived in an entirely different context, with a different Buddha, and teachings that were similar in nature (there's only one Dharma) but different in form and stories.
-
-So, since Hyakujo's name (Paichang) is inherited from the place he lives in, the old man is also referred to as "old Paichang". One interesting thought is to consider those two characters as one and the same through time, but we'll consider that later.
+- ritual: led the monks to the foot of a rock on the far side of the mountain - let's get around the mountain and see what it feels to be on the other side, let's hold the northern school view for a minute
+- ritual: somewhere in the other side of the mountain, there's a dead fox body lying there alone, and through that vessel was carried out a life that ended in liberation, isn't that worth doing a ritual?
 
 ## Read 1. Two schools on the nature of enlightenment
 
@@ -112,9 +124,9 @@ So, since Hyakujo's name (Paichang) is inherited from the place he lives in, the
 
 I bet the other side of __this__ mountain is facing north.
 
-Important in the origins of Zen Buddhism, the ["Sutra of Hui-neng"](https://www.shambhala.com/the-sutra-of-hui-neng-grand-master-of-zen-1434.html) introduces the distinction between the northern and southern schools of Zen. For an explanation, you can read  [H. Dumoulin, "Zen Enlightenment", pp 44-52](https://www.thriftbooks.com/w/zen-enlightenment-origins-and-meaning_heinrich-dumoulin/623561/item/3095725/), that I have summarized in a [comparison table here](https://datayana.github.io/2019/03/05/Notes).
+In the context of the Tibetan Buddhism, [Kalu Rimpoche](https://en.wikipedia.org/wiki/Kalu_Rinpoche) used to describe all the vehicles (_yana_) of Buddhism (Hinayana, Mahayana, Vajrayana) as different paths on a single mountain: all leading to the top, but being different in difficulty and time depending on the side a practitioner is taking.
 
-[Kalu Rimpoche](https://en.wikipedia.org/wiki/Kalu_Rinpoche) used to describe all the vehicles (_yana_) of Buddhism (Hinayana, Mahayana, Vajrayana) as different paths on a single mountain: all leading to the top, but being different in difficulty and time depending on the side a practitioner is taking.
+Important in the origins of Zen Buddhism, the ["Sutra of Hui-neng"](https://www.shambhala.com/the-sutra-of-hui-neng-grand-master-of-zen-1434.html) introduces the distinction between the northern and southern schools of Zen. For an explanation, you can read  [H. Dumoulin, "Zen Enlightenment", pp 44-52](https://www.thriftbooks.com/w/zen-enlightenment-origins-and-meaning_heinrich-dumoulin/623561/item/3095725/), that I have summarized in a [comparison table here](https://datayana.github.io/2019/03/05/Notes).
 
 So, I like to think of the expression _"the other side of this mountain"_ as pointing to the difference in doctrine between Hyakujo and the old men. I like to think _"the other side of this mountain"_, where the old man's fox body can be found, is pointing to the northern side. I mean it points to an opposition between two schools of Buddhism, both paths of a single Dharma, leading to enlightemnent but different in length and hardship.
 
@@ -126,7 +138,7 @@ Before we start putting those schools in competition, it is important that they 
 
 The old man does not belong to the same side of the mountain, still he deserves to receive the ritual owed to a priest.
 
-Even if we belong to different schools, to different traditions, we still owe each other respect, we have to help one another. Here, we are going to forget those differences to allow for a ritual we both share, offering dignity and respect at the passing of our so called "adversary" in tradition.
+Even if we belong to different schools, to different traditions, we still owe each other respect, we have to help one another. Here, we are going to forget those differences to allow for a ritual we both share, offering dignity and respect at the passing of our so called "opponent" in tradition.
 
 ### Sudden enlightenment rescueing gradual enlightenment from rebirth
 
@@ -159,17 +171,17 @@ Now, it would be too easy to just claim victory for one side, to say the view of
 
 I read the passage above as indicative that, if you claim superiority of one view, you will be slapped in the face, not just by Huang-po, but also by reality.
 
-There is some irony here though. The old man was suddenly enlightened after discussing with Hyakugo, but he **had to wait** for such a long time, go through so many lives. Who knows how many lives he would have lived if he had not met Hyakujo. Who knows if he could have become enlightened another way. Ultimately, this sounds very much like a gradual path to enlightenment. Both paths happened for the old man.
+There is some irony here though. The old man was suddenly enlightened after discussing with Hyakujo, but he **had to wait** for such a long time, go through so many lives. Who knows how many lives he would have lived if he had not met Hyakujo. Who knows if he could have become enlightened another way. Ultimately, this sounds very much like a gradual path to enlightenment. Both paths happened for the old man.
 
 Going back to Huang-po's question, "What if...", there's also a lot of irony, almost cynicism. Let's unpack it.
 
 "**What if he had given the right answer**" - This seems to imply there **is** a right answer, but Huang-po doesn't say there is one, he's calling out Hyakujo because his story implied there is one. Huang-po's slap suggests that none of those answers are actually right. What to make of this?
 
 "What if he had given **the right answer each time he was asked** a question" - To me, there's two funny aspects about this.  
-First, it means you would have to give the right answer the very first time you're being asked. Seriously, could anyone really do that? We're talking about such a fundamental question, if you were asked this question before you understand the true nature of enlightenment, you could very well give the wrong answer. Would you then be reborn as a fox? That doesn't sound very reasonable (or fair). Dogen pointed this out in _Daishugyo_: _"Senior monks who have made mistakes over the past two or three hundred years would certainly have become innumerable foxes"_.  
-True understanding of enlightenment is not just something you can deliver like that on your first try, it is something you will realize with time and practice. This points to a contradiction, because _sudden_ enlightenment would then require _gradual_ practice.
+First, it means if you want to avoid being punished of 500 lives as a fox, you would have to give the right answer the **very first time** you're being asked ever. Seriously, could anyone really do that? We're talking about such a fundamental question, if you were asked this question before you understand the true nature of enlightenment, you would absolutely give the wrong answer. Would you then be reborn as a fox? That doesn't sound very reasonable (or fair). Dogen gave another argument by pointing out in _Daishugyo_: _"Senior monks who have made mistakes over the past two or three hundred years would certainly have become innumerable foxes"_.  
+True understanding of enlightenment is not just something you can deliver like that on your first try, it is something you will realize with time and practice. This points to a contradiction, because _sudden_ enlightenment then requires _gradual_ practice.
 
-Now let's say you _did_ answer properly at some point. Well, you'll still have to answer this question right every single time you're being asked, for the rest of your life, or else you'll be thrown in a long chain of rebirths as a fox. What's the point of being suddenly enlightened if you're still stuck with the possibility of being thrown in hell at every single corner, if you're still stuck within a reality that very much sounds aligned with the view of gradual enlightenment.
+Now let's say you _did_ answer properly at some point. Well, you'll still have to answer this question right every single time you're being asked, for the rest of your life, or else you'll be thrown in a long chain of rebirths as a fox. What's the point of being suddenly enlightened if you're still stuck with the possibility of being thrown in hell at every single corner. What's the actual liberation coming of sudden enlightenment if you're still stuck within a reality aligned with the view of long and hard gradual work.
 
 "**Huang-po went up to Paichang and slapped him in the face**" - If previously it sounded like the reward for the old man's original answer was to be thrown in rebirths, here it sounds like the reward for Hyakujo's answer is to be slapped in the face. Is Sudden enlightenment, as a view, not "more true" than gradual?. The (Could it be the meaning of Wumen's verses _"a thousand mistakes, ten thousand mistakes"_?).  
 If I can pragmatic for a second, I'd rather get slapped in the face than be reborn five hundred times as a fox. So, could we just say sudden enlightenment is "less wrong" than gradual enlightenment?
@@ -207,7 +219,13 @@ One interesting exercise is to look for, in the text and between the lines, wher
 
 > Once when Paichang gave a series of talks, a certain old man was always there listening together with the monks. When they left, he would leave too. One day, however, he remained behind.
 
-"**One day, however, he remained behind.**" - This sentence alone can raise so many questions. What happened **that** day? Why is that day different from the day before? Was Hyakujo teaching on a specific topic? Or did the old man feel he needed to ask a question that day? Why wouldn't he ask that question the day before? What is the cause leading to this old man asking the most pressing question of his existence on that particular day? This day will be important. We're talking about the day of the old man's enlightenment. Conditions on that day seemed more favorable for him than the day before. Why and how?
+"**One day, however, he remained behind.**" - This sentence alone can raise so many questions:
+- What happened that day? Why is **that day** different from the day before?
+- Was Hyakujo teaching on a specific topic that the old man found interesting? Which topic?
+- Or did the old man feel he just needed to ask a question that day whatever the topic was? Why that day?
+- Why wouldn't he ask that question the day before? the day after?
+- The old man uses **that day** to ask the most pressing question of his existence... does it mean anything that it happened that particular day?  
+This day will be important. We're talking about the day of the old man's enlightenment. Conditions on that day seemed more favorable for him than the day before. Why and how?
 
 Once you deep dive like this, reading from the beginning again brings a lot more opportunities to contemplate causality.
 
@@ -228,6 +246,8 @@ Answering the koan is enacting the law of cause and effect, to translate it into
 ### Causality at the "wrong" answer
 
 > One day a monk asked me, 'Does an enlightened person fall under the law of cause and effect or not?' I replied, 'Such a person does not fall under the law of cause and effect.' **With this** I was reborn five hundred times as a fox.
+
+"**With this**" - Was he transformed immediately? Was he transformed at the end of his life? Like... nothing happened between his answer and the end of his life to compensate for this? So he's always believed this doctrine and that's his fault?
 
 Dogen: _"If being reduced to the state of a wild fox was the inevitable consequence of answering a trainee’s question inaccurately, then [...] senior monks who have made mistakes over the past two or three hundred years would certainly have become innumerable foxes."_
 
@@ -305,10 +325,12 @@ work in progress
 
 ## Read 4. The ritual
 
-> Making his bows he said, "I am released from the body of a fox. The body is on the other side of this mountain. I wish to make a request of you. __Please__, Abbot, __perform my funerals as for a priest__."  
+> I wish to make a request of you. __Please__, Abbot, __perform my funerals as for a priest__."  
 > [...] After the meal, Pai-chang led the monks to the foot of a rock on the far side of the mountain. And there, with his staff, he poked out the body of a dead fox. He then __performed the ceremony of cremation__.
 
-This ritual might be overlooked as just a mundane step of this story. In his commentary of the koan, Robert Aitken invites us to not skip this ceremony of cremation, especially because it has raised objections by reknown Zen masters.
+This ritual might be overlooked as just a filler in this story. In his commentary of the koan, Robert Aitken invites us to not glance over and skip this ceremony of cremation, especially because it has raised objections by reknown Zen masters.
+
+### Controversy
 
 Indeed, Aitken notes that _"a thousand years later [Hakuin](https://en.wikipedia.org/wiki/Hakuin_Ekaku) challenged Pai-chang on this act of cremation: 'What are you doing, old Pai-chang, performing a funeral for a fox as though it were a priest? [...] Aren't you making a mishmash of the Dharma? Isn't a priest irrevocably a priest and a fox irrevocably a fox?'"_
 
@@ -317,6 +339,8 @@ In addition, in _Daishugyo_, Dogen criticizes both the old man for asking for th
 About the old man, Dogen objects: _"how could a dead fox become a dead monk, since it has never taken the Precepts, or attended a summer retreat, or kept to the everyday behavior of a monk, or held to the principles of a monk? If such a creature may arbitrarily undergo the funeral ceremony for a dead monk, then any dead person who has never left home life behind would have to be accorded the funeral rites of a dead monk too."_
 
 About Hyakujo, Dogen warns: _"Do not treat with arrogance the Dharma standards of the Buddhas and Ancestors by vainly taking as real the transformations of the spirit of some wild fox. As offspring of the Buddhas and Ancestors, you should treat with importance the Dharma standards of the Buddhas and Ancestors. Never leave matters up to what others request, as Hyakujō did."_
+
+### Pause and investigate
 
 > Please, Abbot, perform my funerals as for a priest.
 
@@ -330,36 +354,42 @@ Once you pause to investigate it, many aspects of the old man's request can be q
 
 > [Hyakujo] then performed the cermony of cremation.
 
-I really hope Hyakujo knows what the old man is hoping to accomplish, because he goes at length to help.
+I guess Hyakujo knows what the old man is hoping to accomplish, because he goes at length to help.
 
-We have to imagine that this looked like to the monks, having their head master do this.
-
-They hear a surprise strike on the signal board, meaning an improvised funeral. But who? When? There's some interrogation in the community, but the head master just says nothing about it. Then, without any context whatsoever, Hyakujo takes everyone for a long trip to _"the far side of the mountain"_. There, in front of everyone, he pokes a random fox corpse from behind a rock. And then performs a ritual on that random corpse, not just any ritual, but one that the monks likely have regarded as a highly respectful and important to them. Doing that on a fox? That far out in the mountain? Has the master gone insane? _"What does the teacher mean?"_
+We have to imagine that this looked like to the monks, having their head master do this. The monks hear a surprise strike on the signal board, meaning an improvised funeral. But who? When? There's some interrogation in the community, but the head master just says nothing about it. Then, without any context whatsoever, Hyakujo takes everyone for a long trip to _"the far side of the mountain"_. There, in front of everyone, he pokes a random fox corpse from behind a rock. And then performs a ritual on that random corpse, not just any ritual, but one that the monks likely have regarded as a highly respectful and important to them. Doing that on a fox? That far out in the mountain? Has the master gone insane? _"What does the teacher mean?"_
 
 With all our discussion on enlightenment, on emptiness, why would there be anything to do with the fox's __body__? What does it __do__ to cremate it? What effect does this cause accomplish?
 
 It feels like the story is making fun of our understanding of causality. It is another slap in the face. Oh you think you got it? Wait, here's a completely inappropriate and useless ritual that you need to accept and integrate into your new found view now.
 
-### Ritual and enlightenment
+### What's law got to do with it?
 
 The old man is said to be "enlightened", still he requires a cremation. Does this mean an enlightened being can still be motivated / hope to accomplish anything? Well, we should know the answer to this, like Hyakujo said, he __does not evade__ the law of cause and effect.
 
-But why does the old man request the ritual? Well, __because__ he understands that an enlightened person __does not evade__ the law of cause and effect. Old Paichang is enlightened, there are still things that need to happen, and a law that cannot be obscured.
+But *why* does the old man request the ritual? Well, __because__ he understands that an enlightened person __does not evade__ the law of cause and effect. Old Paichang is enlightened, there are still things that need to happen, and a law that cannot be obscured.
 
-But why ? What's the purpose of it from the perspective of Enlightenment? To address these interrogations, it is beneficial to relate them to the two core aspects of the story - the notion of Enlightenment, and the law of cause and effect - and see what this request interrogates.
+But *why*? To what effect? What's the cause and effect of it from the perspective of Enlightenment? To address these interrogations, it is beneficial to relate them to the two core aspects of the story - the notion of Enlightenment, and the law of cause and effect - and see what this request interrogates.
 
-The subject of the ritual doesn't make sense.  
-The function of the ritual doesn't make sense.  
-The benefit of the ritual doesn't make sense.  
-So let's do it anyway.
+The subject of the ritual doesn't make sense. It has no subject.  
+The function of the ritual doesn't make sense. It has no function.  
+The benefit of the ritual doesn't make sense. It has no benefit.  
+Let's do it anyway.
 
-The ritual doesn't do anything in reality, but it does in the mind, so it does in reality.
+The ritual doesn't **do** anything in reality. Except it does.
 
-The old man requests a funeral, as a demonstration that he does not evade the law. Hyakujo performs the ritual as a demonstration that he does not evade the law.
+The old man requests a funeral, as a demonstration that he does not evade the law. Hyakujo performs the ritual as a demonstration that the old man does not evade the law. Hyakujo leads the monks to that other side of the mountain to see it from another view, and in that view the ritual is important.
 
 Ritual and liturgy, maybe that's the answer to the koan question. Does an enlightened person fall under the law of cause and effect or not? Bow and chant. And perform rituals of cremation.
 
-## Unsorted notes
+
+
+
+
+
+
+
+
+# Unsorted notes
 
 Enlightenment itself is impermanent?
 
@@ -407,7 +437,6 @@ Also check out:
 - Chapter 89, Sanji Gō, On Karmic Retribution in the Three Temporal Periods
 - Chapter 91, Shizen Biku, On the Monk in the Fourth Meditative State
 
-At this point in my exploration, after a couple of months, I read Dogen's commentary on this case. There are two chapters of the Shobogenzo, one titled "On the Great Practice" (_Daishugyo_) \[[pdf](https://www.thezensite.com/ZenTeachings/Dogen_Teachings/Shobogenzo/073daishugyo.pdf)\], the other "On the Absolute Certainty of Cause and Effect" (_Jinshin Inga_) \[[pdf](http://www.thezensite.com/ZenTeachings/Dogen_Teachings/Shobogenzo/088jinshiInga.pdf)\].
 
 ### Commentary from _Daishugyo_
 
