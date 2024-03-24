@@ -171,7 +171,7 @@ Now, it would be too easy to just claim victory for one side, to say the view of
 
 I read the passage above as indicative that, if you claim superiority of one view, you will be slapped in the face, not just by Huang-po, but also by reality.
 
-There is some irony here though. The old man was suddenly enlightened after discussing with Hyakujo, but he **had to wait** for such a long time, go through so many lives. Who knows how many lives he would have lived if he had not met Hyakujo. Who knows if he could have become enlightened another way. Ultimately, this sounds very much like a gradual path to enlightenment. Both paths happened for the old man.
+There is some irony here though. The old man was suddenly enlightened after discussing with Hyakujo, but he **had to wait** for such a long time, go through so many lives. Who knows how many lives he would have lived if he had not met Hyakujo. Who knows if he could have become enlightened another way. Ultimately, this sounds very much like a gradual path to enlightenment. Both paths happened for the old man (and in that regard, those were spent as _lives of grace_).
 
 Going back to Huang-po's question, "What if...", there's also a lot of irony, almost cynicism. Let's unpack it.
 
