@@ -6,6 +6,8 @@ permalink: /pages/study/zen/gateless-case2/
 
 > **IMPORTANT** - This page will offer some minimal prompts and notes to support your own investigation of the koan. I intentionally removed my own interpretations from it so that the investigation can remain you own (see [introduction](../intro-to-koans)). I've kept [my full commentary](../gateless-gate2-full.md) for another page.
 
+## The Case
+
 Translation: [Robert Aitken, The Gateless Barrier, 1990](https://www.google.com/search?q=robert+aitken+gateless+barrier).
 
 The story of Paichang/Baizhang/Hyakujo and the Fox can be found in multiple collections of koans with some variations:
@@ -165,7 +167,7 @@ What has the old man done to receive this fruit and live five hundred lives as a
 
 This is so far in the past, how could there be anything left from the "I" that __was__?  
 
-> "Please say a __turning point__ for me [...] Hearing this, the old man __immediately was enlightened__."
+> "Please say a __turning word__ for me [...] Hearing this, the old man __immediately was enlightened__."
 
 > Making his bows he said, "I am released from the body of a fox."
 
