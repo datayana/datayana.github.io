@@ -539,3 +539,15 @@ What is "happen"? Cause, effect, cause and effect. What's "and"? "I, **and** the
 Like Paichang releasing Old Paichang from the body of a fox, Enlightenment doesn't happen suddenly now, it happens for all past simultaneously.
 
 Closing, for now.
+
+# Appendix
+
+## Sayings and doings of Pai-chang
+
+[Sayings and doings of Pai-chang](https://archive.org/details/sayingsofparamha00yogarich/), Huaihai (720-814), trans. Thomas Cleary, 1978
+
+> _To say that sentient beings have enlightened nature is to slander the enlightened ones, their teachings and communities; to say that sentient beings have no enlightened nature is also to slander the enlightened ones, their teachings and communities._
+
+> _If a Buddha would not speak, then sentient beings would have no hope of liberation; if he would speak, then sentient beings would follow his words to produce interpretations - the benefits would be few and the disadvantages would be many. Therefore Buddha said, “I would rather not explain the truth, but enter extinction right away.” But afterwards he thought back upon all the Buddhas of the past, who had all taught the doctrines of three vehicles. Thereafter he made temporary use of verses to explain, and provisionally established names and terms. It is basically not Buddha, but to them he said, “This is Buddha;” it is originally not enlightenment, but he said to them, “this is enlightenment, peace, liberation,” and so forth - he knew they couldn’t bear up a hundred hundredweight burden, so for the time being he taught them the incomplete teaching._  
+> _And he realized the spread of good ways, which was still better than evil ways - but when the limits of good results are fulfilled, then bad consequences arrive. Once you have “Buddha” then there are “sentient beings” there; once you have “nirvana,” then there is “birth and death” there. Once you have light, then there is darkness there. And as long as cause and effect with attachment are revolving over and over, there is nothing that does not incur a result._  
+> _If you want to avoid experiencing this reversal, just cut off dualism; then measurements cannot govern you. You are neither Buddha nor sentient being, not near, not far, not high, not low, not equal, not even, not going, not coming; just do not cling to written letters which obstruct it, and neither side (of any split) can hold you. You will avoid either form of pain or pleasure, and avoid the opposition of light and dark. The true principle is that even reality is not really real, and even falsehood is not false. It is not something calculable; like empty space, it cannot be cultivated. If there occurs any intellectual fabrication in the mind, then it is governed by measurement._
