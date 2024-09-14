@@ -6,58 +6,114 @@ permalink: /pages/study/buddhism/prajnaparamitahridaya/
 
 ## Text
 
-_Note: composed from various translations by comparative study._
+_Note: decomposed and recomposed from various translations by comparative study._
+| Text                                                                                                                               | Annotations                                       |
+| :--------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------ |
+| &nbsp;                                                                                                                             | _[Introduction]_                                  |
+| The noble Avalokitesvara Bodhisattva,                                                                                              | &nbsp;                                            |
+| while practicing the deep practice of Prajnaparamita,                                                                              | &nbsp;                                            |
+| looked down,                                                                                                                       | _vyavalokayatisma_                                |
+| and regarded the five aggregates as empty.                                                                                         | _skandhas_                                        |
+| &nbsp;                                                                                                                             | _[Core]_                                          |
+| Here, Sariputra,                                                                                                                   |
+| Form is not one thing and emptiness another,                                                                                       | chosed to order like LPS*                         |
+| Emptiness is not one thing and form another.                                                                                       | &nbsp;                                            |
+| Form itself is emptiness,                                                                                                          | &nbsp;                                            |
+| Emptiness itself is form.                                                                                                          | &nbsp;                                            |
+| And the same goes for sensation, perception, conditioning force and consciousness.                                                 | _vedana_, _samjna_, _sankhara_, _vijnana_         |
+| Here, Sariputra, all dharmas have the mark of emptiness.                                                                           | nbsp;                                             |
+| And this emptiness does not originate, is not extinguished, is not defiled, is not purified, does not decrease, does not increase. | Using LPS syntax, [it] does not originate.        |
+| vTherefore, Sariputra,                                                                                                             | &nbsp;                                            |
+| in emptiness there is no form, no sensation, no perception, no conditioning forces, no consciousness;                              | _rupa_, _vedana_, _samjna_, _sankhara_, _vijnana_ |
+| no eye, no ear, no nose, no tongue, no touch, no mind;                                                                             | &nbsp;                                            |
+| no shape, no sound, no scent, no taste, no feel, no mind-object;                                                                   | _[dharma]_                                        |
+| no eye-realm and so on up to no realm of mind consciousness;                                                                       | _[caksur-dhatu]_ ... _[manovijnana-dhatu]_        |
+| no ignorance, no extinction of ignorance and so on up to no old-age-and-death and no extinction of old-age-and-death.              | &nbsp;                                            |
+| There is no suffering, no arising of suffering, no cessation of suffering, no path;                                                | four truths                                       |
+| no knowledge, no attainment and no non-attainment.                                                                                 | _[ijnana]_, _[prapti]_                            |
+| &nbsp;                                                                                                                             | _[Conclusion]_                                    |
 
-_[Introduction]_
-
-The noble Avalokitesvara Bodhisattva,
-while practicing the deep practice of Prajnaparamita,
-looked down _[vyavalokayatisma]_,
-and regarded the five aggregates _[skandhas]_ as empty.
-
-_[Core]_
-
-Here, Sariputra,
-
-Form is not one thing and emptiness another,
-Emptiness is not one thing and form another.
-Form itself is emptiness,
-Emptiness itself is form.
-
-And the same goes for sensation _[vedana]_, perception _[samjna]_, conditioning force _[sankhara]_ and consciousness _[vijnana]_.
-
-Here, Sariputra, all dharmas have the mark of emptiness. And this emptiness does not originate, is not extinguished, is not defiled, is not purified, does not decrease, does not increase.
-
-Therefore, Sariputra, in emptiness there is no form, no sensation, no perception, no conditioning forces, no consciousness;
-
-no eye, no ear, no nose, no tongue, no touch, no mind;
-
-no shape, no sound, no scent, no taste, no feel, no mind-object _[dharma]_;
-
-no eye-realm _[caksur-dhatu]_ and so on up to no realm of mind consciousness _[manovijnana-dhatu]_;
-
-no ignorance, no extinction of ignorance and so on up to no old-age-and-death and no extinction of old-age-and-death.
-
-There is no suffering, no arising of suffering, no cessation of suffering, no path;
-
-no knowledge _[ijnana]_, no attainment _[prapti]_ and no non-attainment.
-
-_[Conclusion]_
 
 Therefore, Sariputra, because there is no attainment the bodhisattva dwells in reliance on the Perfection of Wisdom, without mental obstruction 
 _[cittavarana]_. Without mental obstruction they are without fear, they have passed beyond error, and their destination is nirvana _[nistha-nirvana]_. 
 
 All the Buddhas of the three times have awakened _[abhisambuddha]_ to unexcelled perfect enlightenment _[anuttara-samyaksambodhi]_ by relying on the Perfection of Wisdom. Therefore the great mantra of the Perfection of Wisdom is to be known: the great spell (vidya) mantra, the supreme mantra, the mantra which is equal to the unequalled, the mantra which appeases all suffering.
 
-Because it is true, not false _[satyam amithyatvat]_, the mantra is spoken in the Perfection of Wisdom.
+| Because it is true, not false, |  _satyam amithyatvat_ |
+| the mantra is spoken in the Perfection of Wisdom. | &nbsp; |
 
 It goes: gate gateparagate parasamgate bodhi svaha.
+
+
+## Appendix
+
+Acronyms:
+- PHS : Prajnaparamita Hridaya Sutra
+- LPS : "Large Prajnaparamita Sutra". It is the _Pañcaviṃśatisāhasrikā prajñāpāramitā sutra_ a.k.a. "The 25,000-Line Perfection 
+of Wisdom Sutra".
+
+### LPS version of the core section
+
+According to Nattier's 1992 paper, the core part of the Heart Sutra _"from the first 'iha śāriputra' down to 'Na jñānam, na prāptir na-aprāptiḥ' was extracted from the Chinese translation of the Sanskrit Pañcaviṃśatisāhasrikā Prajñāpāramitā Sūtra or Perfection of Wisdom in 25,000 lines (see Conze's The Large Sutra on Perfect Wisdom, pg 61, section I 2.2c)_".
+
+Here is the translation in english of the section Nattier is refering to, by Conze:
+
+> Form is not one thing, and emptiness another;  
+> emptiness is not one thing, and form another.  
+> The very form is emptiness,  
+> the very emptiness is form.  
+> And so for feeling, etc.  
+> And that emptiness, that is neither produced nor stopped, is neither defiled nor purified, does not decrease or increase;  
+> and that which is neither produced nor stopped, neither defiled nor purified, neither decreased nor increased,  
+> that is not past, future, or present.  
+> There is no form in it, no feeling, etc.;  
+> no eye, etc. to: no mind;  
+> no form, etc, to: no mind-objects;  
+> no eye-element, etc. to: no mind-consciousness-element;  
+> no ignorance, no stopping of ignorance, etc. to : no decay and death, no stopping of decay and death;  
+> no suffering and no comprehension of suffering; no origination and no forsaking of origination; no stopping and no realization of stopping; no path and no development of the path;  
+> no attainment, and no reunion; no Streamwinner, and no fruit of a Streamwinner; etc. to: no Bodhisattva, and no knowledge of the modes of the path; no Buddha, and no enlightenment.
+
+#### Form is emptiness
+
+In particular, here's sanskrit from the PHS with its usual english translation:
+
+| English v1                           | PHS                        |
+| :----------------------------------- | :------------------------ |
+| Form is empty;                       | rupam sunyam              |
+| emptiness itself is form.            | sunyataiva rupam          |
+| Form is not distinct from emptiness; | rupan na prthak sunyata   |
+| emptiness is not distinct from form. | sunyataya na prthag rupam |
+
+And the sanskrit from the LPS, with another translation (the one I'm choosing to use).
+
+| LPS                      | English v2                                  |
+| :----------------------- | :------------------------------------------ |
+| anyad rupam anya sunyata | Form is not one thing and emptiness another |
+| nanya sunyatanyad rupam  | Emptiness is not one thing and form another |
+| rupam eva sunyata        | Form is emptiness                           |
+| sunyatva rupam           | Emptiness itself is form                    |
+
+Note: the lines are ordered differently between the two versions.
+
+#### Dharmas are marked by emptiness
+
+ALT: All dharmas are emptiness, without marks (tibetan)
+
+| English v1               | PHS        | LPS            | English v2              |
+| :----------------------- | :--------- | :------------- | :---------------------- |
+| They are non-originated, | anutpanna  | na utpaydyate  | [it] does not originate |
+| non-extinct,             | aniruddha  | na nirudhyate  | is not extinguished     |
+| non-defiled,             | amala      | na samklisyate | is not defiled          |
+| non-pure,                | avimala    | na vyavadayate | is not purified         |
+| non-decreasing,          | anuna      | na hiyate      | does not decrease       |
+| non-increasing.          | aparipurna | na vardhate    | does not increase.      |
 
 
 ## Study
 
 References:
-- The Heart Sutra A Chinese Apocryphal Text - Napier 1992
+- The Heart Sutra A Chinese Apocryphal Text - Nattier 1992
 - Fukui Fumimasa
 - Donald Lopez, The Heart Sutra Explained
 - David Eckel, John McRae
@@ -71,7 +127,7 @@ Studies, vol. 10, no. 2 (1987), pp. 69-79,
 - John R. McRae, "Ch'an Commentaries on the Heart Sutra: Preliminary Inferences on the Permutation of Chinese Buddhism," Journal of the International Association of Buddhist Studies, vol. 11, no. 2 (1988), pp. 87-115 \[[link](http://www.chanreads.org/wp-content/uploads/2022/07/Chan-Commentaries-on-the-Heart-Sutra-Preliminary-Inferences-on-the-Permutation-of-Chinese-Buddhism-John-R.-McRae-chanreads.org_.pdf)\]
 
 
-## Napier, 1992
+## Nattier, 1992
 
 An additional factor has been the understandable propensity of Buddhist specialists to approach the 
 text either in its Sanskrit versions (with occasional reference to the 
@@ -230,46 +286,4 @@ readily apparent.
 
 
 ### appendix
-
-Pañcaviṃśatisāhasrikā prajñāpāramitā sutra ('The 25,000-Line Perfection 
-of Wisdom Sutra").
-
-> This core part from the first "iha śāriputra" down to "Na jñānam, na prāptir na-aprāptiḥ" was extracted from the Chinese translation of the Sanskrit Pañcaviṃśatisāhasrikā Prajñāpāramitā Sūtra or Perfection of Wisdom in 25,000 lines (see Conze's The Large Sutra on Perfect Wisdom, pg 61, section I 2.2c).
-
-> Form is not one thing, and emptiness another;
- emptiness is not one thing, and form another. The very form is emptiness,
- the very emptiness is form. And so for feeling, etc.
- 12,2c. INSTRUCTIONS ABOUT THE TRUTH OF STOPPING.
- (CI) And that emptiness, that is neither produced nor stopped, is
- neither defiled nor purified, does not decrease or increase; and that which
- is neither produced nor stopped, neither defiled nor purified, neither
- decreased nor increased, that is not past, future, or present. (II) There
- is no form in it, no feeling, etc.; no eye, etc. to: no mind; no form, etc,
- to: no mind-objects; no eye-element, etc. to: no mind-consciousness
-element ; no ignorance, no stopping of ignorance, etc. to : (P47) no decay
- and death, no stopping of decay and death; no suffering and no com
-prehension of suffering; no origination and no forsaking of origination;
- no stopping and no realization of stopping; no path and no development
- of the path; no attainment, and no reunion; no Streamwinner, and no
- fruit of a Streamwinner; etc. to: no Bodhisattva, and no knowledge of
- the modes of the path; no Buddha, and no enlightenment. 
-
-
-| English                              | SHS                       | SLS                      | English v2                                  |
-| :----------------------------------- | :------------------------ | :----------------------- | :------------------------------------------ |
-| Form is not distinct from emptiness; | rupan na prthak sunyata   | anyad rupam anya sunyata | Form is not one thing and emptiness another |
-| emptiness is not distinct from form. | sunyataya na prthag rupam | nanya sunyatanyad rupam  | Emptiness is not one thing and form another |
-| Form is empty;                       | rupam sunyam              | rupam eva sunyata        | Form is emptiness                           |
-| emptiness itself is form.            | sunyataiva rupam          | sunyatva rupam           | Emptiness itself is form                    |
-
-ALT: All dharmas are emptiness, without marks (tibetan)
-
-| English                  | SHS        | LHS            | English v2              |
-| :----------------------- | :--------- | :------------- | :---------------------- |
-| They are non-originated, | anutpanna  | na utpaydyate  | [it] does not originate |
-| non-extinct,             | aniruddha  | na nirudhyate  | is not extinguished     |
-| non-defiled,             | amala      | na samklisyate | is not defiled          |
-| non-pure,                | avimala    | na vyavadayate | is not purified         |
-| non-decreasing,          | anuna      | na hiyate      | does not decrease       |
-| non-increasing.          | aparipurna | na vardhate    | does not increase.      |
 
