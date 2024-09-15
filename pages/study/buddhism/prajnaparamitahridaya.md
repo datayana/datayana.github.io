@@ -7,6 +7,7 @@ permalink: /pages/study/buddhism/prajnaparamitahridaya/
 ## Text
 
 _Note: decomposed and recomposed from various translations by comparative study._
+
 | Text                                                                                                                                             | Annotations                                                                              |
 | :----------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------- |
 | &nbsp;                                                                                                                                           | Introduction                                                                             |
@@ -65,7 +66,7 @@ of Wisdom Sutra".
 
 ### A. LPS version of the core section
 
-According to Nattier's 1992 paper, the core part of the Heart Sutra _"from the first 'iha śāriputra' down to 'Na jñānam, na prāptir na-aprāptiḥ' was extracted from the Chinese translation of the Sanskrit Pañcaviṃśatisāhasrikā Prajñāpāramitā Sūtra or Perfection of Wisdom in 25,000 lines (see Conze's The Large Sutra on Perfect Wisdom, pg 61, section I 2.2c)_".
+According to Nattier's 1992 paper, the core part of the Heart Sutra from the first 'iha śāriputra' down to 'Na jñānam, na prāptir na-aprāptiḥ' was extracted from the Chinese translation of the Sanskrit Pañcaviṃśatisāhasrikā Prajñāpāramitā Sūtra or Perfection of Wisdom in 25,000 lines (see Conze's The Large Sutra on Perfect Wisdom, pg 61, section I 2.2c).
 
 Here is the translation in english of the section Nattier is refering to, by Conze:
 
