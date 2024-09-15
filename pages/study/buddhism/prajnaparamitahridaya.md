@@ -7,42 +7,42 @@ permalink: /pages/study/buddhism/prajnaparamitahridaya/
 ## Text
 
 _Note: decomposed and recomposed from various translations by comparative study._
-| Text                                                                                                                               | Annotations                                           |
-| :--------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------- |
-| &nbsp;                                                                                                                             | _[Introduction]_                                      |
-| The noble Avalokitesvara Bodhisattva,                                                                                              | &nbsp;                                                |
-| while practicing the deep practice of Prajnaparamita,                                                                              | &nbsp;                                                |
-| looked down,                                                                                                                       | _vyavalokayatisma_                                    |
-| and regarded the five aggregates as empty.                                                                                         | _skandhas_                                            |
-| &nbsp;                                                                                                                             | _[Core]_                                              |
-| Here, Sariputra,                                                                                                                   | See [Appendix A.](#a-lps-version-of-the-core-section) |
-| Form is not one thing and emptiness another,                                                                                       | See [Appendix B.](#b-form-is-emptiness)               |
-| Emptiness is not one thing and form another.                                                                                       | &nbsp;                                                |
-| Form itself is emptiness,                                                                                                          | &nbsp;                                                |
-| Emptiness itself is form.                                                                                                          | &nbsp;                                                |
-| And the same goes for sensation, perception, conditioning force and consciousness.                                                 | _vedana_, _samjna_, _sankhara_, _vijnana_             |
-| Here, Sariputra, all dharmas have the mark of emptiness.                                                                           | nbsp;                                                 |
-| And this emptiness does not originate, is not extinguished, is not defiled, is not purified, does not decrease, does not increase. | See [Appendix C.](#c-dharmas-are-marked-by-emptiness) |
-| Therefore, Sariputra,                                                                                                              | &nbsp;                                                |
-| in emptiness there is no form, no sensation, no perception, no conditioning forces, no consciousness;                              | _rupa_, _vedana_, _samjna_, _sankhara_, _vijnana_     |
-| no eye, no ear, no nose, no tongue, no touch, no mind;                                                                             | &nbsp;                                                |
-| no shape, no sound, no scent, no taste, no feel, no mind-object;                                                                   | _[dharma]_                                            |
-| no eye-realm and so on up to no realm of mind consciousness;                                                                       | _[caksur-dhatu]_ ... _[manovijnana-dhatu]_            |
-| no ignorance, no extinction of ignorance and so on up to no old-age-and-death and no extinction of old-age-and-death.              | &nbsp;                                                |
-| There is no suffering, no arising of suffering, no cessation of suffering, no path;                                                | four truths                                           |
-| no knowledge, no attainment and no non-attainment.                                                                                 | _[ijnana]_, _[prapti]_                                |
-| &nbsp;                                                                                                                             | _[Conclusion]_                                        |
-
-
-Therefore, Sariputra, because there is no attainment the bodhisattva dwells in reliance on the Perfection of Wisdom, without mental obstruction 
-_[cittavarana]_. Without mental obstruction they are without fear, they have passed beyond error, and their destination is nirvana _[nistha-nirvana]_. 
-
-All the Buddhas of the three times have awakened _[abhisambuddha]_ to unexcelled perfect enlightenment _[anuttara-samyaksambodhi]_ by relying on the Perfection of Wisdom. Therefore the great mantra of the Perfection of Wisdom is to be known: the great spell (vidya) mantra, the supreme mantra, the mantra which is equal to the unequalled, the mantra which appeases all suffering.
-
-| Because it is true, not false, |  _satyam amithyatvat_ |
-| the mantra is spoken in the Perfection of Wisdom. | &nbsp; |
-
-It goes: gate gateparagate parasamgate bodhi svaha.
+| Text                                                                                                                                             | Annotations                                                                              |
+| :----------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------- |
+| &nbsp;                                                                                                                                           | Introduction                                                                             |
+| The noble Avalokitesvara Bodhisattva,                                                                                                            | &nbsp;                                                                                   |
+| while practicing the deep practice of Prajnaparamita,                                                                                            | &nbsp;                                                                                   |
+| looked down,                                                                                                                                     | _vyavalokayatisma_                                                                       |
+| and regarded the five aggregates as empty.                                                                                                       | _skandhas_                                                                               |
+| &nbsp;                                                                                                                                           | Core                                                                                     |
+| Here, Sariputra,                                                                                                                                 | See [Appendix A.](#a-lps-version-of-the-core-section)                                    |
+| Form is not one thing and emptiness another,                                                                                                     | See [Appendix B.](#b-form-is-emptiness)                                                  |
+| Emptiness is not one thing and form another.                                                                                                     | &nbsp;                                                                                   |
+| Form itself is emptiness,                                                                                                                        | &nbsp;                                                                                   |
+| Emptiness itself is form.                                                                                                                        | &nbsp;                                                                                   |
+| And the same goes for sensation, perception, conditioning force and consciousness.                                                               | _vedana_, _samjna_, _sankhara_, _vijnana_                                                |
+| Here, Sariputra, all dharmas have the mark of emptiness.                                                                                         | nbsp;                                                                                    |
+| And this emptiness does not originate, is not extinguished, is not defiled, is not purified, does not decrease, does not increase.               | See [Appendix C.](#c-dharmas-are-marked-by-emptiness)                                    |
+| Therefore, Sariputra,                                                                                                                            | &nbsp;                                                                                   |
+| in emptiness there is no form, no sensation, no perception, no conditioning forces, no consciousness;                                            | _pañcaskandha_ (five aggregates: _rupa_, _vedana_, _samjna_, _sankhara_, _vijnana_)      |
+| no eye, no ear, no nose, no tongue, no touch, no mind;                                                                                           | _ṣaḍāyatana_ (six "senses" or _indriya_)                                                 |
+| no shape, no sound, no scent, no taste, no feel, no mind-object;                                                                                 | _ṣaḍāyatana_ continued (six objects of consciousness)                                    |
+| no eye-realm and so on up to no realm of mind consciousness;                                                                                     | six _dhatu_ (_caksur-dhatu_ ... _manovijnana-dhatu_)                                     |
+| no ignorance, no extinction of ignorance and so on up to no old-age-and-death and no extinction of old-age-and-death.                            | _pratītyasamutpāda_ (twelve factors of dependent arising)                                |
+| There is no suffering, no arising of suffering, no cessation of suffering, no path;                                                              | _catvaryāryasatyāni_ (four noble truths)                                                 |
+| no knowledge, no attainment and no non-attainment.                                                                                               | _ijnana_, _prapti_                                                                       |
+| &nbsp;                                                                                                                                           | Conclusion                                                                               |
+| Therefore, Sariputra, because there is no attainment the bodhisattva dwells in reliance on the Perfection of Wisdom, without mental obstruction. | mental obstruction: _cittavarana_                                                        |
+| Without mental obstruction they are without fear, they have passed beyond error, and their destination is nirvana.                               | their destination is nirvana: _nistha-nirvana_                                           |
+| All the Buddhas of the three times have awakened to unexcelled perfect enlightenment by relying on the Perfection of Wisdom.                     | awakened : _abhisambuddha_, unexcelled perfect enlightenment : _anuttara-samyaksambodhi_ |
+| Therefore the great mantra of the Perfection of Wisdom is to be known:                                                                           | &nbsp;                                                                                   |
+| the great spell (vidya) mantra,                                                                                                                  | &nbsp;                                                                                   |
+| the supreme mantra,                                                                                                                              | &nbsp;                                                                                   |
+| the mantra which is equal to the unequalled,                                                                                                     | &nbsp;                                                                                   |
+| the mantra which appeases all suffering.                                                                                                         | &nbsp;                                                                                   |
+| Because it is true, not false,                                                                                                                   | _satyam amithyatvat_                                                                     |
+| the mantra is spoken in the Perfection of Wisdom.                                                                                                | &nbsp;                                                                                   |
+| It goes: gate gateparagate parasamgate bodhi svaha.                                                                                              | &nbsp;                                                                                   |
 
 
 ## Bibliography
