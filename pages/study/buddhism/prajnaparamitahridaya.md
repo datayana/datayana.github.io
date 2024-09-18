@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Prajnaparamirahridaya aka the Heart Sutra
+title: Prajnaparamitahridaya aka the Heart Sutra
 permalink: /pages/study/buddhism/prajnaparamitahridaya/
 ---
 
