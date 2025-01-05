@@ -4,25 +4,25 @@ title: Prajnaparamitahridaya aka the Heart Sutra
 permalink: /pages/study/buddhism/prajnaparamitahridaya/
 ---
 
-## Text
+In this page, I am putting out my own english version of the sutra. It was decomposed and recomposed from various translations by comparative study. But it should not be taken as a reference text, or a particularly savant translation (it is not!). It is just a personal one. I invite everyone to do the same and look at this text less as a sutra and more as a [dharani](https://en.wikipedia.org/wiki/Dharani).
 
-_Note: decomposed and recomposed from various translations by comparative study._
+## Text
 
 | Text                                                                                                                                             | Annotations                                                                              |
 | :----------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------- |
-| &nbsp;                                                                                                                                           | Introduction                                                                             |
+| &nbsp;                                                                                                                                           | -- Introduction --                                                                             |
 | The noble Avalokitesvara Bodhisattva,                                                                                                            | &nbsp;                                                                                   |
 | while practicing the deep practice of Prajnaparamita,                                                                                            | &nbsp;                                                                                   |
 | looked down,                                                                                                                                     | _vyavalokayatisma_                                                                       |
-| and regarded the five aggregates as empty.                                                                                                       | _skandhas_                                                                               |
-| &nbsp;                                                                                                                                           | Core                                                                                     |
+| and regarded the five aggregates as empty.                                                                                                       | aggregates: _skandhas_                                                                               |
+| &nbsp;                                                                                                                                           | -- Core --                                                                                    |
 | Here, Sariputra,                                                                                                                                 | See [Appendix A.](#a-lps-version-of-the-core-section)                                    |
 | Form is not one thing and emptiness another,                                                                                                     | See [Appendix B.](#b-form-is-emptiness)                                                  |
 | Emptiness is not one thing and form another.                                                                                                     | &nbsp;                                                                                   |
 | Form itself is emptiness,                                                                                                                        | &nbsp;                                                                                   |
 | Emptiness itself is form.                                                                                                                        | &nbsp;                                                                                   |
 | And the same goes for sensation, perception, conditioning force and consciousness.                                                               | _vedana_, _samjna_, _sankhara_, _vijnana_                                                |
-| Here, Sariputra, all dharmas have the mark of emptiness.                                                                                         | nbsp;                                                                                    |
+| Here, Sariputra, all dharmas have the mark of emptiness.                                                                                         | &nbsp;                                                                                    |
 | And this emptiness does not originate, is not extinguished, is not defiled, is not purified, does not decrease, does not increase.               | See [Appendix C.](#c-dharmas-are-marked-by-emptiness)                                    |
 | Therefore, Sariputra,                                                                                                                            | &nbsp;                                                                                   |
 | in emptiness there is no form, no sensation, no perception, no conditioning forces, no consciousness;                                            | _pañcaskandha_ (five aggregates: _rupa_, _vedana_, _samjna_, _sankhara_, _vijnana_)      |
@@ -32,7 +32,7 @@ _Note: decomposed and recomposed from various translations by comparative study.
 | no ignorance, no extinction of ignorance and so on up to no old-age-and-death and no extinction of old-age-and-death.                            | _pratītyasamutpāda_ (twelve factors of dependent arising)                                |
 | There is no suffering, no arising of suffering, no cessation of suffering, no path;                                                              | _catvaryāryasatyāni_ (four noble truths)                                                 |
 | no knowledge, no attainment and no non-attainment.                                                                                               | _ijnana_, _prapti_                                                                       |
-| &nbsp;                                                                                                                                           | Conclusion                                                                               |
+| &nbsp;                                                                                                                                           | -- Conclusion --                                                                               |
 | Therefore, Sariputra, because there is no attainment the bodhisattva dwells in reliance on the Perfection of Wisdom, without mental obstruction. | mental obstruction: _cittavarana_                                                        |
 | Without mental obstruction they are without fear, they have passed beyond error, and their destination is nirvana.                               | their destination is nirvana: _nistha-nirvana_                                           |
 | All the Buddhas of the three times have awakened to unexcelled perfect enlightenment by relying on the Perfection of Wisdom.                     | awakened : _abhisambuddha_, unexcelled perfect enlightenment : _anuttara-samyaksambodhi_ |
@@ -60,7 +60,7 @@ _Note: decomposed and recomposed from various translations by comparative study.
 ## Appendix
 
 Acronyms:
-- PHS : Prajnaparamita Hridaya Sutra
+- HS : Prajnaparamita Hridaya Sutra
 - LPS : "Large Prajnaparamita Sutra". It is the _Pañcaviṃśatisāhasrikā prajñāpāramitā sutra_ a.k.a. "The 25,000-Line Perfection 
 of Wisdom Sutra".
 
@@ -88,9 +88,9 @@ Here is the translation in english of the section Nattier is refering to, by Con
 
 ### B. Form is emptiness
 
-In particular, here's sanskrit from the PHS with its usual english translation:
+In particular, here's sanskrit from the HS with its usual english translation:
 
-| English v1                           | PHS                       |
+| English v1                           | HS                       |
 | :----------------------------------- | :------------------------ |
 | Form is empty;                       | rupam sunyam              |
 | emptiness itself is form.            | sunyataiva rupam          |
@@ -116,7 +116,7 @@ Regarding this passage starting with _"Here, Sariputra, all dharmas have the mar
 
 I chose to use an LPS-based rendition of the text. Instead of "dharmas have the mark of emptiness, they (dharmas) are non-originated", using "dharmas have the mark of emptines; and this emptiness does not originate":
 
-| English v1               | PHS        | LPS            | English v2              |
+| English v1               | HS        | LPS            | English v2              |
 | :----------------------- | :--------- | :------------- | :---------------------- |
 | They are non-originated, | anutpanna  | na utpaydyate  | [it] does not originate |
 | non-extinct,             | aniruddha  | na nirudhyate  | is not extinguished     |
